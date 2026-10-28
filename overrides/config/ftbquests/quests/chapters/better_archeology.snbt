@@ -1,0 +1,441 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "better_archeology"
+	group: "609C3E0A9575DD77"
+	id: "17357627B2D94A92"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "559B0A77E01EBF54"
+			subtitle: "If you want to do complex archeology, you will need a better brush."
+			tasks: [
+				{
+					id: "0612E5088A580DBF"
+					item: {
+						Count: 1
+						id: "betterarcheology:iron_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					title: "Obtain an iron brush"
+					type: "item"
+				}
+				{
+					id: "58A69DF57718955B"
+					item: {
+						Count: 1
+						id: "betterarcheology:diamond_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69F36F53CA363E30"
+					item: {
+						Count: 1
+						id: "betterarcheology:netherite_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&2&lBrushes"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["55F3C81F405767CF"]
+			id: "2B5176F497ED676E"
+			subtitle: "There are structures aplenty. You want to find fossils? Find a structure first."
+			tasks: [
+				{
+					id: "74242AC1BA354096"
+					structure: "betterarcheology:archeologist_camp_grassy"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "4F7E257EEC594B6E"
+					structure: "betterarcheology:archeologist_camp_redsand"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "3810F30F257518B2"
+					structure: "betterarcheology:archeologist_camp_sand"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "164A64D82FFB39FF"
+					structure: "betterarcheology:buried_ruins_sand"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "0FB5731ED131323D"
+					structure: "betterarcheology:catacombs"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "253CC26976ED957E"
+					structure: "betterarcheology:desert_obelisk"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "57B63B0F8A5A8808"
+					structure: "betterarcheology:fossil_chicken"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "363A3E1DFAEECE09"
+					structure: "betterarcheology:fossil_chicken_birch"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "4F28CADA2475B09E"
+					structure: "betterarcheology:fossil_creeper"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "4005FD327EAB07FF"
+					structure: "betterarcheology:fossil_jungle_0"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "47C9EE93B5CAA76A"
+					structure: "betterarcheology:fossil_jungle_1"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "27A35CB8B21D4BBE"
+					structure: "betterarcheology:fossil_sheep_0"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "66433A13BD918E29"
+					structure: "betterarcheology:fossil_wolf"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "70F7AFC171D92441"
+					structure: "betterarcheology:light_temple"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "63F093DCF8304DFD"
+					structure: "betterarcheology:mesa_ruins"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "1A7F433A44A67CE2"
+					structure: "betterarcheology:mott"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "7E049F2FF327DEA3"
+					structure: "betterarcheology:ruins_sand"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "690C20344B484AB2"
+					structure: "betterarcheology:stonehenge_grassy"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "5099F35C2573ED4B"
+					structure: "betterarcheology:temple_jungle"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "7223D3299977C79D"
+					structure: "betterarcheology:underwater_0"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "4BF70F7752DE3352"
+					structure: "betterarcheology:underwater_1"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "6B0A25800B8A3290"
+					structure: "betterarcheology:underwater_3"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+				{
+					id: "3AF4A1E1A0B9EB3D"
+					structure: "betterarcheology:villager_grave"
+					title: "Find archeology structures"
+					type: "structure"
+				}
+			]
+			title: "&2&lFind An Archeology Structure"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["559B0A77E01EBF54"]
+			id: "55F3C81F405767CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "19A727C731E35DEB"
+				table_id: 5699529449623842498L
+				type: "choice"
+			}]
+			shape: "hexagon"
+			size: 1.8d
+			subtitle: "Archeology tables are useful for discovering unidentified artifacts."
+			tasks: [{
+				id: "6AF7F5A0F138BAFD"
+				title: "Place an archeology table"
+				type: "custom"
+			}]
+			title: "&2&lArcheology Table"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2B5176F497ED676E"]
+			id: "21A45D5437110612"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C4F644770D39754"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			shape: "hexagon"
+			size: 1.4d
+			subtitle: "Artifact shards can be found in urns or chests of ruins and more."
+			tasks: [{
+				count: 5L
+				id: "0A2644E683FA044A"
+				item: { Count: 5, id: "betterarcheology:artifact_shards" }
+				title: "Obtain artifact shards"
+				type: "item"
+			}]
+			title: "&2&lArtifact Shards"
+			x: 2.1d
+			y: -3.5d
+		}
+		{
+			dependencies: ["21A45D5437110612"]
+			id: "4185DC8D6443B0D4"
+			subtitle: "You can craft an unidentified artifact by combining artifact shards."
+			tasks: [{
+				id: "7B0DB02DA4569082"
+				item: "betterarcheology:unidentified_artifact"
+				title: "Craft an unidentified artifact"
+				type: "item"
+			}]
+			title: "&2&lUnidentified Artifact"
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4185DC8D6443B0D4"]
+			id: "52BF20C9C5BC694C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2635D03BB28AFF04"
+				table_id: 5699529449623842498L
+				type: "choice"
+			}]
+			subtitle: "You can use the archeology table to identify artifacts and obtain powerful enchantment books!"
+			tasks: [
+				{
+					id: "01828758A34F43B4"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "betterarcheology:soaring_winds"
+								lvl: 1s
+							}]
+							display: {
+								Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02A52E340679A246"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "betterarcheology:tunneling"
+								lvl: 1s
+							}]
+							display: {
+								Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41EFD8C3424EF4E7"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "betterarcheology:penetrating_strike"
+								lvl: 1s
+							}]
+							display: {
+								Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&2&lIdentified Artifacts"
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2B5176F497ED676E"]
+			id: "001ED35DE0C59930"
+			rewards: [
+				{
+					id: "566A70BA85FED8FC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6FE87E8A71A358EF"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.6d
+			subtitle: "Fossils can be found in the dirt of certain ruins and structures. Combine a head and a body to get the full one!"
+			tasks: [
+				{
+					id: "289664F49BF9C56F"
+					item: "betterarcheology:creeper_fossil"
+					type: "item"
+				}
+				{
+					id: "00770B1E9CB5AB8F"
+					item: "betterarcheology:villager_fossil"
+					type: "item"
+				}
+				{
+					id: "016CDAD867283420"
+					item: "betterarcheology:chicken_fossil"
+					type: "item"
+				}
+				{
+					id: "3656C9CEB885C89F"
+					item: "betterarcheology:ocelot_fossil"
+					type: "item"
+				}
+				{
+					id: "302BA7F29BB1303B"
+					item: "betterarcheology:wolf_fossil"
+					type: "item"
+				}
+				{
+					id: "549BFDAB803C71E6"
+					item: "betterarcheology:sheep_fossil"
+					type: "item"
+				}
+				{
+					id: "5D38596F26535C4C"
+					item: "betterarcheology:guardian_fossil_head"
+					type: "item"
+				}
+			]
+			title: "&2&lFossils"
+			x: 0.0d
+			y: -4.8d
+		}
+		{
+			dependencies: [
+				"001ED35DE0C59930"
+				"52BF20C9C5BC694C"
+			]
+			id: "7E666146249F5F32"
+			rewards: [{
+				id: "16BA3C13BD14CA69"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Can you find every single fossil?"
+			tasks: [
+				{
+					id: "402CB39E877B8C60"
+					item: "betterarcheology:creeper_fossil"
+					type: "item"
+				}
+				{
+					id: "3B8212B3BEC2C98C"
+					item: "betterarcheology:villager_fossil"
+					type: "item"
+				}
+				{
+					id: "2DF15931E33264A4"
+					item: "betterarcheology:chicken_fossil"
+					type: "item"
+				}
+				{
+					id: "5520D45F23433F03"
+					item: "betterarcheology:ocelot_fossil"
+					type: "item"
+				}
+				{
+					id: "4092BEE3A3A7B182"
+					item: "betterarcheology:wolf_fossil"
+					type: "item"
+				}
+				{
+					id: "0E512FB8D7973283"
+					item: "betterarcheology:sheep_fossil"
+					type: "item"
+				}
+				{
+					id: "654C32790F6FEDC0"
+					item: "betterarcheology:guardian_fossil_head"
+					type: "item"
+				}
+			]
+			title: "&2&lMaster Of Fossils"
+			x: 1.5d
+			y: -6.0d
+		}
+	]
+	title: "Better Archeology"
+}

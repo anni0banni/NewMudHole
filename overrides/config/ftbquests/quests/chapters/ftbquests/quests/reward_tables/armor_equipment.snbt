@@ -1,0 +1,90 @@
+{
+	icon: "dummmmmmy:target_dummy"
+	id: "1AE36120DB19715D"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:chainmail_chestplate"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:mending"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:turtle_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "minecraft:diamond_horse_armor" }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ageofweapons:shield_iron"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ageofweapons:ninja_chestplate"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:protection"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:xivcenturyknight_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Armor Equipment"
+}

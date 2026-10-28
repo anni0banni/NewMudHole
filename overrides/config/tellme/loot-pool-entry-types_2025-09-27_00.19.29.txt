@@ -1,0 +1,17 @@
+-------------
+Registry name
+-------------
+dyenamicsandfriends:optional_loot_item
+libx:all
+minecraft:alternatives
+minecraft:dynamic
+minecraft:empty
+minecraft:group
+minecraft:item
+minecraft:loot_table
+minecraft:sequence
+minecraft:tag
+moonlight:optional_item
+-------------
+Registry name
+-------------

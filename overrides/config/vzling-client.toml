@@ -1,0 +1,11 @@
+
+[Client]
+	#Shake the camera
+	cameraShake = true
+	#Zoom the camera
+	cameraZoom = true
+	#Use custom boss bars
+	customBossBar = true
+	#Play boss music
+	bossMusic = true
+

@@ -1,0 +1,33 @@
+-------------
+Registry name
+-------------
+aether:crystal_tree_trunk_placer
+aether:golden_oak_trunk_placer
+aether_redux:blightwillow_trunk
+aether_redux:genesis_hooked_trunk_placer
+aether_redux:genesis_skinny_hooked_trunk_placer
+aether_redux:int_provider_trunk
+deep_aether:sunroot_trunk_placer
+deep_aether:twin_trunk_placer
+deep_aether:yagroot_trunk_placer
+graveyard:tg_oak_tree_trunk_placer
+minecraft:bending_trunk_placer
+minecraft:cherry_trunk_placer
+minecraft:dark_oak_trunk_placer
+minecraft:fancy_trunk_placer
+minecraft:forking_trunk_placer
+minecraft:giant_trunk_placer
+minecraft:mega_jungle_trunk_placer
+minecraft:straight_trunk_placer
+minecraft:upwards_branching_trunk_placer
+mythicbotany:shattered_trunk
+phantasm:pream_trunk_placer
+quark:multi_foliage_straight_trunk_placer
+rats:thick_branching_trunk_placer
+twilightforest:branching_trunk_placer
+twilightforest:trunk_mover_upper
+undergarden:single_forking_trunk_placer
+undergarden:smogstem_trunk_placer
+-------------
+Registry name
+-------------

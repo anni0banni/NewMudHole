@@ -1,0 +1,14 @@
+{
+	icon: "farmersdelight:cooking_pot"
+	id: "4F18CBD647B4EEC2"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 32, item: "minecraft:baked_potato" }
+		{ count: 32, item: "minecraft:apple" }
+		{ count: 32, item: "minecraft:cooked_salmon" }
+		{ count: 16, item: "minecraft:cooked_beef" }
+		{ count: 16, item: "minecraft:cooked_mutton" }
+	]
+	title: "Food"
+}

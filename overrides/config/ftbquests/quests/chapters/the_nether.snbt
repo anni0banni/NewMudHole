@@ -1,0 +1,224 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_nether"
+	group: "31003EF7C501612F"
+	id: "4A1516A1E7C4BCC3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3670BA42779C6966"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "081DCADD5BB78E97"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "The nether is a hellish dimension. Will you enter it?"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:nether_wart_block"
+				id: "7A64F5A203043B10"
+				title: "Enter the Nether"
+				type: "dimension"
+			}]
+			title: "&3&lEnter The Nether"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3670BA42779C6966"]
+			id: "7C351BE0970579D9"
+			rewards: [
+				{
+					id: "656D83E38915E0AF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34809D09646C98E8"
+					table_id: 4535501826419328933L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.8d
+			subtitle: "Nether fortresses are important for gaining resources and more."
+			tasks: [{
+				icon: "minecraft:red_nether_bricks"
+				id: "3645CC43E07E2AFB"
+				structure: "minecraft:fortress"
+				title: "Find a nether fortress"
+				type: "structure"
+			}]
+			title: "&3&lNether Fortress"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3670BA42779C6966"]
+			id: "61EC43334BDAAB7C"
+			rewards: [
+				{
+					id: "7CBD251AD0FEDA6D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "41D74BFE1946D1C2"
+					table_id: 5699529449623842498L
+					type: "random"
+				}
+			]
+			subtitle: "You can use lava fishing rods to fish in lava!"
+			tasks: [{
+				id: "72DBDE7A7A919A97"
+				item: {
+					Count: 1
+					id: "netherdepthsupgrade:lava_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Obtain a lava fishing rod"
+				type: "item"
+			}]
+			title: "&3&lLava Fishing!"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C351BE0970579D9"]
+			icon: "minecraft:polished_blackstone_bricks"
+			id: "0DEFB92E14569A09"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "762175B3CD002766"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51073E1F9C6B9C42"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			subtitle: "The great fortresses of the nether are waiting to be conquered!"
+			tasks: [
+				{
+					id: "5147A6B457722793"
+					structure: "bygonenether:catacomb"
+					title: "Find a catacomb"
+					type: "structure"
+				}
+				{
+					id: "3FF286D7094F1911"
+					structure: "bygonenether:citadel"
+					title: "Find a citadel"
+					type: "structure"
+				}
+				{
+					id: "6C39FD57A2417F2F"
+					structure: "bygonenether:piglin_manor"
+					title: "Find a piglin manor"
+					type: "structure"
+				}
+				{
+					id: "7D750C62DBD262DC"
+					structure: "minecraft:bastion_remnant"
+					title: "Find a bastion"
+					type: "structure"
+				}
+			]
+			title: "&3&lFind The Great Fortresses"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0DEFB92E14569A09"]
+			id: "75DEACFA95630B80"
+			rewards: [
+				{
+					id: "015E87CBD6F83A1B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "584C32BA51214974"
+					table_id: 2984437215509173013L
+					type: "random"
+				}
+			]
+			subtitle: "The hostile environments of the nether are a dangerous place. Can you visit every biome?"
+			tasks: [
+				{
+					advancement: "minecraft:nether/explore_nether"
+					criterion: ""
+					id: "626CB884D8B8F826"
+					title: "Find all nether biomes"
+					type: "advancement"
+				}
+				{
+					biome: "netherexp:black_ice_glaciers"
+					icon: "minecraft:netherrack"
+					id: "77684C8DF4061D6F"
+					title: "Find the black ice glaciers"
+					type: "biome"
+				}
+				{
+					biome: "netherexp:exhaust_mire"
+					icon: "minecraft:netherrack"
+					id: "5CEBBF47196A2E10"
+					title: "Find the exhaust-mire"
+					type: "biome"
+				}
+				{
+					biome: "netherexp:sorrowsquash_pastures"
+					icon: "minecraft:netherrack"
+					id: "08ECFE5E668EAA51"
+					title: "Find the sorrowsquash pastures"
+					type: "biome"
+				}
+			]
+			title: "&3&lNether Biomes"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7C351BE0970579D9"]
+			id: "1C60B2F68C1EEABE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "122BE0B5E725417C"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5FA1E78690B4F3DE"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			subtitle: "Potions are powerful and useful."
+			tasks: [{
+				advancement: "minecraft:nether/brew_potion"
+				criterion: ""
+				id: "23BD1207570F6539"
+				title: "Brew a potion"
+				type: "advancement"
+			}]
+			title: "&3&lBrewing Potions"
+			x: -1.5d
+			y: -1.5d
+		}
+	]
+	title: "The Nether"
+}

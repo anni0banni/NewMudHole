@@ -1,0 +1,24 @@
+------------------------
+ID, Natural, Coord Scale
+------------------------
+minecraft:overworld, true, 1.0
+deeperdarker:otherside, true, 1.0
+callfromthedepth_:depth, false, 1.0
+undergarden:undergarden, true, 4.0
+theabyss:frost_world, true, 1.0
+minecraft:the_nether, false, 8.0
+graveyard:past, false, 1.0
+theabyss:the_abyss, true, 1.0
+blue_skies:everbright, true, 1.0
+theabyss:pocket_dimension, false, 1.0
+aether:the_aether, true, 1.0
+feywild:marketplace, true, 1.0
+mythicbotany:alfheim, true, 1.0
+twilightforest:twilight_forest_type, true, 0.125
+blue_skies:everdawn, true, 1.0
+minecraft:overworld, true, 1.0
+minecraft:the_end, false, 1.0
+theabyss:spectral_world, true, 1.0
+------------------------
+ID, Natural, Coord Scale
+------------------------

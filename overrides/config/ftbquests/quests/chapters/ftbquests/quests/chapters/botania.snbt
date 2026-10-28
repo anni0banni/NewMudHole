@@ -1,0 +1,599 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "botania"
+	group: "78B624749388DE0F"
+	id: "2197B12F0B9B2B52"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5EF547386D02107F"]
+			description: ["These &2flowers&r can be used with a &3petal apothecary. &rPick some to start!"]
+			id: "5588370D69235495"
+			rewards: [{
+				id: "5A9FFF689A220693"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "The very first step to becoming a &2Botanist&r is picking flowers."
+			tasks: [{
+				advancement: "botania:main/flower_pickup"
+				criterion: ""
+				id: "689BA7D483A2887D"
+				title: "Pick up a magic flower"
+				type: "advancement"
+			}]
+			title: "&5&lMana Flowers"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: ["Even though this is a guide for &2Botania&r, a lot of features will be left for you to discover on your own. Experiment with your new knowledge and read the guide to get a full understanding of &2Botania magic!"]
+			id: "57831425C108EE82"
+			rewards: [{
+				id: "718E81CAFC9B075E"
+				item: "botania:lexicon"
+				type: "item"
+			}]
+			shape: "hexagon"
+			subtitle: "The Lexica contains detailed information on every aspect of Botania."
+			tasks: [{
+				id: "0F148735DF78FF22"
+				title: "Click to get a Lexica Botania"
+				type: "checkmark"
+			}]
+			title: "&5&lLexica Botania"
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5588370D69235495"]
+			description: ["&2Petal Apothecaries&r can be used to make &2generating flowers. &rPlace one and give it some water to start creating &2flowers."]
+			id: "344764A5F4391AC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E0EEB87DDB8E5F4"
+				table_id: 5699529449623842498L
+				type: "choice"
+			}]
+			shape: "hexagon"
+			subtitle: "&2Petal Apothecaries&r can infuse &2plants &rwith &3magic."
+			tasks: [{
+				block: "botania:apothecary_default"
+				block_type: 0
+				id: "447940F4ABB319DD"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a Petal Apothecary"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&5&lPetal Apothecary"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["344764A5F4391AC8"]
+			description: ["&2Generating flowers&r come in all forms and shapes, but &2Endoflames or Hydroangeas&r are the most basic ones. Why not start with them?"]
+			id: "23F88A600DA14991"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E36EC96AB77554C"
+				table_id: 1404902952723356929L
+				type: "random"
+			}]
+			subtitle: "&2Generating Flowers&r are the key to becoming a powerful &2Botanist."
+			tasks: [{
+				advancement: "botania:main/generating_flower"
+				criterion: ""
+				id: "52B316EAF67ECBA5"
+				title: "Make a generating flower"
+				type: "advancement"
+			}]
+			title: "&5&lGenerating Flowers"
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["23F88A600DA14991"]
+			description: ["&3Living wood &ror &3living rock &rcan be created by placing them adjacent to a &2pure daisy."]
+			id: "21102EB9B06D44E0"
+			rewards: [{
+				id: "7B6199D776186CED"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "hexagon"
+			subtitle: "A key component to becoming a &2Botanist."
+			tasks: [
+				{
+					count: 10L
+					id: "57EAB7C3FB36B41F"
+					item: "botania:livingrock"
+					title: "Obtain livingrock with a pure daisy"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "23241E151BD4CA82"
+					item: "botania:livingwood_planks"
+					title: "Obtain living wood"
+					type: "item"
+				}
+			]
+			title: "&5&lLiving Material"
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["21102EB9B06D44E0"]
+			description: ["The &2Wand of the Forest&r can be used to display vital information on blocks like &3Mana pools &rand more."]
+			id: "24D799424BBB02E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "658A232302869FD9"
+				table_id: 4535501826419328933L
+				type: "random"
+			}]
+			subtitle: "This &3wand &ris useful for complex constructions."
+			tasks: [{
+				id: "5600818F45E19FB3"
+				item: {
+					Count: 1
+					id: "botania:twig_wand"
+					tag: {
+						color1: 0
+						color2: 0
+					}
+				}
+				title: "Obtain a Wand of the Forest"
+				type: "item"
+			}]
+			title: "&5&lWand Of The Forest"
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5588370D69235495"]
+			description: ["&2Flower pouches&r can be used to store up to one stack of each &2flower&r and adds them automatically once picked up."]
+			id: "112A21CEDC5C8738"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "297DA3A694F00479"
+				table_id: 5699529449623842498L
+				type: "random"
+			}]
+			subtitle: "Flower pouches are useful for storage."
+			tasks: [{
+				id: "091999E6ABA1D6A6"
+				item: "botania:flower_bag"
+				title: "Obtain a flower pouch"
+				type: "item"
+			}]
+			title: "&5&lFlower Pouch"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["57831425C108EE82"]
+			description: ["&3Mana&r is a form of energy that can be used for a great many things. You can &3generate mana&r with &2generating flowers&r, spread it with &3Mana spreaders&r and store it with &3Mana pools. &3Mana&r can be used with &2functional flowers!"]
+			id: "5EF547386D02107F"
+			shape: "hexagon"
+			subtitle: "Mana is a vital resource required to become a &2Botanist."
+			tasks: [{
+				id: "0B753B2577D1B0FC"
+				title: "Read"
+				type: "checkmark"
+			}]
+			title: "&5&lLection: Mana Manipulation"
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21102EB9B06D44E0"]
+			description: ["A &3Mana pool&r has the ability to store mana. It is required for every &2Botanist."]
+			id: "73FCBD5F22936934"
+			shape: "hexagon"
+			subtitle: "&3Mana pools&r store mana."
+			tasks: [{
+				block: "botania:mana_pool"
+				block_type: 0
+				id: "17336C6CA0B55C71"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a mana pool"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&5&lMana Pool"
+			x: 5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["21102EB9B06D44E0"]
+			id: "41C547F5DA36D430"
+			rewards: [
+				{
+					id: "0DA21B7D66BD1F1F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4192C781E14D0AB2"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&3Mana spreaders&r can be used to transport &3Mana&r from one point to another."
+			tasks: [{
+				block: "botania:mana_spreader"
+				block_type: 0
+				id: "3098B9AC3CD130B4"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a mana spreader"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&5&lMana Spreader"
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["73FCBD5F22936934"]
+			description: [
+				"&3Mana tablets&r are similar to &3Mana pools&r, except they can be used inside of your inventory. &2Botanist&r equipment can draw &3Mana&r "
+				"from it."
+			]
+			id: "3F0F8F44CDAFD4EB"
+			subtitle: "&3Mana Tablets &rare vital for &2Botanist&r equipment."
+			tasks: [{
+				id: "6DF5755010712AC9"
+				item: "botania:mana_tablet"
+				title: "Obtain a mana tablet"
+				type: "item"
+			}]
+			title: "&5&lMana Tablet"
+			x: 6.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["73FCBD5F22936934"]
+			description: ["&3Manastars&r can be used to display wether a &3Mana pool &ris getting drained or filled. "]
+			id: "2BA4CC0CD766F902"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "351FBB9866073A5F"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "&3Manastars&r are odd little things, though quite useful."
+			tasks: [{
+				id: "5A6A6175C08B86BA"
+				item: "botania:manastar"
+				title: "Obtain a manastar"
+				type: "item"
+			}]
+			title: "&5&lManastar"
+			x: 3.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["41C547F5DA36D430"]
+			description: ["You can equip &3Mana spreaders&r with &3lenses&r to alter their functions. For example, you can make &3Mana bursts&r damage creatures."]
+			id: "4490D5E920C38AFE"
+			min_required_tasks: 1
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BF059702F95C5B8"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "&3Lenses&r can be used to alter &3Mana spreaders."
+			tasks: [
+				{
+					id: "6D2B1B807E836046"
+					item: "botania:lens_normal"
+					type: "item"
+				}
+				{
+					id: "733A6FD39D13CC92"
+					item: "botania:lens_speed"
+					type: "item"
+				}
+				{
+					id: "6492B2D6953BC261"
+					item: "botania:lens_power"
+					type: "item"
+				}
+				{
+					id: "3696B5DA33AE5ED9"
+					item: "botania:lens_time"
+					type: "item"
+				}
+				{
+					id: "615C20377DD47358"
+					item: "botania:lens_efficiency"
+					type: "item"
+				}
+				{
+					id: "16F258210243F23B"
+					item: "botania:lens_bounce"
+					type: "item"
+				}
+				{
+					id: "0846498C4FFE6696"
+					item: "botania:lens_gravity"
+					type: "item"
+				}
+				{
+					id: "0DC9D0FD64817395"
+					item: "botania:lens_mine"
+					type: "item"
+				}
+				{
+					id: "19C57FECA0AD4FE5"
+					item: "botania:lens_damage"
+					type: "item"
+				}
+				{
+					id: "07B235A835A4032C"
+					item: "botania:lens_phantom"
+					type: "item"
+				}
+				{
+					id: "5F4D81397EFF5EFF"
+					item: "botania:lens_magnet"
+					type: "item"
+				}
+				{
+					id: "7F944F192CDEF16B"
+					item: "botania:lens_explosive"
+					type: "item"
+				}
+				{
+					id: "474F01FEC3881CE5"
+					item: "botania:lens_influence"
+					type: "item"
+				}
+				{
+					id: "56BE44DA10F00FDC"
+					item: "botania:lens_weight"
+					type: "item"
+				}
+				{
+					id: "2B9CFFDC68F033EC"
+					item: "botania:lens_paint"
+					type: "item"
+				}
+				{
+					id: "58ABC867D76511FA"
+					item: "botania:lens_fire"
+					type: "item"
+				}
+				{
+					id: "4B23CED42332F518"
+					item: "botania:lens_piston"
+					type: "item"
+				}
+				{
+					id: "6B8F31B4C23D9DA9"
+					item: "botania:lens_light"
+					type: "item"
+				}
+				{
+					id: "3786CA26F325D78E"
+					item: "botania:lens_warp"
+					type: "item"
+				}
+				{
+					id: "180BADC1288740A2"
+					item: "botania:lens_redirect"
+					type: "item"
+				}
+				{
+					id: "3E93E41860EA728E"
+					item: "botania:lens_firework"
+					type: "item"
+				}
+				{
+					id: "14E2FC882FE6AF39"
+					item: "botania:lens_flare"
+					type: "item"
+				}
+				{
+					id: "2D1F34E334422ECD"
+					item: "botania:lens_messenger"
+					type: "item"
+				}
+				{
+					id: "10ED9591D414AA06"
+					item: "botania:lens_tripwire"
+					type: "item"
+				}
+			]
+			title: "&5&lObtain A Lens"
+			x: 10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["41C547F5DA36D430"]
+			description: [
+				"&2Function flowers&r can have all sorts of effects: From damage over time to healing players or even reducing noise, you can "
+				"do anything with them. Just make sure there is a &3Mana pool&r nearby."
+			]
+			id: "13C6D9575406F488"
+			subtitle: "&2Functional flowers&r have different uses, but they consume &3Mana."
+			tasks: [{
+				advancement: "botania:main/functional_flower"
+				criterion: ""
+				id: "4A29CE3452A6C0AD"
+				title: "Make a functional flower"
+				type: "advancement"
+			}]
+			title: "&5&lFunctional Flowers"
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["41C547F5DA36D430"]
+			description: ["You can use a &3runic altar&r to create powerful and useful &3runes.&r Just put the components on the altar and drop a piece of livingrock nearby. If you then point a &3Mana spreader&r at it, your &2Wand&r will show how much progress has been made."]
+			id: "5B55A59299DDA91F"
+			rewards: [
+				{
+					id: "32FD58997CCAE1BC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BA4BDCC02C5A562"
+					table_id: 5699529449623842498L
+					type: "choice"
+				}
+			]
+			subtitle: "&3Runic Altars&r are complex blocks."
+			tasks: [{
+				advancement: "botania:main/rune_pickup"
+				criterion: ""
+				id: "6369491F01BE3DF3"
+				title: "Use a Runic Altar"
+				type: "advancement"
+			}]
+			title: "&5&lRunic Altar"
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["13C6D9575406F488"]
+			description: [
+				"&2Terrasteel&r ingots have many uses, but making them is quite complex. You will need a &2Terrestrial Agglomeration&r plate and a pattern."
+				"Further information can be found in the &2Lexica."
+			]
+			id: "5071C4E71F214E21"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18A16F6E51F76E5F"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "&2Terrasteel &ris a peculiar material with many uses."
+			tasks: [{
+				id: "217225600C1F6CB1"
+				item: "botania:terrasteel_ingot"
+				type: "item"
+			}]
+			title: "&5&lObtain Terrasteel Ingot"
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5071C4E71F214E21"]
+			description: [
+				"By combining &2livingwood, glimmering livingwood, an elven gateway core&r and &3mana pools, &ryou can open a &3portal&r to a different &3dimension. Sadly, the &3portal &rwon't be stable enough to allow for the transportation of living beings. You could, however, drop items"
+				"like your &2Lexica&r into the portal ..."
+			]
+			id: "72D1461FB542B2F3"
+			rewards: [
+				{
+					id: "035F7BD6AADB3CE9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "69B66E62CCED9A7C"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			subtitle: "You can enter the &2realm of the elves."
+			tasks: [{
+				advancement: "botania:main/elf_portal_open"
+				criterion: ""
+				id: "36A9B69CF946414D"
+				title: "Enter Alfheim"
+				type: "advancement"
+			}]
+			title: "&5&lEnter Alfheim"
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["344764A5F4391AC8"]
+			description: [
+				"&3Manaweave Armor &rmight not be very powerful, but it makes up for that with powerful effects: For example, it can repair itself with &3Mana&r from"
+				"your inventory."
+			]
+			id: "08956D584744A403"
+			rewards: [
+				{
+					id: "02E9758B7A757BE9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19FEF87F9057BADE"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			subtitle: "&3Manaweave Armor&r is a &2Botanist's &rarmor."
+			tasks: [{
+				advancement: "botania:main/manaweave_armor_craft"
+				criterion: ""
+				id: "0715164390F824E2"
+				title: "Obtain Manaweave Armor"
+				type: "advancement"
+			}]
+			title: "&5&lManaweave Armor"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["72D1461FB542B2F3"]
+			description: [
+				"You have mastered most of what &2Botania&r has to offer so far ... so now your guidance will end. As a last challenge, can you retrieve a "
+				"&3flügel tiera?"
+			]
+			id: "18152AFBF37B9FB6"
+			rewards: [
+				{
+					id: "5D5F9905B1863B5A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "232E9F5B7EBD348C"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "617DF6D22DF0457E"
+					table_id: 4655027388003733417L
+					type: "random"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			subtitle: "As a final testament of your skills, try to obtain a &3flügel tiara."
+			tasks: [{
+				advancement: "botania:main/tiara_wings"
+				criterion: ""
+				id: "5B969E2AB6F74CC1"
+				title: "Obtain a flügel tiara"
+				type: "advancement"
+			}]
+			title: "&5&lFlügel Tiara"
+			x: 5.0d
+			y: -5.0d
+		}
+	]
+	title: "Botania"
+}

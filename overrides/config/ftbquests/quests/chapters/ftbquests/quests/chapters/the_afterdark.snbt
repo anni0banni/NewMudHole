@@ -1,0 +1,171 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_afterdark"
+	group: "31003EF7C501612F"
+	id: "60C0FD0AEF3FF84F"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The &3Afterdark&r is a dark dimension with resources and enemies aplenty. Sometimes, you will find portals close to an &3ancient city&r. Interact"
+				"with them with a &3teleport catalyst&r to enter the &3Afterdark."
+			]
+			id: "5411DFF6D1A2610E"
+			subtitle: "The Afterdark is a dangerous, deadly dimension."
+			tasks: [{
+				dimension: "the_afterdark:afterdark"
+				icon: "the_afterdark:teleport_block"
+				id: "3C3DEC619279C05F"
+				title: "Visit the afterdark"
+				type: "dimension"
+			}]
+			title: "&3&lEnter The Afterdark"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5411DFF6D1A2610E"]
+			description: ["All of these biomes are terrible places, but they come with plenty of resources. "]
+			id: "607865F4ADFAF958"
+			rewards: [
+				{
+					id: "2103C8AE3A261E9E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "359A1DFFB7C14FC9"
+					table_id: 4655027388003733417L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			subtitle: "The Afterdark biomes are grim and odd."
+			tasks: [
+				{
+					biome: "the_afterdark:calcite_fields"
+					icon: "minecraft:sculk_catalyst"
+					id: "143EEDF52CE6AC88"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:creepy_snowfields"
+					icon: "minecraft:sculk_catalyst"
+					id: "00920C20010C8F3D"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:deep_afterdark"
+					icon: "minecraft:sculk_catalyst"
+					id: "364C4DE8787DCB9F"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:dripstone_deltas"
+					icon: "minecraft:sculk_catalyst"
+					id: "2AB3530939CFF73D"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:dying_drylands"
+					icon: "minecraft:sculk_catalyst"
+					id: "64B38500BA689D92"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:lush_gardens"
+					icon: "minecraft:sculk_catalyst"
+					id: "6842D3F7003F3154"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:prismarine_peaks"
+					icon: "minecraft:sculk_catalyst"
+					id: "758F89933059DA05"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "the_afterdark:prismarine_ponds"
+					icon: "minecraft:sculk_catalyst"
+					id: "6486D58C7F667C11"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "#the_afterdark:afterdark_biomes"
+					icon: "minecraft:sculk_catalyst"
+					id: "1E513E1C8B20EC55"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+				{
+					biome: "#the_afterdark:has_structure/teleport_altar"
+					icon: "minecraft:sculk_catalyst"
+					id: "4205D2425A1F0B20"
+					title: "Visit afterdark biomes"
+					type: "biome"
+				}
+			]
+			title: "&3&lAfterdark Tourist"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["607865F4ADFAF958"]
+			description: ["&3Diamonds&r are one of the most common resources of the Afterdark."]
+			id: "30DD95943C5E5B57"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A3A16D8806101C3"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "There are so many diamonds in this dimension ... how odd?"
+			tasks: [{
+				block: "minecraft:diamond_ore"
+				block_type: 0
+				checkItem: false
+				id: "681BC79C8EAB7115"
+				title: "Break diamond ore"
+				type: "questsadditions:break"
+				value: 10L
+			}]
+			title: "&3&lDiamond Ore"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["607865F4ADFAF958"]
+			id: "1A67F788CE0F6EFC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33F49EB2C72BCBBB"
+				table_id: 1404902952723356929L
+				type: "random"
+			}]
+			subtitle: "The Warden is an unsettling creature of the Afterdark. Slay it."
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "minecraft:sculk_shrieker"
+				id: "72D8B73D683FA448"
+				title: "Slay the Warden"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&3&lSlay The Warden"
+			x: 1.5d
+			y: -4.0d
+		}
+	]
+	title: "The Afterdark"
+}

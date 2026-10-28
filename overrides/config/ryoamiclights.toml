@@ -1,0 +1,134 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				allay = true
+				item = true
+				area_effect_cloud = true
+				armor_stand = true
+				arrow = true
+				axolotl = true
+				bat = true
+				bee = true
+				blaze = true
+				block_display = true
+				boat = true
+				camel = true
+				cat = true
+				cave_spider = true
+				chest_boat = true
+				chest_minecart = true
+				chicken = true
+				cod = true
+				command_block_minecart = true
+				cow = true
+				creeper = true
+				dolphin = true
+				enderman = true
+				glow_squid = true
+				furnace_minecart = true
+				hopper_minecart = true
+				spider = true
+				skeleton = true
+				rabbit = true
+				zombie = true
+				husk = true
+				zombie_villager = true
+				pig = true
+				item_frame = true
+				frog = true
+				salmon = true
+
+			[light_sources.settings.entities.rats]
+				rat = true
+				plague_doctor = true
+
+			[light_sources.settings.entities.enemyexpansion]
+				intruder = true
+				crawler = true
+				direwolf = true
+				sprinter = true
+				silverqueen = true
+				troll = true
+				meature = true
+				slugger = true
+
+			[light_sources.settings.entities.quark]
+				toretoise = true
+				stoneling = true
+
+			[light_sources.settings.entities.undead_revamp2]
+				thesomnolence = true
+				bomber = true
+				theskeeper = true
+				thedungeon = true
+				theheavy = true
+				invisiclogger = true
+				theordure = true
+
+			[light_sources.settings.entities.born_in_chaos_v1]
+				baby_skeleton = true
+				spiritof_chaos = true
+				restless_spirit = true
+				baby_spider = true
+				decaying_zombie = true
+				corpse_fly = true
+				skeleton_thrasher = true
+				fallen_chaos_knight = true
+				corpse_fish = true
+				dread_hound = true
+				zombie_lumberjack = true
+				skeleton_thrasher_not_despawn = true
+				supreme_bonescaller_not_despawn = true
+				bonescaller_not_despawn = true
+
+			[light_sources.settings.entities.monsterplus]
+				overgrown_skeleton = true
+				glow_skeleton = true
+				crystal_zombie = true
+
+			[light_sources.settings.entities.alexsmobs]
+				cockroach = true
+				blue_jay = true
+				catfish = true
+				raccoon = true
+				skunk = true
+				crow = true
+				terrapin = true
+
+			[light_sources.settings.entities.seadwellers]
+				mermorph_cavern = true
+				random_mermorph = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+
+			[light_sources.settings.entities.feywild]
+				dwarf_blacksmith = true
+
+			[light_sources.settings.entities.realmrpg_quests]
+				angler = true
+				monster_hunter = true
+
+			[light_sources.settings.entities.hexerei]
+				crow = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				dragonfly = true
+				koi_fish = true
+
+			[light_sources.settings.entities.ghosts]
+				ghost = true
+
+			[light_sources.settings.entities.neighborly]
+				duckley = true
+

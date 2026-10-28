@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_bumblezone"
+	group: "31003EF7C501612F"
+	id: "04B8AE1DDE2578D8"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["You can enter the &3Bumblezone&r by throwing an enderpearl at a bee hive. Leave by digging deep down."]
+			id: "75EFD9D712D13AF6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CA302B4420D2E2A"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "The Bumblezone is a bee dimension. Can you enter it?"
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: "minecraft:honeycomb_block"
+				id: "33720729837F7E48"
+				title: "Visit the Bumblezone"
+				type: "dimension"
+			}]
+			title: "&3&lEnter The Bumblezone"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C41327EA3941C54"]
+			id: "549B8EC1D89FCFF3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13C4023EF06DA69C"
+				table_id: 1404902952723356929L
+				type: "random"
+			}]
+			size: 1.2d
+			subtitle: "Can you visit every Bumblezone biome?"
+			tasks: [{
+				advancement: "the_bumblezone:biomes/discover_all_biomes"
+				criterion: ""
+				id: "16CDEEBE68223CD1"
+				title: "Visit all bumblezone biomes"
+				type: "advancement"
+			}]
+			title: "&3&lBumblezone Tourist"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2C41327EA3941C54"]
+			id: "031C5394DB0BCE70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2299C13693D48304"
+				table_id: 5699529449623842498L
+				type: "choice"
+			}]
+			subtitle: "Beehemoths can be tamed. You can use them to fly."
+			tasks: [{
+				advancement: "the_bumblezone:beehemoth/tamed_beehemoth"
+				criterion: ""
+				id: "4FC73D9BF31B04CB"
+				title: "Tame a beehemoth"
+				type: "advancement"
+			}]
+			title: "&3&lBeehemoth"
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["75EFD9D712D13AF6"]
+			id: "2C41327EA3941C54"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2956E48453494F4A"
+				table_id: 5699529449623842498L
+				type: "random"
+			}]
+			size: 1.2d
+			subtitle: "You can feed bees to get the protection effect. "
+			tasks: [{
+				advancement: "the_bumblezone:effects/getting_protection"
+				criterion: ""
+				id: "55457845ED7CB5E9"
+				title: "Feed a bee until you get the protection effect"
+				type: "advancement"
+			}]
+			title: "&3&lProtection"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["549B8EC1D89FCFF3"]
+			id: "2C4E271D7DD2C5AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B4F1EFCB388F1B4"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "Can you visit all of the Bumblezone structures?"
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_all_structures"
+				criterion: ""
+				id: "48A6EA4D939EBC3B"
+				title: "Visit every Bee Structure"
+				type: "advancement"
+			}]
+			title: "&3&lBumblezone Structures"
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2C4E271D7DD2C5AB"]
+			id: "1D9527FD00D21A0B"
+			rewards: [
+				{
+					id: "3BCFF62D0B0993A7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4998219519513C4B"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			size: 1.8d
+			subtitle: "Can you obtain a full set of bee armor?"
+			tasks: [{
+				advancement: "the_bumblezone:armor/warrior_bee"
+				criterion: ""
+				id: "6334B78E7869AE78"
+				title: "Obtain bee armor"
+				type: "advancement"
+			}]
+			title: "&3&lThe Bee Warrior"
+			x: 0.0d
+			y: -8.1d
+		}
+	]
+	title: "The Bumblezone"
+}

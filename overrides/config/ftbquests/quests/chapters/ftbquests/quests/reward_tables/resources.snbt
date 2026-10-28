@@ -1,0 +1,20 @@
+{
+	icon: "minecraft:chest"
+	id: "137F37CAC0F91D01"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 10, item: "minecraft:iron_ingot" }
+		{ count: 3, item: "minecraft:diamond" }
+		{ count: 8, item: "minecraft:gold_ingot" }
+		{ count: 8, item: "iceandfire:silver_ingot" }
+		{ count: 4, item: "minecraft:emerald" }
+		{ count: 5, item: "iceandfire:sapphire_gem" }
+		{ count: 2, item: "aquamirae:abyssal_amethyst" }
+		{ count: 2, item: "knightquest:filled_goblet" }
+		{ count: 48, item: "minecraft:spruce_log" }
+		{ count: 48, item: "minecraft:oak_log" }
+		{ count: 16, item: "minecraft:copper_ingot" }
+	]
+	title: "Resources"
+}

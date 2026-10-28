@@ -1,0 +1,396 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "decoration"
+	group: "5176EA89B02D5874"
+	id: "4358E70D02672D9E"
+	order_index: 3
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F62CBFE636D8802"
+			rewards: [{
+				id: "09E819540A280845"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "Barrels can be filled with water."
+			tasks: [{
+				block: "medieval_deco:barrel_mod"
+				block_type: 0
+				id: "0E71F61636616F4B"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place barrel"
+				type: "questsadditions:place"
+				value: 10L
+			}]
+			title: "&6&lBarrels"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2F62CBFE636D8802"]
+			id: "410C4177BF8748DB"
+			subtitle: "Much fancier than a torch."
+			tasks: [{
+				block: "days_in_the_middle_ages:firepit_off"
+				block_type: 0
+				id: "2234AE9FC945BACB"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place firepits"
+				type: "questsadditions:place"
+				value: 3L
+			}]
+			title: "&6&lFirepits"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["410C4177BF8748DB"]
+			id: "163C09612EC772C0"
+			rewards: [
+				{
+					id: "63EE6008598ECD97"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F4AF1A171C076D7"
+					table_id: 5699529449623842498L
+					type: "choice"
+				}
+			]
+			size: 1.4d
+			subtitle: "Even within its simplicity, it definitely has a certain appeal going for it."
+			tasks: [{
+				block: "days_in_the_middle_ages:campfire"
+				block_type: 0
+				id: "04B1D1CDE97994C0"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place campfires"
+				type: "questsadditions:place"
+				value: 3L
+			}]
+			title: "&6&lCampfires"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["163C09612EC772C0"]
+			id: "0452542FC5DD2DB8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BBE95168E461114"
+				table_id: 3710718200219029633L
+				type: "random"
+			}]
+			subtitle: "If you're going for a cottagecore home, here's your chance!"
+			tasks: [{
+				block: "days_in_the_middle_ages:basket_of_shrooms"
+				block_type: 0
+				id: "3115DE84F8F08637"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a basket of shrooms"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&6&lBasket Of Shrooms"
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0452542FC5DD2DB8"]
+			id: "381E243B1784B1A9"
+			rewards: [{
+				id: "2AF8DAE7F98572E4"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			size: 1.4d
+			subtitle: "A simple shelf. You can store bottles in it."
+			tasks: [{
+				block: "nefdecomod:spruce_cava"
+				block_type: 0
+				id: "584988B8B1F7C9D2"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place cavas"
+				type: "questsadditions:place"
+				value: 10L
+			}]
+			title: "&6&lCavas"
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["381E243B1784B1A9"]
+			id: "1C82E2853FF7C89F"
+			subtitle: "You made a coffin for yourself? How lovely!"
+			tasks: [{
+				block: "nefdecomod:coffin"
+				block_type: 0
+				id: "77AA42C4BB5702E3"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a coffin"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&6&lCoffins"
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1C82E2853FF7C89F"]
+			id: "4E89E40388BC6FD7"
+			subtitle: "According to legends, Gargoyles were made to protect sacred buildings."
+			tasks: [{
+				block: "nefdecomod:gargoyle"
+				block_type: 0
+				id: "73634E96B66663FD"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a gargoyle"
+				type: "questsadditions:place"
+				value: 1L
+			}]
+			title: "&6&lGargoyles"
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["381E243B1784B1A9"]
+			id: "318EB39E97826FCE"
+			subtitle: "Can be used to store apples and more."
+			tasks: [{
+				block: "nefdecomod:shelf_empty"
+				block_type: 0
+				id: "2616199ADF9F626D"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place shelves"
+				type: "questsadditions:place"
+				value: 5L
+			}]
+			title: "&6&lShelves"
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["318EB39E97826FCE"]
+			id: "218AEC5645394E1E"
+			rewards: [
+				{
+					id: "5BA290BAEFE5621D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E7868EDCCDF589A"
+					table_id: 1404902952723356929L
+					type: "random"
+				}
+			]
+			size: 1.4d
+			subtitle: "A great way to display goods on a marketplace!"
+			tasks: [{
+				block: "nefdecomod:fruit_box"
+				block_type: 0
+				id: "2DC19AE3B860D8E3"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place wooden boxes"
+				type: "questsadditions:place"
+				value: 5L
+			}]
+			title: "&6&lWooden Boxes"
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4E89E40388BC6FD7"]
+			id: "5E3936CA95CA94E8"
+			rewards: [
+				{
+					id: "285D7759BB04D133"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F82D96BC1A6874E"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			subtitle: "The perfect way to make your home feel more cult-y."
+			tasks: [{
+				block: "minecraft:skeleton_skull"
+				block_type: 0
+				id: "2683C8C7EDCA37F1"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place skeleton skulls"
+				type: "questsadditions:place"
+				value: 3L
+			}]
+			title: "&6&lSkeleton Skulls"
+			x: 3.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["163C09612EC772C0"]
+			id: "74CD5C7019CF18B0"
+			min_required_tasks: 1
+			rewards: [
+				{
+					id: "2147E2017B5FDC83"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "21E81F637497C966"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			subtitle: "There's a candle holder for every opportunity, they say."
+			tasks: [
+				{
+					block: "mcwlights:iron_low_candle_holder"
+					block_type: 0
+					id: "2E2A507357C6E093"
+					replace: false
+					replaced: "minecraft:air"
+					title: "Place candle holders"
+					type: "questsadditions:place"
+					value: 10L
+				}
+				{
+					block: "mcwlights:iron_candle_holder"
+					block_type: 0
+					id: "408A07EE11E2AC46"
+					replace: false
+					replaced: "minecraft:air"
+					title: "Place candle holders"
+					type: "questsadditions:place"
+					value: 10L
+				}
+				{
+					block: "mcwlights:iron_wall_candle_holder"
+					block_type: 0
+					id: "2AB3FEACD0734A38"
+					replace: false
+					replaced: "minecraft:air"
+					title: "Place candle holders"
+					type: "questsadditions:place"
+					value: 10L
+				}
+				{
+					block: "mcwlights:iron_double_candle_holder"
+					block_type: 0
+					id: "108469EA4C85C378"
+					replace: false
+					replaced: "minecraft:air"
+					title: "Place candle holders"
+					type: "questsadditions:place"
+					value: 10L
+				}
+			]
+			title: "&6&lCandle Holders"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["218AEC5645394E1E"]
+			id: "7DFCF54988864C9D"
+			rewards: [{
+				id: "0278E7A0A822316A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "pentagon"
+			subtitle: "Every good home needs a table. Everyone knows that!"
+			tasks: [{
+				block: "nefdecomod:mesa_6"
+				block_type: 0
+				id: "755888BA44D64E1B"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place tables"
+				type: "questsadditions:place"
+				value: 5L
+			}]
+			title: "&6&lTables"
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["218AEC5645394E1E"]
+			id: "10A510506BCC61DE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F4CDFE6F5F3CB8B"
+				table_id: 5699529449623842498L
+				type: "choice"
+			}]
+			subtitle: "You can use pots to decorate your kitchen!"
+			tasks: [{
+				block: "nefdecomod:pot"
+				block_type: 0
+				id: "13F6B01AFFD04825"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place a pot"
+				type: "questsadditions:place"
+				value: 5L
+			}]
+			title: "&6&lPots"
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["10A510506BCC61DE"]
+			id: "584F5541C98A20FF"
+			rewards: [
+				{
+					id: "40F9556EFBA3FC3A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "248D33BC64518E57"
+					table_id: 3710718200219029633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			subtitle: "Another great way to level up your kitchen."
+			tasks: [{
+				block: "nefdecomod:plate"
+				block_type: 0
+				id: "560F64A30F38673D"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Place plates"
+				type: "questsadditions:place"
+				value: 5L
+			}]
+			title: "&6&lPlates"
+			x: 8.5d
+			y: -10.0d
+		}
+	]
+	title: "&7Decoration"
+}

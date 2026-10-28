@@ -1,0 +1,54 @@
+-----------
+Name, Block
+-----------
+alexscaves:acid, alexscaves:acid
+alexscaves:acid_flowing, alexscaves:acid
+alexscaves:purple_soda, alexscaves:purple_soda
+alexscaves:purple_soda_flowing, alexscaves:purple_soda
+biomesoplenty:blood, biomesoplenty:blood
+biomesoplenty:flowing_blood, biomesoplenty:blood
+biomesoplenty:flowing_liquid_null, biomesoplenty:liquid_null
+biomesoplenty:liquid_null, biomesoplenty:liquid_null
+callfromthedepth_:flowing_poisonwater, callfromthedepth_:poisonwater
+callfromthedepth_:poisonwater, callfromthedepth_:poisonwater
+deep_aether:poison_flowing, deep_aether:poison
+deep_aether:poison_fluid, deep_aether:poison
+delightful:azalea_tea, -
+delightful:flowing_azalea_tea, -
+delightful:flowing_lavender_tea, -
+delightful:flowing_long_prickly_pear_juice, -
+delightful:flowing_prickly_pear_juice, -
+delightful:lavender_tea, -
+delightful:long_prickly_pear_juice, -
+delightful:prickly_pear_juice, -
+enlightened_end:flowing_ooze_fluid, enlightened_end:ooze_fluid
+enlightened_end:ooze_fluid, enlightened_end:ooze_fluid
+hexerei:blood_flowing, hexerei:blood
+hexerei:blood_fluid, hexerei:blood
+hexerei:flowing_potion, -
+hexerei:potion, -
+hexerei:quicksilver_flowing, hexerei:quicksilver
+hexerei:quicksilver_fluid, hexerei:quicksilver
+hexerei:tallow_flowing, hexerei:tallow
+hexerei:tallow_fluid, hexerei:tallow
+minecraft:empty, -
+minecraft:flowing_lava, minecraft:lava
+minecraft:flowing_milk, -
+minecraft:flowing_water, minecraft:water
+minecraft:lava, minecraft:lava
+minecraft:milk, -
+minecraft:water, minecraft:water
+netherexp:ectoplasm, netherexp:ectoplasm
+netherexp:flowing_ectoplasm, netherexp:ectoplasm
+sophisticatedcore:xp_flowing, -
+sophisticatedcore:xp_still, -
+supplementaries:lumisene, supplementaries:lumisene
+theabyss:areno, theabyss:areno
+theabyss:flowing_areno, theabyss:areno
+theabyss:flowing_infused_lava, theabyss:infused_lava
+theabyss:infused_lava, theabyss:infused_lava
+undergarden:virulent_mix_flowing, undergarden:virulent_mix
+undergarden:virulent_mix_source, undergarden:virulent_mix
+-----------
+Name, Block
+-----------

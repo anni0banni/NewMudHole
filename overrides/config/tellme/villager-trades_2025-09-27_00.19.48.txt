@@ -1,0 +1,1350 @@
+----------------------------------------------------
+Registry name, Profession, Level, Buy 1, Buy 2, Sell
+----------------------------------------------------
+archers:archery_artisan, archers:archery_artisan, , , , 
+, , 1, , , 
+, , , Emerald, , Arrow
+, , , Leather, , Emerald
+, , 2, , , 
+, , , Emerald, , Composite Longbow
+, , , Emerald, , Archer Hood
+, , , String, , Emerald
+, , 3, , , 
+, , , Emerald, , Archer Boots
+, , , Redstone Dust, , Emerald
+, , , Emerald, , Archer Leggings
+, , 4, , , 
+, , , Emerald, , Archer Tunic
+, , , Emerald, , Scute
+, , 5, , , 
+, , , Emerald, , Royal Longbow
+, , , Emerald, , Mechanical Shortbow
+, , , Emerald, , Rapid Crossbow
+, , , Emerald, , Heavy Crossbow
+beautify:botanist, botanist, , , , 
+, , 1, , , 
+, , , Emerald, , Hanging Pot
+, , , Emerald, , Flower Pot
+, , , Emerald, , Vines
+, , 2, , , 
+, , , Emerald, , Oak Lattice
+, , , Emerald, , Spruce Lattice
+, , , Emerald, , Birch Lattice
+, , , Emerald, , Jungle Lattice
+, , , Emerald, , Acacia Lattice
+, , , Emerald, , Dark Oak Lattice
+, , , Emerald, , Mangrove Lattice
+, , , Emerald, , Crimson Lattice
+, , , Emerald, , Warped Lattice
+, , , Emerald, , Big Dripleaf
+, , , Emerald, , Small Dripleaf
+, , 3, , , 
+, , , Emerald, , Lily Pad
+, , , Emerald, , Spore Blossom
+, , 4, , , 
+, , , Emerald, , Moss Block
+, , , Emerald, , Flowering Azalea
+, , 5, , , 
+, , , Emerald, , Rooted Dirt
+, , , Emerald, , Hanging Roots
+betterarcheology:archeologist, archeologist, , , , 
+, , 1, , , 
+, , , Emerald, , Rotten Planks
+, , , Emerald, , Brush
+, , , Bone, , Emerald
+, , 2, , , 
+, , , Emerald, , Mud Bricks
+, , , Emerald, , Lantern
+, , 3, , , 
+, , , Emerald, , Cobweb
+, , , Emerald, , Iron Brush
+, , 4, , , 
+, , , Emerald, , Ancient Vase
+, , , Emerald, , Ancient Vase
+, , , Emerald, , Ancient Vase
+, , 5, , , 
+, , , Emerald, , Spyglass
+, , , Emerald, , Rusty Bomb
+, , , Emerald, , Diamond Brush
+, , , Emerald, , Artifact Shards
+, , , Emerald, Compass, Catacombs Explorer Map
+, , , Emerald, Compass, Light Temple Explorer Map
+blue_skies:alchemist, alchemist, , , , 
+, , 1, , , 
+, , , Emerald, Magma Cream, Slimeball
+, , , Gold Ingot, , Emerald
+, , , Emerald, , Blaze Rod
+, , , Emerald, Midnight Sandstone, Crystal Sandstone
+, , , Emerald, Crystal Sandstone, Midnight Sandstone
+, , 2, , , 
+, , , Lunar Sapling, Crescent Fruit, Crescent Fruit Sapling
+, , , Lunar Dirt, Ventium Water Bucket, Lunar Mud
+, , , Camel Saddle, Emerald, Saddle
+, , , Horizonite Ingot, Ventium Water Bucket, Iron Ingot
+, , 3, , , 
+, , , Bucket, , Ventium Bucket
+, , , Lunar Planks, Moonstone Crystal, Crystallized Planks
+, , 4, , , 
+, , , Lunar Grass, Moonstone Shard, Crystallized Grass
+, , , Emerald, Ventium Water Bucket, Ventium Lava Bucket
+, , 5, , , 
+, , , Alchemy Scroll, , Emerald
+blue_skies:nightwatcher, nightwatcher, , , , 
+, , 1, , , 
+, , , Emerald, , String
+, , , Emerald, , Wheat Seeds
+, , , Emerald, , Bread
+, , 2, , , 
+, , , Emerald, , Ventium Nugget
+, , , Emerald, , Gold Nugget
+, , , Emerald, , Falsite Nugget
+, , , Emerald, , Cooked Grittle Flatfish
+, , 3, , , 
+, , , Emerald, , Ventium Bucket
+, , , Emerald, , Falsite Ingot
+, , , Emerald, , Ventium Ingot
+, , , Emerald, , Aquite
+, , , Emerald, , Empty Map
+, , 4, , , 
+, , , Emerald, , Name Tag
+, , , Emerald, , Saddle
+, , , Emerald, , Charoite
+, , , Emerald, , Gold Ingot
+, , 5, , , 
+, , , Emerald, , Bag of Spoils
+blue_skies:shoveler, shoveler, , , , 
+, , 1, , , 
+, , , Emerald, Pyrope Gemstone, Pyrope Shovel
+, , , Falsite Ingot, , Emerald
+, , , Falsite Ingot, , Snow Block
+, , 2, , , 
+, , , Emerald, Aquite, Aquite Shovel
+, , , Falsite Ingot, Aquite, Emerald
+, , 3, , , 
+, , , Emerald, Horizonite Ingot, Horizonite Shovel
+, , , Stick, , Falsite Ingot
+, , 4, , , 
+, , , Emerald, Diopside Gemstone, Diopside Shovel
+, , 5, , , 
+, , , Emerald, Charoite, Charoite Shovel
+blue_skies:stargazer, stargazer, , , , 
+, , 1, , , 
+, , , Falsite Ingot, Moonstone Shard, Clock
+, , , Star Flare, , Emerald
+, , 2, , , 
+, , , Ventium Ingot, Moonstone Shard, Compass
+, , , Glass, , Emerald
+, , 3, , , 
+, , , Iron Ingot, , Emerald
+, , 4, , , 
+, , , Moonstone, Iron Bars, Moonstone Lantern
+, , 5, , , 
+, , , Emerald, , Astrolabe
+blue_skies:summoner, summoner, , , , 
+, , 1, , , 
+, , , Emerald, , Book
+, , , Bug Guts, , Emerald
+, , 2, , , 
+, , , Emerald, , Pearl
+, , , Soul Fragment, , Emerald
+, , 3, , , 
+, , , Spider Eye, , Emerald
+, , , Rotten Flesh, , Emerald
+, , 4, , , 
+, , , Rabbit's Foot, , Emerald
+, , , Fox Pelt, , Emerald
+, , 5, , , 
+, , , Summoning Tome, , Emerald
+blue_skies:wrangler, wrangler, , , , 
+, , 1, , , 
+, , , Emerald, , Cooked Charscale Moki
+, , , Emerald, , Lead
+, , 2, , , 
+, , , Emerald, Leather, Saddle
+, , , Azulfo Horn, , Emerald
+, , , Emerald, , Roasted Monitor Tail
+, , 3, , , 
+, , , Emerald, , Cooked Grittle Flatfish
+, , , Emerald, , Cooked Mutton
+, , 4, , , 
+, , , Comet Berries, Emerald, Comet Berry Pie
+, , , String, , Emerald
+, , 5, , , 
+, , , Emerald, , Smoked Carabeef
+, , , Emerald, , Venison Steak
+callfromthedepth_:sculkstalker, callfromthedepth_:sculkstalker, , , , 
+, , 1, , , 
+, , , Bunch of bones with meat, , Lost soul fragment
+, , , Sculk deep appendages, , Echo shard fragment
+, , , Soul crystal, , Iron Ingot
+, , 2, , , 
+, , , Bunch of bones with meat, , Marble block
+, , , Depths magma mushroom, , Acid bucket
+, , , Magma sculk appendages, , Marble
+, , , Soul crystal, , Agony soul
+, , 3, , , 
+, , , Soul rose, , Soul crystal
+, , , Rotten camely, , Apple jaw
+, , , Depths Tulip, , Gold Ingot
+, , 4, , , 
+, , , Soul crystal, , Diamond
+, , , Marble, , Immemorial debris
+, , , Sculk heart, , Music disc
+, , 5, , , 
+, , , Immemorial debris, , Netherite Ingot
+, , , Immemorial ingot, , Soul ingot
+, , , Immemorial debris, , Netherite Scrap
+domesticationinnovation:animal_tamer, animal_tamer, , , , 
+, , 1, , , 
+, , , Tropical Fish, , Emerald
+, , , Emerald, , Bone
+, , , Hay Bale, , Emerald
+, , , Emerald, , Raw Cod
+, , , Emerald, , Egg
+, , , Emerald, , Feather on a Stick
+, , 2, , , 
+, , , Emerald, , Bucket of Tropical Fish
+, , , Collar Tag, , Emerald
+, , , Emerald, , Apple
+, , , Emerald, , Blue Pet Bed
+, , , Emerald, , Deed of Ownership
+, , 3, , , 
+, , , Emerald, , Rotten Apple
+, , , Emerald, , Carrot on a Stick
+, , , Emerald, , Lead
+, , , Emerald, , Leather Horse Armor
+, , , Emerald, , Command Drum
+, , , Emerald, , Bucket of Tadpole
+, , , Emerald, , Collar Tag
+, , 4, , , 
+, , , Emerald, , Iron Horse Armor
+, , , Emerald, , Bucket of Axolotl
+, , , Emerald, , Turtle Egg
+, , , Emerald, , Collar Tag
+, , 5, , , 
+, , , Emerald, , Golden Horse Armor
+, , , Emerald, , Scute
+, , , Emerald, , Collar Tag
+, , , Emerald, , Enchanted Book
+fabulous_flowers:botanist, fabulous_flowers:botanist, , , , 
+, , 1, , , 
+, , , Bone Meal, , Emerald
+, , , Emerald, , Bundle of Wildflowers
+, , , Emerald, , Bundle of Tulips
+, , , Emerald, , Bundle of Exotic Flowers
+, , 2, , , 
+, , , Bamboo, , Emerald
+, , , Cactus, , Emerald
+, , , Sugar Cane, , Emerald
+, , 3, , , 
+, , , Emerald, , Lily Pad
+, , , Emerald, , Small Dripleaf
+, , 4, , , 
+, , , Moonflower, , Emerald
+, , , Emerald, Azalea, Flowering Azalea
+, , , Torchflower, , Emerald
+, , , Pitcher Plant, , Emerald
+, , 5, , , 
+, , , Chorus Fruit, , Emerald
+, , , Emerald, Wither Skeleton Skull, Wither Rose
+jmc:cake_baker, cake_baker, , , , 
+, , 1, , , 
+, , , Wheat, , Emerald
+, , , Egg, , Emerald
+, , , Emerald, , Sugar
+, , , Emerald, , Milk Bucket
+, , 2, , , 
+, , , Emerald, , Cake
+, , , Emerald, , Cocoa Beans
+, , , Emerald, , Carrot Cake
+, , 3, , , 
+, , , Coal, , Emerald
+, , , Carrot, , Emerald
+, , , Sugar Cane, , Emerald
+, , 4, , , 
+, , , Cream Cheese, , Emerald
+, , , Emerald, , Cupcake
+, , 5, , , 
+, , , Emerald, , Cake Spatula
+, , , Emerald, , Creeper Cake
+loot_n_explore:innkeeper, innkeeper, , , , 
+, , 1, , , 
+, , , Glass Bottle, , Emerald
+, , , Bowl, , Emerald
+, , , Emerald, , Bread
+, , 2, , , 
+, , , Emerald, , Sweet Berry Punch
+, , , Emerald, , Hot Chocolate
+, , , Emerald, , Potato Soup
+, , , Emerald, , Apple Juice
+, , , Emerald, , Orange Juice
+, , 3, , , 
+, , , , Paper, Please help us eliminate the threats nearby!
+, , 4, , , 
+, , , Emerald, , Malt Extract
+, , , Emerald, , Beet Rootbeer
+, , , Emerald, , Watermelon Drink
+, , , Emerald, , Aether Blueberry Punch
+, , , Emerald, , Green Chilli
+, , , Emerald, , Waldmeister
+, , , Emerald, , Fruit Icewater
+, , , Emerald, , Holy Water
+, , , Emerald, , Chorus Extract
+, , , Emerald, , Hot Chilli
+, , , Emerald, , Sweet Chilli
+, , , Emerald, , Enchanted Ale
+, , 5, , , 
+, , , Emerald, , Vital Drink
+, , , Emerald, , Strong Espresso
+, , , Emerald, , Forrest Spirit
+, , , Emerald, , Wizards Elixir
+minecraft:armorer, armorer, , , , 
+, , 1, , , 
+, , , Coal, , Emerald
+, , , Emerald, , Iron Leggings
+, , , Emerald, , Iron Boots
+, , , Emerald, , Iron Helmet
+, , , Emerald, , Iron Chestplate
+, , , Redstone Dust, , Emerald
+, , , Emerald, , Golden Helmet
+, , , Emerald, , Golden Chestplate
+, , , Emerald, , Golden Leggings
+, , , Emerald, , Golden Boots
+, , 2, , , 
+, , , Iron Ingot, , Emerald
+, , , Emerald, , Bell
+, , , Emerald, , Chainmail Boots
+, , , Emerald, , Chainmail Leggings
+, , , Copper Ingot, , Emerald
+, , 3, , , 
+, , , Lava Bucket, , Emerald
+, , , Diamond, , Emerald
+, , , Emerald, , Chainmail Helmet
+, , , Emerald, , Chainmail Chestplate
+, , , Emerald, , Shield
+, , , Heavy Tooth, Block of Emerald, Heavy Tooth Upgrade
+, , 4, , , 
+, , , Emerald, , Diamond Leggings
+, , , Emerald, , Diamond Boots
+, , , Raw Bostrox, , Emerald
+, , , Clogger Ribs, Block of Emerald, Clogger Upgrade
+, , 5, , , 
+, , , Emerald, , Diamond Helmet
+, , , Emerald, , Diamond Chestplate
+, , , Emerald, Bostrox Ingot, Bostrox Juggernaut Helmet
+, , , Emerald, Bostrox Ingot, Bostrox Juggernaut Boots
+, , , Emerald, Bostrox Ingot, Bostrox Juggernaut Chestplate
+, , , Emerald, , Fire Rune
+, , , Emerald, , Firework Rune
+minecraft:butcher, butcher, , , , 
+, , 1, , , 
+, , , Raw Chicken, , Emerald
+, , , Raw Porkchop, , Emerald
+, , , Raw Rabbit, , Emerald
+, , , Emerald, , Rabbit Stew
+, , 2, , , 
+, , , Coal, , Emerald
+, , , Emerald, , Cooked Porkchop
+, , , Emerald, , Cooked Chicken
+, , 3, , , 
+, , , Raw Mutton, , Emerald
+, , , Raw Beef, , Emerald
+, , , Clogger Ribs, , Emerald
+, , 4, , , 
+, , , Dried Kelp Block, , Emerald
+, , , Emerald, , Raw Chicken
+, , , Emerald, , Raw Mutton
+, , , Emerald, , Cooked Mutton
+, , , Emerald, , Steak
+, , 5, , , 
+, , , Sweet Berries, , Emerald
+, , , Emerald, , Raw Porkchop
+, , , Emerald, , Raw Beef
+minecraft:cartographer, cartographer, , , , 
+, , 1, , , 
+, , , Paper, , Emerald
+, , , Emerald, , Empty Map
+, , 2, , , 
+, , , Glass Pane, , Emerald
+, , skipping, map trade, lvl: 2, id: 1
+, , , Emerald, Compass, Adventurer Map
+, , skipping, map trade, lvl: 2, id: 4
+, , , Emerald, Compass, Underground Cabin Map
+, , 3, , , 
+, , , Compass, , Emerald
+, , skipping, map trade, lvl: 3, id: 1
+, , skipping, map trade, lvl: 3, id: 3
+, , 4, , , 
+, , , Emerald, , Item Frame
+, , , Emerald, , White Banner
+, , , Emerald, , Blue Banner
+, , , Emerald, , Light Blue Banner
+, , , Emerald, , Red Banner
+, , , Emerald, , Pink Banner
+, , , Emerald, , Green Banner
+, , , Emerald, , Lime Banner
+, , , Emerald, , Gray Banner
+, , , Emerald, , Black Banner
+, , , Emerald, , Purple Banner
+, , , Emerald, , Magenta Banner
+, , , Emerald, , Cyan Banner
+, , , Emerald, , Brown Banner
+, , , Emerald, , Yellow Banner
+, , , Emerald, , Orange Banner
+, , , Emerald, , Light Gray Banner
+, , skipping, map trade, lvl: 4, id: 17
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , 5, , , 
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Antique Ink
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, , Banner Pattern
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+, , , Emerald, Compass, Pathfinder's Quill
+minecraft:cleric, cleric, , , , 
+, , 1, , , 
+, , , Rotten Flesh, , Emerald
+, , , Emerald, , Redstone Dust
+, , , Bone, , Emerald
+, , , String, , Emerald
+, , , Arapherolia, , Emerald
+, , 2, , , 
+, , , Gold Ingot, , Emerald
+, , , Emerald, , Lapis Lazuli
+, , , Gunpowder, , Emerald
+, , , Acid Sack, , Emerald
+, , 3, , , 
+, , , Rabbit's Foot, , Emerald
+, , , Emerald, , Glowstone
+, , , Echo Shard, , Emerald
+, , , Disc Fragment, , Emerald
+, , , Emerald, , Rabbit's Foot
+, , , The Somnolence Extract, , Emerald
+, , 4, , , 
+, , , Scute, , Emerald
+, , , Glass Bottle, , Emerald
+, , , Emerald, , Ender Pearl
+, , , Emerald, , Slimeball
+, , , Bee Secreted Fluid, , Emerald
+, , 5, , , 
+, , , Nether Wart, , Emerald
+, , , Emerald, , Bottle o' Enchanting
+, , , Emerald, , Phantom Membrane
+minecraft:farmer, farmer, , , , 
+, , 1, , , 
+, , , Wheat, , Emerald
+, , , Potato, , Emerald
+, , , Carrot, , Emerald
+, , , Beetroot, , Emerald
+, , , Emerald, , Bread
+, , , Emerald, , Wheat
+, , , Emerald, , Potato
+, , , Emerald, , Carrot
+, , , Emerald, , Sugar Cane
+, , , Sugar Cane, , Emerald
+, , , Onion, , Emerald
+, , , Tomato, , Emerald
+, , 2, , , 
+, , , Pumpkin, , Emerald
+, , , Emerald, , Pumpkin Pie
+, , , Emerald, , Apple
+, , , Sugar Cane, , Emerald
+, , , Cactus, , Emerald
+, , , Glow Berries, , Emerald
+, , , Emerald, , Egg
+, , , Egg, , Emerald
+, , , Cabbage, , Emerald
+, , , Rice, , Emerald
+, , 3, , , 
+, , , Emerald, , Cookie
+, , , Melon, , Emerald
+, , , Flax Seeds, , Emerald
+, , , Moss Block, , Emerald
+, , 4, , , 
+, , , Emerald, , Cake
+, , , Emerald, , Suspicious Stew
+, , , Emerald, , Suspicious Stew
+, , , Emerald, , Suspicious Stew
+, , , Emerald, , Suspicious Stew
+, , , Emerald, , Suspicious Stew
+, , , Emerald, , Suspicious Stew
+, , , Brown Mushroom, , Emerald
+, , , Red Mushroom, , Emerald
+, , 5, , , 
+, , , Emerald, , Golden Carrot
+, , , Emerald, , Glistering Melon Slice
+, , , Emerald, , Golden Apple
+minecraft:fisherman, fisherman, , , , 
+, , 1, , , 
+, , , String, , Emerald
+, , , Coal, , Emerald
+, , , Emerald, Raw Cod, Cooked Cod
+, , , Emerald, , Bucket of Cod
+, , , Emerald, , Water Bucket
+, , 2, , , 
+, , , Raw Cod, , Emerald
+, , , Emerald, Raw Salmon, Cooked Salmon
+, , , Emerald, , Campfire
+, , , Seagrass, , Emerald
+, , , Sea Pickle, , Emerald
+, , , Ambergris, , Emerald
+, , 3, , , 
+, , , Raw Salmon, , Emerald
+, , , Emerald, , Fishing Rod
+, , 4, , , 
+, , , Tropical Fish, , Emerald
+, , , Raw Crab Leg, , Emerald
+, , 5, , , 
+, , , Pufferfish, , Emerald
+, , , Bucket of Devil's Hole Pupfish, , Emerald
+, , , Emerald, , Heart of the Sea
+, , , Emerald, , Bucket of Axolotl
+, , , Emerald, , Blood Pearl
+, , , Emerald, , Pufferfish
+minecraft:fletcher, fletcher, , , , 
+, , 1, , , 
+, , , Stick, , Emerald
+, , , Emerald, , Arrow
+, , , Emerald, Gravel, Flint
+, , 2, , , 
+, , , Flint, , Emerald
+, , , Emerald, , Bow
+, , , Emerald, , Spectral Arrow
+, , 3, , , 
+, , , String, , Emerald
+, , , Emerald, , Crossbow
+, , 4, , , 
+, , , Feather, , Emerald
+, , , Emerald, , Bow
+, , , Emerald, , Dispenser
+, , 5, , , 
+, , , Tripwire Hook, , Emerald
+, , , Emerald, , Crossbow
+, , , Emerald, Arrow, Arrow of Weakness
+minecraft:leatherworker, leatherworker, , , , 
+, , 1, , , 
+, , , Leather, , Emerald
+, , , Emerald, , Leather Pants
+, , , Emerald, , Leather Tunic
+, , 2, , , 
+, , , Flint, , Emerald
+, , , Emerald, , Leather Cap
+, , , Emerald, , Leather Boots
+, , 3, , , 
+, , , Rabbit Hide, , Emerald
+, , , Emerald, , Leather Tunic
+, , , Emerald, , Leather
+, , 4, , , 
+, , , Scute, , Emerald
+, , , Emerald, , Leather Horse Armor
+, , 5, , , 
+, , , Emerald, , Saddle
+, , , Emerald, , Leather Cap
+, , , Emerald, , Iron Horse Armor
+, , , Emerald, , Golden Horse Armor
+, , , Emerald, , Diamond Horse Armor
+minecraft:librarian, librarian, , , , 
+, , 1, , , 
+, , , Paper, , Emerald
+, , , Emerald, Book, Enchanted Book
+, , , Emerald, , Oak Bookshelf
+, , , Bamboo, , Emerald
+, , 2, , , 
+, , , Book, , Emerald
+, , , Emerald, Book, Enchanted Book
+, , , Emerald, , Lantern
+, , 3, , , 
+, , , Ink Sac, , Emerald
+, , , Emerald, Book, Enchanted Book
+, , , Emerald, , Glass
+, , , Diamond, Book, Butterfly Encyclopedia
+, , , Glow Ink Sac, , Emerald
+, , 4, , , 
+, , , Book and Quill, , Emerald
+, , , Emerald, Book, Enchanted Book
+, , , Emerald, , Clock
+, , , Emerald, , Compass
+, , , Emerald, , Ghast Tear
+, , 5, , , 
+, , , Emerald, , Name Tag
+, , , Emerald, , Dragon's Breath
+, , , Ancient Tome, Enchanted Book, Ancient Tome
+minecraft:mason, mason, , , , 
+, , 1, , , 
+, , , Clay Ball, , Emerald
+, , , Emerald, , Brick
+, , , Emerald, , Ash Brick
+, , , Sand, , Emerald
+, , 2, , , 
+, , , Stone, , Emerald
+, , , Emerald, , Chiseled Stone Bricks
+, , , Block of Amethyst, , Emerald
+, , , Calcite, , Emerald
+, , , Tuff, , Emerald
+, , 3, , , 
+, , , Granite, , Emerald
+, , , Andesite, , Emerald
+, , , Diorite, , Emerald
+, , , Emerald, , Dripstone Block
+, , , Emerald, , Polished Andesite
+, , , Emerald, , Polished Diorite
+, , , Emerald, , Polished Granite
+, , , Emerald, , Prismarine
+, , , Deepslate, , Emerald
+, , , Dripstone Block, , Emerald
+, , , Emerald, , Cobblestone
+, , , Cobblestone, , Emerald
+, , , Emerald, , Limestone
+, , , Polished Limestone, , Emerald
+, , , Emerald, , Jasper
+, , , Polished Jasper, , Emerald
+, , , Emerald, , Shale
+, , , Polished Shale, , Emerald
+, , 4, , , 
+, , , Nether Quartz, , Emerald
+, , , Emerald, , Orange Terracotta
+, , , Emerald, , White Terracotta
+, , , Emerald, , Blue Terracotta
+, , , Emerald, , Light Blue Terracotta
+, , , Emerald, , Gray Terracotta
+, , , Emerald, , Light Gray Terracotta
+, , , Emerald, , Black Terracotta
+, , , Emerald, , Red Terracotta
+, , , Emerald, , Pink Terracotta
+, , , Emerald, , Magenta Terracotta
+, , , Emerald, , Lime Terracotta
+, , , Emerald, , Green Terracotta
+, , , Emerald, , Cyan Terracotta
+, , , Emerald, , Purple Terracotta
+, , , Emerald, , Yellow Terracotta
+, , , Emerald, , Brown Terracotta
+, , , Emerald, , Orange Glazed Terracotta
+, , , Emerald, , White Glazed Terracotta
+, , , Emerald, , Blue Glazed Terracotta
+, , , Emerald, , Light Blue Glazed Terracotta
+, , , Emerald, , Gray Glazed Terracotta
+, , , Emerald, , Light Gray Glazed Terracotta
+, , , Emerald, , Black Glazed Terracotta
+, , , Emerald, , Red Glazed Terracotta
+, , , Emerald, , Pink Glazed Terracotta
+, , , Emerald, , Magenta Glazed Terracotta
+, , , Emerald, , Lime Glazed Terracotta
+, , , Emerald, , Green Glazed Terracotta
+, , , Emerald, , Cyan Glazed Terracotta
+, , , Emerald, , Purple Glazed Terracotta
+, , , Emerald, , Yellow Glazed Terracotta
+, , , Emerald, , Brown Glazed Terracotta
+, , , Prismarine, Emerald, Dark Prismarine
+, , 5, , , 
+, , , Emerald, , Quartz Pillar
+, , , Emerald, , Block of Quartz
+, , , Emerald, , Quartz Bricks
+minecraft:nitwit, nitwit, , , , 
+, , 1, , , 
+, , 2, , , 
+, , 3, , , 
+, , 4, , , 
+, , 5, , , 
+minecraft:none, none, , , , 
+, , 1, , , 
+, , 2, , , 
+, , 3, , , 
+, , 4, , , 
+, , 5, , , 
+minecraft:shepherd, shepherd, , , , 
+, , 1, , , 
+, , , White Wool, , Emerald
+, , , Brown Wool, , Emerald
+, , , Black Wool, , Emerald
+, , , Gray Wool, , Emerald
+, , , Emerald, , Shears
+, , , Emerald, , String
+, , 2, , , 
+, , , White Dye, , Emerald
+, , , Gray Dye, , Emerald
+, , , Black Dye, , Emerald
+, , , Light Blue Dye, , Emerald
+, , , Lime Dye, , Emerald
+, , , Emerald, , White Wool
+, , , Emerald, , Orange Wool
+, , , Emerald, , Magenta Wool
+, , , Emerald, , Light Blue Wool
+, , , Emerald, , Yellow Wool
+, , , Emerald, , Lime Wool
+, , , Emerald, , Pink Wool
+, , , Emerald, , Gray Wool
+, , , Emerald, , Light Gray Wool
+, , , Emerald, , Cyan Wool
+, , , Emerald, , Purple Wool
+, , , Emerald, , Blue Wool
+, , , Emerald, , Brown Wool
+, , , Emerald, , Green Wool
+, , , Emerald, , Red Wool
+, , , Emerald, , Black Wool
+, , , Emerald, , White Carpet
+, , , Emerald, , Orange Carpet
+, , , Emerald, , Magenta Carpet
+, , , Emerald, , Light Blue Carpet
+, , , Emerald, , Yellow Carpet
+, , , Emerald, , Lime Carpet
+, , , Emerald, , Pink Carpet
+, , , Emerald, , Gray Carpet
+, , , Emerald, , Light Gray Carpet
+, , , Emerald, , Cyan Carpet
+, , , Emerald, , Purple Carpet
+, , , Emerald, , Blue Carpet
+, , , Emerald, , Brown Carpet
+, , , Emerald, , Green Carpet
+, , , Emerald, , Red Carpet
+, , , Emerald, , Black Carpet
+, , 3, , , 
+, , , Yellow Dye, , Emerald
+, , , Light Gray Dye, , Emerald
+, , , Orange Dye, , Emerald
+, , , Red Dye, , Emerald
+, , , Pink Dye, , Emerald
+, , , Emerald, , White Bed
+, , , Emerald, , Yellow Bed
+, , , Emerald, , Red Bed
+, , , Emerald, , Black Bed
+, , , Emerald, , Blue Bed
+, , , Emerald, , Brown Bed
+, , , Emerald, , Cyan Bed
+, , , Emerald, , Gray Bed
+, , , Emerald, , Green Bed
+, , , Emerald, , Light Blue Bed
+, , , Emerald, , Light Gray Bed
+, , , Emerald, , Lime Bed
+, , , Emerald, , Magenta Bed
+, , , Emerald, , Orange Bed
+, , , Emerald, , Pink Bed
+, , , Emerald, , Purple Bed
+, , , White Wool, Emerald, Green Wool
+, , , White Wool, Emerald, Blue Wool
+, , 4, , , 
+, , , Brown Dye, , Emerald
+, , , Purple Dye, , Emerald
+, , , Blue Dye, , Emerald
+, , , Green Dye, , Emerald
+, , , Magenta Dye, , Emerald
+, , , Cyan Dye, , Emerald
+, , , Emerald, , White Banner
+, , , Emerald, , Blue Banner
+, , , Emerald, , Light Blue Banner
+, , , Emerald, , Red Banner
+, , , Emerald, , Pink Banner
+, , , Emerald, , Green Banner
+, , , Emerald, , Lime Banner
+, , , Emerald, , Gray Banner
+, , , Emerald, , Black Banner
+, , , Emerald, , Purple Banner
+, , , Emerald, , Magenta Banner
+, , , Emerald, , Cyan Banner
+, , , Emerald, , Brown Banner
+, , , Emerald, , Yellow Banner
+, , , Emerald, , Orange Banner
+, , , Emerald, , Light Gray Banner
+, , 5, , , 
+, , , Emerald, , Painting
+, , , White Wool, Emerald, Black Wool
+, , , White Wool, Emerald, Brown Wool
+, , , Emerald, , Allay Plushie
+, , , Emerald, , Axolotl Plushie
+, , , Emerald, , Bat Plushie
+, , , Emerald, , Bee Plushie
+, , , Emerald, , Camel Plushie
+, , , Emerald, , Cat Plushie
+, , , Emerald, , Chicken Plushie
+, , , Emerald, , Cow Plushie
+, , , Emerald, , Creeper Plushie
+, , , Emerald, , Dolphin Plushie
+, , , Emerald, , Donkey Plushie
+, , , Emerald, , Enderdragon Plushie
+, , , Emerald, , Enderman Plushie
+, , , Emerald, , Fox Plushie
+, , , Emerald, , Frog Plushie
+, , , Emerald, , Ghast Plushie
+, , , Emerald, , Goat Plushie
+, , , Emerald, , Horse Plushie
+, , , Emerald, , Mooshroom Plushie
+, , , Emerald, , Panda Plushie
+, , , Emerald, , Parrot Plushie
+, , , Emerald, , Phantom Plushie
+, , , Emerald, , Pig Plushie
+, , , Emerald, , Polar Bear Plushie
+, , , Emerald, , Pufferfish Plushie
+, , , Emerald, , Rabbit Plushie
+, , , Emerald, , Sheep Plushie
+, , , Emerald, , Skeleton Plushie
+, , , Emerald, , Skeleton Horse Plushie
+, , , Emerald, , Sniffer Plushie
+, , , Emerald, , Spider Plushie
+, , , Emerald, , Squid Plushie
+, , , Emerald, , Turtle Plushie
+, , , Emerald, , Warden Plushie
+, , , Emerald, , Witch Plushie
+, , , Emerald, , Wither Plushie
+, , , Emerald, , Wither Skeleton Plushie
+, , , Emerald, , Wolf Plushie
+, , , Emerald, , Zoglin Plushie
+, , , Emerald, , Zombie Plushie
+, , , Emerald, , Trader Lama Plushie
+, , , Emerald, , Villager Plushie
+, , , Emerald, , Wandering Trader Plushie
+, , , Emerald, , Zombie Villager Plushie
+, , , Emerald, , Iron Golem Plushie
+, , , Emerald, , Vex Plushie
+, , , Emerald, , Vindicator Plushie
+, , , Emerald, , Ravanger Plushie
+, , , Emerald, , Pillager Plushie
+, , , Emerald, , Evoker Plushie
+, , , Emerald, , Blaze Plushie
+, , , Emerald, , Drowned Plushie
+, , , Emerald, , Hoglin Plushie
+, , , Emerald, , Husk Plushie
+, , , Emerald, , Magma Cube Plushie
+, , , Emerald, , Piglin Plushie
+, , , Emerald, , Piglin Brute Plushie
+, , , Emerald, , Stray Plushie
+, , , Emerald, , Strider Plushie
+, , , Emerald, , Shulker Plushie
+, , , Emerald, , Zombified Piglin Plushie
+, , , Emerald, , Armadillo Plushie
+, , , Emerald, , Breeze Plushie
+, , , Emerald, , Cave Spider Plushie
+, , , Emerald, , Glow Squid Plushie
+, , , Emerald, , Guardian Plushie
+, , , Emerald, , Llama Plushie
+, , , Emerald, , Mule Plushie
+, , , Emerald, , Slime Plushie
+, , , Emerald, , Elder Guardian Plushie
+, , , Emerald, , Peter Plushie
+, , , Emerald, , Darth Vader Plushie
+, , , Emerald, , Emperor Plushie
+, , , Emerald, , Yoda Plushie
+, , , Emerald, , Chewie Plushie
+, , , Emerald, , Dan Rolo Plushie
+, , , Emerald, , Storm Soldier Plushie
+minecraft:toolsmith, toolsmith, , , , 
+, , 1, , , 
+, , , Coal, , Emerald
+, , , Emerald, , Stone Axe
+, , , Emerald, , Stone Shovel
+, , , Emerald, , Stone Pickaxe
+, , , Emerald, , Stone Hoe
+, , 2, , , 
+, , , Iron Ingot, , Emerald
+, , , Emerald, , Bell
+, , , Emerald, , Golden Shovel
+, , , Emerald, , Golden Pickaxe
+, , , Emerald, , Golden Axe
+, , , Emerald, , Golden Hoe
+, , , Copper Ingot, , Emerald
+, , 3, , , 
+, , , Flint, , Emerald
+, , , Emerald, , Iron Axe
+, , , Emerald, , Iron Shovel
+, , , Emerald, , Iron Pickaxe
+, , , Emerald, , Diamond Hoe
+, , , Emerald, , Iron Hoe
+, , 4, , , 
+, , , Diamond, , Emerald
+, , , Emerald, , Diamond Axe
+, , , Emerald, , Diamond Shovel
+, , 5, , , 
+, , , Emerald, , Diamond Pickaxe
+minecraft:weaponsmith, weaponsmith, , , , 
+, , 1, , , 
+, , , Coal, , Emerald
+, , , Emerald, , Iron Axe
+, , , Emerald, , Iron Sword
+, , 2, , , 
+, , , Iron Ingot, , Emerald
+, , , Emerald, , Bell
+, , , Copper Ingot, , Emerald
+, , 3, , , 
+, , , Flint, , Emerald
+, , , Emerald, , Flint and Steel
+, , , Raw Bostrox, , Emerald
+, , 4, , , 
+, , , Diamond, , Emerald
+, , , Emerald, , Diamond Axe
+, , 5, , , 
+, , , Emerald, , Diamond Sword
+, , , Ancient Debris, , Emerald
+morevillagers:enderian, enderian, , , , 
+, , 1, , , 
+, , , End Stone, , Emerald
+, , , Emerald, , End Rod
+, , 2, , , 
+, , , Popped Chorus Fruit, , Emerald
+, , , Emerald, , Phantom Membrane
+, , 3, , , 
+, , , Ender Pearl, , Emerald
+, , , Emerald, , Firework Rocket
+, , 4, , , 
+, , , Emerald, , Dragon's Breath
+, , skipping, map trade, lvl: 4, id: 1
+, , 5, , , 
+, , , Emerald, , Shulker Shell
+, , , Emerald, , Dragon Head
+morevillagers:engineer, engineer, , , , 
+, , 1, , , 
+, , , Redstone Dust, , Emerald
+, , , Emerald, , Redstone Repeater
+, , 2, , , 
+, , , Redstone Torch, , Emerald
+, , , Emerald, , Dropper
+, , , Emerald, , Dispenser
+, , 3, , , 
+, , , Redstone Lamp, , Emerald
+, , , Emerald, , Observer
+, , , Emerald, , Redstone Comparator
+, , 4, , , 
+, , , Emerald, , Piston
+, , , Emerald, , Sticky Piston
+, , 5, , , 
+, , , Emerald, , Daylight Detector
+, , , Emerald, , Hopper
+morevillagers:florist, florist, , , , 
+, , 1, , , 
+, , , Flower Pot, , Emerald
+, , , Emerald, , Honeycomb
+, , 2, , , 
+, , , Vines, , Emerald
+, , , Emerald, , Glow Berries
+, , 3, , , 
+, , , Emerald, , Small Dripleaf
+, , , Emerald, , Honey Bottle
+, , 4, , , 
+, , , Moss Block, , Emerald
+, , skipping, map trade, lvl: 4, id: 1
+, , 5, , , 
+, , , Emerald, , Bee Nest
+, , skipping, map trade, lvl: 5, id: 1
+morevillagers:hunter, hunter, , , , 
+, , 1, , , 
+, , , Bone, , Emerald
+, , , Emerald, , Slimeball
+, , 2, , , 
+, , , Spider Eye, , Emerald
+, , , Emerald, , Fermented Spider Eye
+, , 3, , , 
+, , , Gunpowder, , Emerald
+, , , Emerald, , Magma Cream
+, , 4, , , 
+, , , Emerald, , Blaze Rod
+, , skipping, map trade, lvl: 4, id: 1
+, , 5, , , 
+, , , Emerald, , Ghast Tear
+, , , Emerald, , Rabbit's Foot
+morevillagers:miner, miner, , , , 
+, , 1, , , 
+, , , Deepslate, , Emerald
+, , , Emerald, , Calcite
+, , 2, , , 
+, , , Raw Copper, , Emerald
+, , , Raw Iron, , Emerald
+, , 3, , , 
+, , , Raw Gold, , Emerald
+, , , Emerald, , Amethyst Shard
+, , 4, , , 
+, , , Torch, , Emerald
+, , skipping, map trade, lvl: 4, id: 1
+, , 5, , , 
+, , , Emerald, , Diamond Pickaxe
+, , skipping, map trade, lvl: 5, id: 1
+morevillagers:netherian, netherian, , , , 
+, , 1, , , 
+, , , Basalt, , Emerald
+, , , Emerald, , Nether Brick
+, , 2, , , 
+, , , Blackstone, , Emerald
+, , , Emerald, , Nether Quartz Ore
+, , 3, , , 
+, , , Obsidian, , Emerald
+, , skipping, map trade, lvl: 3, id: 1
+, , 4, , , 
+, , , Gold Ingot, , Emerald
+, , skipping, map trade, lvl: 4, id: 1
+, , 5, , , 
+, , , Emerald, , Music Disc
+morevillagers:oceanographer, oceanographer, , , , 
+, , 1, , , 
+, , , Prismarine, , Emerald
+, , , Emerald, , Sea Lantern
+, , 2, , , 
+, , , Prismarine Bricks, , Emerald
+, , , Emerald, , Sponge
+, , 3, , , 
+, , , Dark Prismarine, , Emerald
+, , skipping, map trade, lvl: 3, id: 1
+, , 4, , , 
+, , , Emerald, , Nautilus Shell
+, , , Emerald, , Heart of the Sea
+, , 5, , , 
+, , , Emerald, , Trident
+morevillagers:woodworker, woodworker, , , , 
+, , 1, , , 
+, , , Oak Sapling, , Emerald
+, , , Emerald, , Oak Log
+, , , Birch Sapling, , Emerald
+, , , Emerald, , Birch Log
+, , 2, , , 
+, , , Spruce Sapling, , Emerald
+, , , Emerald, , Spruce Log
+, , , Dark Oak Sapling, , Emerald
+, , , Emerald, , Dark Oak Log
+, , 3, , , 
+, , , Acacia Sapling, , Emerald
+, , , Emerald, , Acacia Log
+, , , Jungle Sapling, , Emerald
+, , , Emerald, , Jungle Log
+, , 4, , , 
+, , , Emerald, , Warped Stem
+, , , Emerald, , Crimson Stem
+, , 5, , , 
+, , , Emerald, , Diamond Axe
+, , , Emerald, , Diamond Hoe
+paladins:monk, paladins:monk, , , , 
+, , 1, , , 
+, , , Emerald, , Healing Rune
+, , , Emerald, , Acolyte Wand
+, , , Emerald, , Wooden Great Hammer
+, , 2, , , 
+, , , White Wool, , Emerald
+, , , Iron Ingot, , Emerald
+, , , Chain, , Emerald
+, , , Gold Ingot, , Emerald
+, , , Emerald, , Holy Staff
+, , , Emerald, , Iron Great Hammer
+, , 3, , , 
+, , , Emerald, , Paladin Helmet
+, , , Emerald, , Paladin Boots
+, , , Emerald, , Priest Collar
+, , , Emerald, , Priest Boots
+, , 4, , , 
+, , , Emerald, , Paladin Chestplate
+, , , Emerald, , Paladin Leggings
+, , , Emerald, , Priest Vestment
+, , , Emerald, , Priest Trousers
+, , 5, , , 
+, , , Emerald, , Diamond Holy Staff
+, , , Emerald, , Diamond Claymore
+, , , Emerald, , Diamond Great Hammer
+rats:pet_shop_owner, pet_shop_owner, , , , 
+, , 1, , , 
+, , , Bone, , Emerald
+, , , Rotten Flesh, , Emerald
+, , , Raw Cod, , Emerald
+, , , String, , Emerald
+, , , Egg, , Emerald
+, , , Raw Rat, , Emerald
+, , , Emerald, , Cheese
+, , 2, , , 
+, , , Emerald, , Cooked Rat
+, , , Emerald, Garbage Pile, Plastic Waste
+, , , Emerald, , Raw Marbled Cheese
+, , , Emerald, , Garbage Pile
+, , , Raw Plastic, , Emerald
+, , , Rat Flute, , Emerald
+, , 3, , , 
+, , , Emerald, , Archeologist Hat
+, , , Emerald, , Santa Hat
+, , , Emerald, , Party Hat
+, , , Emerald, , Golden Halo
+, , , Emerald, , Exterminator Hat
+, , 4, , , 
+, , , Emerald, , Rat Upgrade: Basic
+, , , Emerald, , Rat Upgrade: Jury-Rigged
+, , , Emerald, , Rat Upgrade: Blacklist
+, , , Emerald, , Rat Upgrade: Whitelist
+, , , Emerald, , Rat Upgrade: Speed
+, , , Emerald, , Rat Upgrade: Health
+, , , Emerald, , Rat Upgrade: Armor
+, , 5, , , 
+, , , Emerald, , Plague Doctorate
+, , , Emerald, , Plague Tome
+, , , Emerald, , Rat Papers
+, , , Emerald, , Charged Creeper Chunk
+, , , Emerald, , Tiny Coin
+viavens_flowers:gardener, viavens_flowers:gardener, , , , 
+, , 1, , , 
+, , , Amaranth grains, , Red Spider Lily
+, , , Amaranth grains, , Red Spider Lilies
+, , , Amaranth grains, , Bluebell
+, , , Amaranth grains, , Wolfsbane
+, , , Amaranth grains, , Lavender
+, , , Amaranth grains, , Marigold
+, , , Amaranth grains, , Goldenrod
+, , , Marigold, , Pink hyacinth
+, , , Lavender, , Purple hyacinth
+, , , Goldenrod, , Yellow hyacinth
+, , , Amaranth grains, , Twilight Iris
+, , , Amaranth grains, , Indian Paintbrush
+, , , Amaranth grains, , Yucca
+, , , Amaranth grains, , Sand Verbana
+, , 2, , , 
+, , , Amaranth grains, , Sunset Iris
+, , , Amaranth grains, , Bleeding Heart Rose
+, , , Amaranth grains, , Bleeding Heart Pink
+, , , Amaranth grains, , Purple Larkspur
+, , , Amaranth grains, , Purple Larkspur
+, , , Amaranth grains, , Pink Larkspur
+, , , Amaranth grains, , White Larkspur
+, , 3, , , 
+, , , Amaranth grains, , Pink foxglove
+, , , Amaranth grains, , Purple foxglove
+, , , Amaranth grains, , Yellow foxglove
+, , , Amaranth grains, , Magenta foxglove
+, , , Amaranth grains, , White & Pink Snapdragon
+, , , Amaranth grains, , Orange & Yellow Snapdragon
+, , , Amaranth grains, , Red & Purple Snapdragon
+, , 4, , , 
+, , , Amaranth grains, , Purple Gladiolus
+, , , Amaranth grains, , Pink Gladiolus
+, , , Amaranth grains, , Orange Gladiolus
+, , , Amaranth grains, , Yellow Gladiolus
+, , , Amaranth grains, , Light Blue Delphinium
+, , , Amaranth grains, , Blue Delphinium
+, , , Amaranth grains, , Magenta Delphinium
+, , , Amaranth grains, , Red Delphinium
+, , 5, , , 
+, , , Amaranth bale, , Ashlights
+, , , Amaranth bale, , Infrit Rose
+, , , Amaranth bale, , Glowrose bundle
+, , , Amaranth bale, , Glowrose bundle
+, , , Amaranth bale, , Purrfly bundle
+, , , Amaranth bale, , Purrfly flower
+, , , Amaranth bale, , Weeping Bells
+, , , Amaranth bale, , Weeping Bells
+viavens_flowers:mushgardener, viavens_flowers:mushgardener, , , , 
+, , 1, , , 
+, , , Amaranth grains, , Red Mushroom
+, , , Amaranth grains, , Brown Mushroom
+, , 2, , , 
+, , , Amaranth grains, , Button mushroom
+, , , Amaranth grains, , Chanterelle
+, , 3, , , 
+, , , Amaranth grains, , Black Trumpet
+, , , Amaranth grains, , Inkcap mushroom
+, , 4, , , 
+, , , Amaranth grains, , Green glowshroom
+, , , Amaranth grains, , Blue glowshroom
+, , , Amaranth grains, , Seafoam glowshroom
+, , , Amaranth grains, , Purple glowshroom
+, , , Amaranth grains, , Green glowshroom
+, , , Amaranth grains, , Blue glowshroom
+, , , Amaranth grains, , Seafoam glowshroom
+, , , Amaranth grains, , Purple glowshroom
+, , 5, , , 
+, , , Amaranth bale, , Purrshroom
+, , , Amaranth bale, , Lavashroom
+, , , Amaranth bale, , Deepshroom
+villagersplus:alchemist, villagersplus:alchemist, , , , 
+, , 1, , , 
+, , , Emerald, , Sugar
+, , , Emerald, , Brown Mushroom
+, , , Emerald, , Red Mushroom
+, , , Emerald, , Nether Wart
+, , , Glass Bottle, , Emerald
+, , 2, , , 
+, , , Emerald, , Magma Cream
+, , , Emerald, , Pufferfish
+, , , Emerald, , Fermented Spider Eye
+, , , Water Bottle, Emerald, Potion of Berserking
+, , 3, , , 
+, , , Emerald, , Blaze Powder
+, , , Emerald, , Ghast Tear
+, , , Emerald, , Phantom Membrane
+, , , Blaze Rod, , Emerald
+, , , Ender Pearl, , Emerald
+, , 4, , , 
+, , , Water Bottle, Emerald, Splash Potion of Swiftness
+, , 5, , , 
+, , , Emerald, , Dragon's Breath
+, , , Emerald, , Glistering Melon Slice
+, , , Emerald, , Rabbit's Foot
+villagersplus:horticulturist, villagersplus:horticulturist, , , , 
+, , 1, , , 
+, , , Emerald, , Oxeye Daisy
+, , , Emerald, , Red Poppy
+, , , Emerald, , Purple Allium
+, , , Emerald, , Azure Bluet
+, , , Emerald, , Blue Cornflower
+, , , Emerald, , White Lily of the Valley
+, , , Emerald, , Yellow Dandelion
+, , , Wheat Seeds, , Emerald
+, , , Beetroot Seeds, , Emerald
+, , , Melon Seeds, , Emerald
+, , , Pumpkin Seeds, , Emerald
+, , 2, , , 
+, , , Emerald, , Spruce Leaves
+, , , Emerald, , Birch Leaves
+, , , Emerald, , Acacia Leaves
+, , , Emerald, , Azalea Leaves
+, , , Emerald, , Dark Oak Leaves
+, , , Emerald, , Jungle Leaves
+, , , Emerald, , Mangrove Leaves
+, , , Emerald, , Oak Leaves
+, , , Emerald, , Cherry Leaves
+, , , Stick, Emerald, Dead Bush
+, , , Grass, , Emerald
+, , , Fern, , Emerald
+, , 3, , , 
+, , , Emerald, , Orange Tulip
+, , , Emerald, , Red Tulip
+, , , Emerald, , White Tulip
+, , , Emerald, , Pink Tulip
+, , , Emerald, , Flower Pot
+, , , Spruce Sapling, , Emerald
+, , , Acacia Sapling, , Emerald
+, , , Birch Sapling, , Emerald
+, , , Dark Oak Sapling, , Emerald
+, , , Jungle Sapling, , Emerald
+, , , Cherry Sapling, , Emerald
+, , , Oak Sapling, , Emerald
+, , 4, , , 
+, , , Emerald, , Sunflower
+, , , Emerald, , Red Rose Bush
+, , , Emerald, , Magenta Lilac
+, , , Emerald, , Pink Peony
+, , , Rooted Dirt, , Emerald
+, , , Podzol, , Emerald
+, , 5, , , 
+, , , Emerald, , Pink Petals
+, , , Emerald, , Blue Orchid
+, , , Emerald, , Wither Rose
+, , , Emerald, , Flowering Azalea Leaves
+, , , Emerald, , Spore Blossom
+, , , Moss Block, , Emerald
+, , , Bone Meal, , Emerald
+villagersplus:occultist, villagersplus:occultist, , , , 
+, , 1, , , 
+, , , Emerald, , Small Amethyst Bud
+, , , Emerald, , Medium Amethyst Bud
+, , , Emerald, , Large Amethyst Bud
+, , , Emerald, , Amethyst Cluster
+, , , Emerald, , Tinted Glass
+, , , Amethyst Shard, , Emerald
+, , , Glow Ink Sac, , Emerald
+, , 2, , , 
+, , , Emerald, , Soul Lantern
+, , , Emerald, , Soul Torch
+, , , Emerald, , Glowstone Dust
+, , , Soul Sand, , Emerald
+, , , Soul Soil, , Emerald
+, , 3, , , 
+, , , Emerald, , Red Candle
+, , , Emerald, , Orange Candle
+, , , Emerald, , Yellow Candle
+, , , Emerald, , Lime Candle
+, , , Emerald, , Green Candle
+, , , Emerald, , Light Blue Candle
+, , , Emerald, , Blue Candle
+, , , Emerald, , Cyan Candle
+, , , Emerald, , Magenta Candle
+, , , Emerald, , Pink Candle
+, , , Emerald, , Purple Candle
+, , , Emerald, , White Candle
+, , , Emerald, , Gray Candle
+, , , Emerald, , Light Gray Candle
+, , , Emerald, , Black Candle
+, , , Emerald, , Brown Candle
+, , 4, , , 
+, , , Emerald, , Nether Quartz
+, , , Emerald, , Spectral Arrow
+, , , Emerald, , Candle
+, , 5, , , 
+, , , Emerald, , Bottle o' Enchanting
+, , , Poisonous Potato, , Emerald
+villagersplus:oceanographer, villagersplus:oceanographer, , , , 
+, , 1, , , 
+, , , Emerald, , Sea Pickle
+, , , Emerald, , Water Bucket
+, , , Seagrass, , Emerald
+, , , Kelp, , Emerald
+, , 2, , , 
+, , , Emerald, , Brain Coral
+, , , Emerald, , Bubble Coral
+, , , Emerald, , Fire Coral
+, , , Emerald, , Horn Coral
+, , , Emerald, , Tube Coral
+, , , Dead Tube Coral, Emerald, Tube Coral
+, , , Dead Brain Coral, Emerald, Brain Coral
+, , , Dead Bubble Coral, Emerald, Bubble Coral
+, , , Dead Horn Coral, Emerald, Horn Coral
+, , , Dead Fire Coral, Emerald, Fire Coral
+, , 3, , , 
+, , , Emerald, , Brain Coral Fan
+, , , Emerald, , Bubble Coral Fan
+, , , Emerald, , Fire Coral Fan
+, , , Emerald, , Horn Coral Fan
+, , , Emerald, , Tube Coral Fan
+, , , Dead Tube Coral Fan, Emerald, Tube Coral Fan
+, , , Dead Brain Coral Fan, Emerald, Brain Coral Fan
+, , , Dead Bubble Coral Fan, Emerald, Bubble Coral Fan
+, , , Dead Horn Coral Fan, Emerald, Horn Coral Fan
+, , , Dead Fire Coral Fan, Emerald, Fire Coral Fan
+, , 4, , , 
+, , , Emerald, , Brain Coral Block
+, , , Emerald, , Bubble Coral Block
+, , , Emerald, , Fire Coral Block
+, , , Emerald, , Horn Coral Block
+, , , Emerald, , Tube Coral Block
+, , , Dead Tube Coral Block, Emerald, Tube Coral Block
+, , , Dead Brain Coral Block, Emerald, Brain Coral Block
+, , , Dead Bubble Coral Block, Emerald, Bubble Coral Block
+, , , Dead Horn Coral Block, Emerald, Horn Coral Block
+, , , Dead Fire Coral Block, Emerald, Fire Coral Block
+, , 5, , , 
+, , , Emerald, , Nautilus Shell
+, , , Emerald, , Sponge
+, , , Scute, , Emerald
+, , , Bucket of Tropical Fish, , Emerald
+, , , Bucket of Axolotl, , Emerald
+, , , Bucket of Pufferfish, , Emerald
+wizards:wizard_merchant, wizards:wizard_merchant, , , , 
+, , 1, , , 
+, , , Emerald, , Arcane Rune
+, , , Emerald, , Fire Rune
+, , , Emerald, , Frost Rune
+, , 2, , , 
+, , , Emerald, , Wizard Staff
+, , , Emerald, , Novice Wand
+, , , Emerald, , Arcane Wand
+, , , Emerald, , Fire Wand
+, , , Emerald, , Frost Wand
+, , , White Wool, , Emerald
+, , , Lapis Lazuli, , Emerald
+, , 3, , , 
+, , , Emerald, , Wizard Hat
+, , , Emerald, , Wizard Boots
+, , 4, , , 
+, , , Emerald, , Wizard Robe Top
+, , , Emerald, , Wizard Robe Bottom
+, , 5, , , 
+, , , Emerald, , Arcane Staff
+, , , Emerald, , Fire Staff
+, , , Emerald, , Frost Staff
+----------------------------------------------------
+Registry name, Profession, Level, Buy 1, Buy 2, Sell
+----------------------------------------------------

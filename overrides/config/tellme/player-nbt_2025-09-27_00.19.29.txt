@@ -1,0 +1,3533 @@
+Entity: herbert030 [registry name: minecraft:player] (entityId: 245)
+Entity class: net.minecraft.server.level.ServerPlayer
+
++-----------------+-----------+----------+---------+
+| Effect          | Amplifier | Duration | Ambient |
++-----------------+-----------+----------+---------+
+| minecraft:haste |         0 |       24 | false   |
++-----------------+-----------+----------+---------+
+| Effect          | Amplifier | Duration | Ambient |
++-----------------+-----------+----------+---------+
+
+[TAG_Compound (67 values)] 
+{
+    [TAG_Float] "AbsorptionAmount": 0.0
+    [TAG_List (1 values of type TAG_Compound)] "ActiveEffects"
+    [
+        [TAG_Compound (8 values)] 
+        {
+            [TAG_Byte] "Ambient": 0
+            [TAG_Byte] "Amplifier": 0
+            [TAG_List (1 values of type TAG_Compound)] "CurativeItems"
+            [
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_Byte] "Count": 1
+                    [TAG_String] "id": "minecraft:milk_bucket"
+                }
+            ]
+            [TAG_Int] "Duration": 24
+            [TAG_Int] "Id": 3
+            [TAG_Byte] "ShowIcon": 1
+            [TAG_Byte] "ShowParticles": 1
+            [TAG_String] "forge:id": "minecraft:haste"
+        }
+    ]
+    [TAG_Short] "Air": 300
+    [TAG_List (16 values of type TAG_Compound)] "Attributes"
+    [
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 20.0
+            [TAG_String] "Name": "minecraft:generic.max_health"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.1
+            [TAG_String] "Name": "caelus:fall_flying"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 1.0
+            [TAG_String] "Name": "forge:swim_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "minecraft:generic.armor"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "minecraft:generic.knockback_resistance"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "ranged_weapon:damage"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.08
+            [TAG_String] "Name": "forge:entity_gravity"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 100.0
+            [TAG_String] "Name": "more_rpg_classes:damage_reflect_modifier"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "reach-entity-attributes:reach"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 1.0
+            [TAG_String] "Name": "minecraft:generic.attack_damage"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 3.0
+            [TAG_String] "Name": "forge:entity_reach"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "illagerrevolutionmod:soul"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.10000000149011612
+            [TAG_String] "Name": "minecraft:generic.movement_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 4.5
+            [TAG_String] "Name": "forge:block_reach"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "forge:step_height_addition"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Double] "Base": 4.0
+            [TAG_List (1 values of type TAG_Compound)] "Modifiers"
+            [
+                [TAG_Compound (4 values)] 
+                {
+                    [TAG_Double] "Amount": 0.10000000149011612
+                    [TAG_String] "Name": "effect.minecraft.haste 0"
+                    [TAG_Int] "Operation": 2
+                    [TAG_Int_Array (4 entries)] "UUID"
+                    [
+                          0: 0xAF8B6E3F (-1349816769)
+                          1: 0x33284C0A (858278922)
+                          2: 0xAA365BA2 (-1439278174)
+                          3: 0xBB9DBEF3 (-1147289869)
+                    ]
+                }
+            ]
+            [TAG_String] "Name": "minecraft:generic.attack_speed"
+        }
+    ]
+    [TAG_Compound (0 values)] "BalmData"
+    {
+    }
+    [TAG_Compound (2 values)] "BannerStack"
+    {
+        [TAG_Byte] "Count": 1
+        [TAG_String] "id": "minecraft:air"
+    }
+    [TAG_List (1 values of type TAG_Compound)] "BlueprintTrackedData"
+    [
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Byte] "Boolean": 0
+            [TAG_String] "Id": "savage_and_ravage:invisible_due_to_mask"
+        }
+    ]
+    [TAG_Compound (1 values)] "Brain"
+    {
+        [TAG_Compound (0 values)] "memories"
+        {
+        }
+    }
+    [TAG_Byte] "CanUpdate": 1
+    [TAG_Compound (0 values)] "CitadelData"
+    {
+    }
+    [TAG_Int] "DataVersion": 3465
+    [TAG_Short] "DeathTime": 0
+    [TAG_String] "Dimension": "minecraft:overworld"
+    [TAG_List (0 values of type ?)] "EnderItems"
+    [
+    ]
+    [TAG_Float] "FallDistance": 0.0
+    [TAG_Byte] "FallFlying": 0
+    [TAG_Int] "FarseerAlterringTime": 0
+    [TAG_Int] "FarseerStalkingDelay": 0
+    [TAG_Float] "FarseerStalkingTime": 0.0
+    [TAG_Short] "Fire": -20
+    [TAG_Compound (49 values)] "ForgeCaps"
+    {
+        [TAG_Compound (8 values)] "aether:aether_player"
+        {
+            [TAG_Byte] "CanGetPortal": 0
+            [TAG_Byte] "CanShowPatreonMessage": 1
+            [TAG_Byte] "CanSpawnInAether": 0
+            [TAG_Byte] "HasSeenSunSpirit": 0
+            [TAG_Int] "LifeShardCount": 0
+            [TAG_Int] "LoginsUntilPatreonMessage": -1
+            [TAG_Int] "RemedyStartDuration": 0
+            [TAG_Float] "SavedHealth": 0.0
+        }
+        [TAG_Compound (5 values)] "aether_redux:redux_player"
+        {
+            [TAG_Compound (2 values)] "blightshade_module"
+            {
+                [TAG_Int] "cooldown": 0
+                [TAG_Int] "effect_cooldown": 0
+            }
+            [TAG_Int] "jumps": 0
+            [TAG_Compound (3 values)] "lore_module"
+            {
+                [TAG_Compound (2 values)] "biome"
+                {
+                    [TAG_Int] "regions_unexplored:grassland": 1
+                    [TAG_Int] "regions_unexplored:prairie": 1
+                }
+                [TAG_Compound (0 values)] "entity"
+                {
+                }
+                [TAG_String] "item": ""
+            }
+            [TAG_Int] "max_jumps": 0
+            [TAG_Int] "ticks_in_air": 0
+        }
+        [TAG_Compound (3 values)] "aether_redux:vampire_amulet"
+        {
+            [TAG_Byte] "active": 0
+            [TAG_Byte] "has_curio": 0
+            [TAG_Int] "timer": 24000
+        }
+        [TAG_Compound (5 values)] "alexs_caves_plus:player_variables"
+        {
+            [TAG_Byte] "has_home": 0
+            [TAG_Double] "home_x": 0.0
+            [TAG_Double] "home_y": 0.0
+            [TAG_Double] "home_z": 0.0
+            [TAG_Double] "th_bomb": 0.0
+        }
+        [TAG_Compound (12 values)] "blue_skies:player_capability"
+        {
+            [TAG_List (4 values of type TAG_Compound)] "ArcInventory"
+            [
+                [TAG_Compound (3 values)] 
+                {
+                    [TAG_Byte] "Count": 1
+                    [TAG_Byte] "Slot": 0
+                    [TAG_String] "id": "minecraft:air"
+                }
+                [TAG_Compound (3 values)] 
+                {
+                    [TAG_Byte] "Count": 1
+                    [TAG_Byte] "Slot": 1
+                    [TAG_String] "id": "minecraft:air"
+                }
+                [TAG_Compound (3 values)] 
+                {
+                    [TAG_Byte] "Count": 1
+                    [TAG_Byte] "Slot": 2
+                    [TAG_String] "id": "minecraft:air"
+                }
+                [TAG_Compound (3 values)] 
+                {
+                    [TAG_Byte] "Count": 1
+                    [TAG_Byte] "Slot": 3
+                    [TAG_String] "id": "minecraft:air"
+                }
+            ]
+            [TAG_Byte] "EverbrightProgression": 0
+            [TAG_Byte] "EverdawnProgression": 0
+            [TAG_Byte] "FullDuskInvis": 0
+            [TAG_Compound (3 values)] "KeystoneTeleportPos"
+            {
+                [TAG_Int] "X": 0
+                [TAG_Int] "Y": 0
+                [TAG_Int] "Z": 0
+            }
+            [TAG_Float] "NatureHealth": 0.0
+            [TAG_Byte] "OpenedBlueLore": 0
+            [TAG_Byte] "SupporterPetAudible": 0
+            [TAG_Byte] "SupporterPetEnabled": 0
+            [TAG_Byte] "SupporterPetID": 0
+            [TAG_Byte] "SupporterStyleID": 0
+            [TAG_Byte] "UsedBlueLore": 0
+        }
+        [TAG_Compound (1 values)] "born_in_chaos_v1:player_variables"
+        {
+            [TAG_Double] "naughtiness": 0.0
+        }
+        [TAG_Compound (1 values)] "botania:kept_items"
+        {
+            [TAG_List (0 values of type ?)] "stacks"
+            [
+            ]
+        }
+        [TAG_Compound (3 values)] "comforts:sleep_data"
+        {
+            [TAG_Long] "sleepTime": 0
+            [TAG_Long] "tiredTime": 0
+            [TAG_Long] "wakeTime": 0
+        }
+        [TAG_Compound (1 values)] "curios:inventory"
+        {
+            [TAG_List (13 values of type TAG_Compound)] "Curios"
+            [
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "head"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 1
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "necklace"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "back"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "body"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "ring"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 3
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (3 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 1
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 2
+                                }
+                            ]
+                            [TAG_Int] "Size": 3
+                        }
+                        [TAG_Int] "SavedBaseSize": 3
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 3
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "belt"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "charm"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_accessory"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (2 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 1
+                                }
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Int] "SavedBaseSize": 2
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_cape"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_gloves"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_pendant"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_ring"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (2 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 1
+                                }
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Int] "SavedBaseSize": 2
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "aether_shield"
+                    [TAG_Compound (8 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_String] "DropRule": "DEFAULT"
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Byte] "RenderToggle": 1
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SavedBaseSize": 1
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 0
+                    }
+                }
+            ]
+        }
+        [TAG_Compound (0 values)] "deep_aether:deep_aether_player"
+        {
+        }
+        [TAG_Compound (23 values)] "deep_dark_regrowth:player_variables"
+        {
+            [TAG_Byte] "CaveChimesPlaying": 0
+            [TAG_Byte] "KonamiCode__A": 0
+            [TAG_Byte] "KonamiCode__B": 0
+            [TAG_Byte] "KonamiCode__DOWN1": 0
+            [TAG_Byte] "KonamiCode__DOWN2": 0
+            [TAG_Byte] "KonamiCode__ENTER": 0
+            [TAG_Byte] "KonamiCode__LEFT1": 0
+            [TAG_Byte] "KonamiCode__LEFT2": 0
+            [TAG_Byte] "KonamiCode__RIGHT1": 0
+            [TAG_Byte] "KonamiCode__RIGHT2": 0
+            [TAG_Byte] "KonamiCode__START": 1
+            [TAG_Byte] "KonamiCode__UP1": 0
+            [TAG_Byte] "KonamiCode__UP2": 0
+            [TAG_Byte] "NewMaxHealth1": 0
+            [TAG_Byte] "NewMaxHealth2": 0
+            [TAG_Byte] "NewMaxHealth3": 0
+            [TAG_Byte] "NewMaxHealth4": 0
+            [TAG_Byte] "NewMaxHealth5": 0
+            [TAG_Byte] "PlayerMaxHealth22": 0
+            [TAG_Byte] "PlayerMaxHealth24": 0
+            [TAG_Byte] "PlayerMaxHealth26": 0
+            [TAG_Byte] "PlayerMaxHealth28": 0
+            [TAG_Byte] "PlayerMaxHealth30": 0
+        }
+        [TAG_Compound (1 values)] "dungeonnowloading:dnl_arm_pose"
+        {
+            [TAG_String] "DNLArmPose": "empty"
+        }
+        [TAG_Compound (1 values)] "dungeonnowloading:fairkeeper_chest_positions"
+        {
+            [TAG_List (0 values of type ?)] "FairkeeperChestPositions"
+            [
+            ]
+        }
+        [TAG_Compound (1 values)] "effortlessbuilding:power_level"
+        {
+            [TAG_Int] "powerLevel": 0
+        }
+        [TAG_Compound (12 values)] "enlightened_end:player_variables"
+        {
+            [TAG_Double] "barrenambiencetimer": 1470.0
+            [TAG_Double] "dashing_cooldown": 0.0
+            [TAG_Byte] "end_playing": 0
+            [TAG_Double] "endbarrenswind": 36.0
+            [TAG_Byte] "enteredEnd": 0
+            [TAG_Double] "flypacktime": 0.0
+            [TAG_Double] "music_time": 0.0
+            [TAG_Double] "oozeraindistant": 0.0
+            [TAG_Double] "oozerainhigh": 0.0
+            [TAG_Double] "radiated": 0.0
+            [TAG_Double] "radiation": 0.0
+            [TAG_Double] "raintimer": 0.0
+        }
+        [TAG_Compound (2 values)] "fairylights:fastener"
+        {
+            [TAG_List (0 values of type ?)] "incoming"
+            [
+            ]
+            [TAG_List (0 values of type ?)] "outgoing"
+            [
+            ]
+        }
+        [TAG_Compound (5 values)] "feywild:player_quests"
+        {
+            [TAG_Compound (0 values)] "Active"
+            {
+            }
+            [TAG_String] "Alignment": "unaligned"
+            [TAG_List (0 values of type ?)] "Completed"
+            [
+            ]
+            [TAG_List (0 values of type ?)] "Pending"
+            [
+            ]
+            [TAG_Int] "Reputation": 0
+        }
+        [TAG_Compound (3 values)] "illagerrevolutionmod:ability_knight"
+        {
+            [TAG_Byte] "isProtection": 0
+            [TAG_Byte] "isShieldSoul": 0
+            [TAG_Int] "sourceUUID": 0
+        }
+        [TAG_Compound (3 values)] "illagerrevolutionmod:knight"
+        {
+            [TAG_Byte] "isProtection": 0
+            [TAG_Byte] "isShieldSoul": 0
+            [TAG_Int] "sourceUUID": 0
+        }
+        [TAG_Compound (1 values)] "illagerrevolutionmod:mauled"
+        {
+            [TAG_Double] "armorNatural": 0.0
+        }
+        [TAG_Compound (1 values)] "illagerrevolutionmod:mauled_effect"
+        {
+            [TAG_Double] "armorNatural": 0.0
+        }
+        [TAG_Compound (37 values)] "inventorypets:ip_data"
+        {
+            [TAG_String] "biometosend": ""
+            [TAG_Int] "cloudflight": 0
+            [TAG_Int] "damage": 0
+            [TAG_Int] "gift1": 0
+            [TAG_Int] "gift10": 0
+            [TAG_Int] "gift11": 0
+            [TAG_Int] "gift12": 0
+            [TAG_Int] "gift2": 0
+            [TAG_Int] "gift3": 0
+            [TAG_Int] "gift4": 0
+            [TAG_Int] "gift5": 0
+            [TAG_Int] "gift6": 0
+            [TAG_Int] "gift7": 0
+            [TAG_Int] "gift8": 0
+            [TAG_Int] "gift9": 0
+            [TAG_List (0 values of type ?)] "graveitems"
+            [
+            ]
+            [TAG_Int] "holiday1": 0
+            [TAG_Int] "holiday10": 0
+            [TAG_Int] "holiday11": 0
+            [TAG_Int] "holiday12": 0
+            [TAG_Int] "holiday2": 0
+            [TAG_Int] "holiday3": 0
+            [TAG_Int] "holiday4": 0
+            [TAG_Int] "holiday5": 0
+            [TAG_Int] "holiday6": 0
+            [TAG_Int] "holiday7": 0
+            [TAG_Int] "holiday8": 0
+            [TAG_Int] "holiday9": 0
+            [TAG_Int] "keyinput": 0
+            [TAG_Int] "multiplier": 0
+            [TAG_String] "name": ""
+            [TAG_Int] "powerup": 0
+            [TAG_Int] "rapidshot": 0
+            [TAG_Int] "restoreitems": 0
+            [TAG_Int] "shield": 0
+            [TAG_Int] "slot": 0
+            [TAG_Long] "time": 0
+        }
+        [TAG_Compound (2 values)] "ironfurnaces:furnaces_list"
+        {
+            [TAG_Int] "count": 0
+            [TAG_Compound (0 values)] "furnaces"
+            {
+            }
+        }
+        [TAG_Compound (1 values)] "ironfurnaces:show_config"
+        {
+            [TAG_Int] "show": 0
+        }
+        [TAG_Compound (2 values)] "l2library:conditionals"
+        {
+            [TAG_Compound (0 values)] "data"
+            {
+            }
+            [TAG_Int] "tickSinceDeath": 34530
+        }
+        [TAG_Compound (3 values)] "lost_aether_content:player_capability"
+        {
+            [TAG_Byte] "InKingFight": 0
+            [TAG_Int] "PhoenixRiseTime": 0
+            [TAG_Int] "WhaleFogTime": 0
+        }
+        [TAG_Compound (23 values)] "luminous_butterflies:player_variables"
+        {
+            [TAG_Byte] "Birdwing": 0
+            [TAG_Byte] "Blackswallowtail": 0
+            [TAG_Byte] "Bluemonarch": 0
+            [TAG_Byte] "Buckeye": 0
+            [TAG_Byte] "Charaxes": 0
+            [TAG_Byte] "Cherryrose": 0
+            [TAG_Byte] "ChorusMorpho": 0
+            [TAG_Byte] "CrimsonMonarch": 0
+            [TAG_Byte] "EmeraldSwallowtail": 0
+            [TAG_Byte] "Enderfly": 0
+            [TAG_Byte] "GlowstoneMorpho": 0
+            [TAG_Byte] "Hairstreak": 0
+            [TAG_Byte] "Littlewood": 0
+            [TAG_Byte] "Monarch": 0
+            [TAG_Byte] "Mourningcloak": 0
+            [TAG_Byte] "Orangetip": 0
+            [TAG_Byte] "Ringlet": 0
+            [TAG_Byte] "Rustypage": 0
+            [TAG_Byte] "SoulMonarch": 0
+            [TAG_Byte] "Springazure": 0
+            [TAG_Byte] "Whitehairstreak": 0
+            [TAG_Byte] "YellowSwallowtail": 0
+            [TAG_Byte] "Zebralongwing": 0
+        }
+        [TAG_Compound (0 values)] "mowziesmobs:ability"
+        {
+        }
+        [TAG_Compound (0 values)] "mowziesmobs:ability_cap"
+        {
+        }
+        [TAG_Compound (12 values)] "mowziesmobs:frozen"
+        {
+            [TAG_Int] "freezeDecayDelay": 0
+            [TAG_Float] "freezeProgress": 0.0
+            [TAG_Byte] "frozen": 0
+            [TAG_Float] "frozenPitch": 0.0
+            [TAG_Float] "frozenRenderYawOffset": 0.0
+            [TAG_Float] "frozenSwingProgress": 0.0
+            [TAG_Float] "frozenWalkAnimPosition": 0.0
+            [TAG_Float] "frozenWalkAnimSpeed": 0.0
+            [TAG_Float] "frozenYaw": 0.0
+            [TAG_Float] "frozenYawHead": 0.0
+            [TAG_Byte] "prevFrozen": 0
+            [TAG_Byte] "prevHasAI": 1
+        }
+        [TAG_Compound (12 values)] "mowziesmobs:frozen_cap"
+        {
+            [TAG_Int] "freezeDecayDelay": 0
+            [TAG_Float] "freezeProgress": 0.0
+            [TAG_Byte] "frozen": 0
+            [TAG_Float] "frozenPitch": 0.0
+            [TAG_Float] "frozenRenderYawOffset": 0.0
+            [TAG_Float] "frozenSwingProgress": 0.0
+            [TAG_Float] "frozenWalkAnimPosition": 0.0
+            [TAG_Float] "frozenWalkAnimSpeed": 0.0
+            [TAG_Float] "frozenYaw": 0.0
+            [TAG_Float] "frozenYawHead": 0.0
+            [TAG_Byte] "prevFrozen": 0
+            [TAG_Byte] "prevHasAI": 1
+        }
+        [TAG_Compound (0 values)] "mowziesmobs:last_damage"
+        {
+        }
+        [TAG_Compound (0 values)] "mowziesmobs:living_cap"
+        {
+        }
+        [TAG_Compound (4 values)] "mowziesmobs:player"
+        {
+            [TAG_Int] "prevTime": 0
+            [TAG_Int] "time": 0
+            [TAG_Int] "untilAxeSwing": 0
+            [TAG_Int] "untilSunstrike": 0
+        }
+        [TAG_Compound (4 values)] "mowziesmobs:player_cap"
+        {
+            [TAG_Int] "prevTime": 0
+            [TAG_Int] "time": 0
+            [TAG_Int] "untilAxeSwing": 0
+            [TAG_Int] "untilSunstrike": 0
+        }
+        [TAG_Compound (0 values)] "mutantmonsters:seismic_waves"
+        {
+        }
+        [TAG_Compound (24 values)] "neighborly:player_variables"
+        {
+            [TAG_Double] "barryHappiness": 0.0
+            [TAG_Double] "barryLastTalk": -99999.0
+            [TAG_Double] "chloeCatLastTalk": -99999.0
+            [TAG_Double] "chloeHappiness": 0.0
+            [TAG_Double] "duckleyHappiness": 0.0
+            [TAG_Double] "duckleyLastTalk": -99999.0
+            [TAG_Double] "duncanHappiness": 0.0
+            [TAG_Double] "duncanLastTalk": -99999.0
+            [TAG_Double] "jammerHappiness": 0.0
+            [TAG_Double] "jammerLastTalk": -99999.0
+            [TAG_Double] "jasperHappiness": 0.0
+            [TAG_Double] "jasperLastTalk": -99999.0
+            [TAG_Double] "roxyHappiness": 0.0
+            [TAG_Double] "roxyLastTalk": -99999.0
+            [TAG_Double] "sapphireHappiness": 0.0
+            [TAG_Double] "sapphireLastTalk": -99999.0
+            [TAG_Double] "shroomerHappiness": 0.0
+            [TAG_Double] "shroomerLastTalk": -99999.0
+            [TAG_Double] "sigmaHappiness": 0.0
+            [TAG_Double] "sigmaLastTalk": -99999.0
+            [TAG_Double] "sparkleHappiness": 0.0
+            [TAG_Double] "sparkleLastTalk": -99999.0
+            [TAG_Double] "thompsonHappiness": 0.0
+            [TAG_Double] "thompsonLastTalk": -99999.0
+        }
+        [TAG_Compound (3 values)] "netheroverhaul:player_variables"
+        {
+            [TAG_Double] "LookX": 0.0
+            [TAG_Double] "LookY": 0.0
+            [TAG_Double] "LookZ": 0.0
+        }
+        [TAG_Compound (1 values)] "piglinproliferation:guaranteed_crit"
+        {
+            [TAG_Byte] "Critical": 0
+        }
+        [TAG_Compound (0 values)] "polymorph:player_recipe_data"
+        {
+        }
+        [TAG_Compound (26 values)] "realmrpg_quests:player_variables"
+        {
+            [TAG_Double] "bookOpenFrame": 0.0
+            [TAG_Double] "bookOpenTimer": 0.0
+            [TAG_Byte] "checkForQuestItems": 0
+            [TAG_Byte] "hasActiveQuest": 0
+            [TAG_Double] "isQuestSpecial": 0.0
+            [TAG_Double] "itemCountTimer": 0.0
+            [TAG_Double] "markerFrame": 0.0
+            [TAG_Double] "markerTimer": 0.0
+            [TAG_Double] "npcDirection": 0.0
+            [TAG_Double] "npcX": 0.0
+            [TAG_Double] "npcZ": 0.0
+            [TAG_String] "questName": """"
+            [TAG_String] "questNpcName": """"
+            [TAG_String] "questNpcUUID": """"
+            [TAG_Double] "questScore": 0.0
+            [TAG_Byte] "questScoreEnough": 0
+            [TAG_Double] "questScoreNeeded": 0.0
+            [TAG_String] "questSpecialEvents": """"
+            [TAG_String] "questTarget": """"
+            [TAG_String] "questTargetSpecialName": """"
+            [TAG_String] "questTaskSpecialName": """"
+            [TAG_Double] "questTracking": 1.0
+            [TAG_String] "questType": """"
+            [TAG_Double] "questsCommonDone": 0.0
+            [TAG_Double] "questsCompleted": 0.0
+            [TAG_Double] "questsRareDone": 0.0
+        }
+        [TAG_Compound (1 values)] "structure_gel:gel_entity"
+        {
+            [TAG_String] "portal": "structure_gel:empty"
+        }
+        [TAG_Compound (91 values)] "theabyss:player_variables"
+        {
+            [TAG_Byte] "AbyssCloak": 0
+            [TAG_Byte] "AbyssCrystalResearch": 0
+            [TAG_Double] "AbyssX": 0.0
+            [TAG_Double] "AbyssY": 0.0
+            [TAG_Double] "AbyssZ": 0.0
+            [TAG_Double] "ArmorPotionLevel": 0.0
+            [TAG_Byte] "AurelCrystalResearch": 0
+            [TAG_Byte] "BarComp": 0
+            [TAG_Byte] "BookSpawn": 1
+            [TAG_Byte] "CavernaCrystalResearch": 0
+            [TAG_Byte] "ClockActive": 0
+            [TAG_Double] "ClockX": 0.0
+            [TAG_Double] "ClockY": 0.0
+            [TAG_Double] "ClockZ": 0.0
+            [TAG_Byte] "ConfigBook": 0
+            [TAG_Byte] "CrimsonCrystalResearch": 0
+            [TAG_Byte] "DestriyAfterLifeItem": 0
+            [TAG_Byte] "EA_Intro": 0
+            [TAG_Byte] "EmptySomnium": 0
+            [TAG_Byte] "EnableManaBar": 1
+            [TAG_Byte] "EnableSomnium": 1
+            [TAG_Double] "EndX": 0.0
+            [TAG_Double] "EndY": 0.0
+            [TAG_Double] "EndZ": 0.0
+            [TAG_Byte] "EnderCrystalResearch": 0
+            [TAG_Byte] "EternalAbyss": 0
+            [TAG_Byte] "FearEffect": 1
+            [TAG_Byte] "FireworkOnJoin": 0
+            [TAG_Byte] "FirstJoin": 0
+            [TAG_Byte] "FoundBody": 0
+            [TAG_Double] "Freeze": 0.0
+            [TAG_Byte] "FriendMode": 0
+            [TAG_Byte] "FrostCrystalResearch": 0
+            [TAG_String] "GetConfigVersion": ""
+            [TAG_String] "GetDimension": """"
+            [TAG_Byte] "HasAbsorb": 0
+            [TAG_Byte] "HasArmor": 0
+            [TAG_Byte] "HasExtraHP": 0
+            [TAG_Byte] "HollowCrystalResearch": 0
+            [TAG_Byte] "HolyPlayer": 0
+            [TAG_Double] "HomeX": 6518.5
+            [TAG_Double] "HomeY": 63.6875
+            [TAG_Double] "HomeZ": 801.5
+            [TAG_Double] "HudX": 0.0
+            [TAG_Double] "HudY": 0.0
+            [TAG_Double] "Infected": 0.0
+            [TAG_Byte] "LPMMode": 0
+            [TAG_Double] "Mana": 0.0
+            [TAG_Byte] "ManaBarToggle": 0
+            [TAG_Byte] "ManaBlinkAnimation": 0
+            [TAG_Double] "ManaCooldown": 1.0
+            [TAG_Double] "ManaDamage": 0.0
+            [TAG_Double] "ManaDurability": 1.0
+            [TAG_Double] "ManaRegenUpgrade": 0.0
+            [TAG_Double] "ManaUpgrade": 1.0
+            [TAG_Double] "NetherX": 0.0
+            [TAG_Double] "NetherY": 0.0
+            [TAG_Double] "NetherZ": 0.0
+            [TAG_Double] "NightbladeX": 0.0
+            [TAG_Double] "NightbladeY": 0.0
+            [TAG_Double] "NightbladeZ": 0.0
+            [TAG_Double] "OverworldX": 0.0
+            [TAG_Double] "OverworldY": 0.0
+            [TAG_Double] "OverworldZ": 0.0
+            [TAG_Byte] "P3": 0
+            [TAG_Byte] "P4": 0
+            [TAG_Byte] "P5": 0
+            [TAG_Byte] "P6": 0
+            [TAG_Byte] "PX": 0
+            [TAG_Byte] "ParticlesOnDeath": 0
+            [TAG_Double] "PlayerRep": 0.0
+            [TAG_String] "Playername": ""
+            [TAG_Byte] "PocketDimension": 0
+            [TAG_Double] "PocketPlayerX": 0.0
+            [TAG_Double] "PocketPlayerY": 0.0
+            [TAG_Double] "PocketPlayerZ": 0.0
+            [TAG_Byte] "Prolog": 1
+            [TAG_Compound (2 values)] "RECIPES"
+            {
+                [TAG_Byte] "Count": 1
+                [TAG_String] "id": "minecraft:air"
+            }
+            [TAG_Byte] "RadioEvent": 0
+            [TAG_Byte] "RingOfHome": 1
+            [TAG_Double] "SaveFD": 0.0
+            [TAG_Double] "SaveHP": 0.0
+            [TAG_Double] "SaveX": 0.0
+            [TAG_Double] "SaveY": 0.0
+            [TAG_Double] "SaveZ": 0.0
+            [TAG_Byte] "SleepEvent": 0
+            [TAG_Byte] "SleepEvent2": 0
+            [TAG_Byte] "SomniumHandler": 0
+            [TAG_Byte] "WalkParticles": 0
+            [TAG_String] "WandAbility": ""
+            [TAG_Byte] "WarpedCrystalResearch": 0
+        }
+        [TAG_Compound (1 values)] "twilightforest:cap_feather_fan_fall"
+        {
+            [TAG_Byte] "featherFanFalling": 0
+        }
+        [TAG_Compound (2 values)] "twilightforest:cap_shield"
+        {
+            [TAG_Int] "permshields": 0
+            [TAG_Int] "tempshields": 0
+        }
+        [TAG_Compound (5 values)] "twilightforest:cap_thrown"
+        {
+            [TAG_Int] "throwCooldown": 0
+            [TAG_Double] "throwX": 0.0
+            [TAG_Double] "throwY": 0.0
+            [TAG_Double] "throwZ": 0.0
+            [TAG_Byte] "yetiThrown": 0
+        }
+        [TAG_Compound (3 values)] "twilightforest:giant_pick_mine"
+        {
+            [TAG_Int] "giantBlockConversion": 0
+            [TAG_Byte] "giantPickBreaking": 0
+            [TAG_Long] "giantPickMining": 0
+        }
+        [TAG_Compound (1 values)] "undead_revamp2:player_variables"
+        {
+            [TAG_Double] "fallinmylove": 1.130906581878662
+        }
+        [TAG_Compound (7 values)] "unusualend:player_variables"
+        {
+            [TAG_Double] "PlayerMusic": -1.0
+            [TAG_Double] "ScrapeOverlay": 0.0
+            [TAG_Double] "SpectralSwing": 0.0
+            [TAG_Byte] "isTeleporting": 0
+            [TAG_Double] "tpX": 0.0
+            [TAG_Double] "tpY": 0.0
+            [TAG_Double] "tpZ": 0.0
+        }
+    }
+    [TAG_Compound (3 values)] "ForgeData"
+    {
+        [TAG_Compound (1 values)] "FeyWildPlayerData"
+        {
+            [TAG_Byte] "feywild_got_lexicon": 1
+        }
+        [TAG_Compound (3 values)] "PlayerPersisted"
+        {
+            [TAG_Compound (1 values)] "BalmData"
+            {
+                [TAG_Compound (1 values)] "WaystonesData"
+                {
+                    [TAG_List (0 values of type ?)] "Waystones"
+                    [
+                    ]
+                }
+            }
+            [TAG_Byte] "alexsmobs_has_book": 1
+            [TAG_Byte] "twilightforest_banished": 1
+        }
+        [TAG_Byte] "quark:trying_crawl": 0
+    }
+    [TAG_Float] "GoldenAirSupply": 0.0
+    [TAG_Float] "Health": 17.0
+    [TAG_Int] "HurtByTimestamp": 0
+    [TAG_Short] "HurtTime": 0
+    [TAG_Compound (4 values)] "Inventorio"
+    {
+        [TAG_List (0 values of type ?)] "DeepPockets"
+        [
+        ]
+        [TAG_Int] "SelectedUtilitySlot": 0
+        [TAG_List (0 values of type ?)] "ToolBelt"
+        [
+        ]
+        [TAG_List (0 values of type ?)] "UtilityBelt"
+        [
+        ]
+    }
+    [TAG_List (19 values of type TAG_Compound)] "Inventory"
+    [
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 0
+            [TAG_String] "id": "gravestone:obituary"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Compound (2 values)] "Death"
+                {
+                    [TAG_Int_Array (4 entries)] "DeathID"
+                    [
+                          0: 0x74272E04 (1948724740)
+                          1: 0x74654E25 (1952796197)
+                          2: 0x86BBA2AD (-2034523475)
+                          3: 0x4329909F (1126797471)
+                    ]
+                    [TAG_Int_Array (4 entries)] "PlayerUUID"
+                    [
+                          0: 0x8F8059E2 (-1887413790)
+                          1: 0x02334705 (36914949)
+                          2: 0x99731719 (-1720510695)
+                          3: 0xA82960B6 (-1473683274)
+                    ]
+                }
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 3
+            [TAG_Byte] "Slot": 1
+            [TAG_String] "id": "biomesoplenty:wildflower"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 2
+            [TAG_String] "id": "minecraft:lead"
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 3
+            [TAG_String] "id": "minecraft:bow"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Int] "Damage": 0
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 4
+            [TAG_String] "id": "minecraft:arrow"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 5
+            [TAG_String] "id": "displaydelight:food_plate"
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 6
+            [TAG_String] "id": "gravestone:obituary"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Compound (2 values)] "Death"
+                {
+                    [TAG_Int_Array (4 entries)] "DeathID"
+                    [
+                          0: 0xDB681F97 (-613933161)
+                          1: 0xB8854A45 (-1199224251)
+                          2: 0xBF518E85 (-1085174139)
+                          3: 0x901DDC36 (-1877091274)
+                    ]
+                    [TAG_Int_Array (4 entries)] "PlayerUUID"
+                    [
+                          0: 0x8F8059E2 (-1887413790)
+                          1: 0x02334705 (36914949)
+                          2: 0x99731719 (-1720510695)
+                          3: 0xA82960B6 (-1473683274)
+                    ]
+                }
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 7
+            [TAG_String] "id": "xp_storage:xp_book"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 62
+            [TAG_Byte] "Slot": 8
+            [TAG_String] "id": "minecraft:glass"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 4
+            [TAG_Byte] "Slot": 9
+            [TAG_String] "id": "minecraft:dirt"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 10
+            [TAG_String] "id": "hexerei:sage_seed"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 11
+            [TAG_String] "id": "minecraft:bone"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 12
+            [TAG_String] "id": "minecraft:brick"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 14
+            [TAG_String] "id": "minecraft:hay_block"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 2
+            [TAG_Byte] "Slot": 16
+            [TAG_String] "id": "farmersdelight:tomato_seeds"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 2
+            [TAG_Byte] "Slot": 18
+            [TAG_String] "id": "minecraft:wheat"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 21
+            [TAG_String] "id": "minecraft:poppy"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 61
+            [TAG_Byte] "Slot": 24
+            [TAG_String] "id": "connectedglass:clear_glass"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 3
+            [TAG_Byte] "Slot": 31
+            [TAG_String] "id": "minecraft:iron_nugget"
+        }
+    ]
+    [TAG_Byte] "Invulnerable": 0
+    [TAG_Compound (2 values)] "LastDeathLocation"
+    {
+        [TAG_String] "dimension": "minecraft:overworld"
+        [TAG_Int_Array (3 entries)] "pos"
+        [
+              0: 0x0000184D (6221)
+              1: 0x0000004D (  77)
+              2: 0x00000148 ( 328)
+        ]
+    }
+    [TAG_List (0 values of type ?)] "LeashedByEntities"
+    [
+    ]
+    [TAG_List (0 values of type ?)] "LeashingEntities"
+    [
+    ]
+    [TAG_List (3 values of type TAG_Double)] "Motion"
+    [
+        [TAG_Double] : 0.0
+        [TAG_Double] : -0.0784000015258789
+        [TAG_Double] : 0.0
+    ]
+    [TAG_Byte] "OnGround": 1
+    [TAG_Int] "PortalCooldown": 0
+    [TAG_List (3 values of type TAG_Double)] "Pos"
+    [
+        [TAG_Double] : 6517.127791390641
+        [TAG_Double] : 67.0
+        [TAG_Double] : 3107.106985468153
+    ]
+    [TAG_List (2 values of type TAG_Float)] "Rotation"
+    [
+        [TAG_Float] : 122.4104
+        [TAG_Float] : 6.2999973
+    ]
+    [TAG_Int] "Score": 0
+    [TAG_Int] "SelectedItemSlot": 3
+    [TAG_Short] "SleepTimer": 0
+    [TAG_Float] "SpawnAngle": -53.091766
+    [TAG_String] "SpawnDimension": "minecraft:overworld"
+    [TAG_Byte] "SpawnForced": 0
+    [TAG_Int] "SpawnX": 6518
+    [TAG_Int] "SpawnY": 63
+    [TAG_Int] "SpawnZ": 801
+    [TAG_Int] "SwipeDelay": 0
+    [TAG_Int] "Swipes": 0
+    [TAG_List (8 values of type TAG_String)] "Tags"
+    [
+        [TAG_String] : "in.eid_0"
+        [TAG_String] : "in.eid_1"
+        [TAG_String] : "in.eid_2"
+        [TAG_String] : "in.eid_3"
+        [TAG_String] : "in.eid_4"
+        [TAG_String] : "minibossbossbar_apotheosisboss_checked"
+        [TAG_String] : "in.eid_5"
+        [TAG_String] : "fetzisdisplays.firstjoin"
+    ]
+    [TAG_Int_Array (4 entries)] "UUID"
+    [
+          0: 0x8F8059E2 (-1887413790)
+          1: 0x02334705 (36914949)
+          2: 0x99731719 (-1720510695)
+          3: 0xA82960B6 (-1473683274)
+    ]
+    [TAG_Byte] "UsingSpectreBoundedSpyglass": 0
+    [TAG_Int] "XpLevel": 0
+    [TAG_Float] "XpP": 0.0
+    [TAG_Int] "XpSeed": 1748286376
+    [TAG_Int] "XpTotal": 0
+    [TAG_Compound (7 values)] "abilities"
+    {
+        [TAG_Float] "flySpeed": 0.05
+        [TAG_Byte] "flying": 0
+        [TAG_Byte] "instabuild": 1
+        [TAG_Byte] "invulnerable": 1
+        [TAG_Byte] "mayBuild": 1
+        [TAG_Byte] "mayfly": 1
+        [TAG_Float] "walkSpeed": 0.1
+    }
+    [TAG_Compound (1 values)] "cardinal_components"
+    {
+        [TAG_Compound (3 values)] "trinkets:trinkets"
+        {
+            [TAG_Compound (1 values)] "charm"
+            {
+                [TAG_Compound (2 values)] "spell_book"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (2 values)] 
+                        {
+                            [TAG_Byte] "Count": 1
+                            [TAG_String] "id": "minecraft:air"
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (1 values)] "chest"
+            {
+                [TAG_Compound (2 values)] "cape"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (2 values)] 
+                        {
+                            [TAG_Byte] "Count": 1
+                            [TAG_String] "id": "minecraft:air"
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (2 values)] "legs"
+            {
+                [TAG_Compound (2 values)] "key"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (2 values)] 
+                        {
+                            [TAG_Byte] "Count": 1
+                            [TAG_String] "id": "minecraft:air"
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "quiver"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (2 values)] 
+                        {
+                            [TAG_Byte] "Count": 1
+                            [TAG_String] "id": "minecraft:air"
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+        }
+    }
+    [TAG_Byte] "deep_Aether$hasBeenHurt": 1
+    [TAG_Float] "foodExhaustionLevel": 3.8495076
+    [TAG_Int] "foodLevel": 14
+    [TAG_Float] "foodSaturationLevel": 0.0
+    [TAG_Int] "foodTickTimer": 0
+    [TAG_Int] "playerGameType": 1
+    [TAG_Compound (20 values)] "recipeBook"
+    {
+        [TAG_Byte] "isBlastingFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isBlastingFurnaceGuiOpen": 0
+        [TAG_Byte] "isFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceGuiOpen": 0
+        [TAG_Byte] "isGuiOpen": 0
+        [TAG_Byte] "isSmokerFilteringCraftable": 0
+        [TAG_Byte] "isSmokerGuiOpen": 0
+        [TAG_Byte] "isaltarFilteringCraftable": 0
+        [TAG_Byte] "isaltarGuiOpen": 0
+        [TAG_Byte] "iscombinerFilteringCraftable": 0
+        [TAG_Byte] "iscombinerGuiOpen": 0
+        [TAG_Byte] "iscookingFilteringCraftable": 0
+        [TAG_Byte] "iscookingGuiOpen": 0
+        [TAG_Byte] "isfreezerFilteringCraftable": 0
+        [TAG_Byte] "isfreezerGuiOpen": 0
+        [TAG_Byte] "isincubatorFilteringCraftable": 0
+        [TAG_Byte] "isincubatorGuiOpen": 0
+        [TAG_List (933 values of type TAG_String)] "recipes"
+        [
+            [TAG_String] : "morecarpets:carpets/pink_stained_glass_carpet"
+            [TAG_String] : "mcwfences:granite_railing_gate"
+            [TAG_String] : "morecarpets:carpets/blue_glazed_terracotta_carpet"
+            [TAG_String] : "beautify:candelabra_blue"
+            [TAG_String] : "morecarpets:carpets/cyan_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/gray_stained_glass_carpet"
+            [TAG_String] : "biomesoplenty:fir_boat"
+            [TAG_String] : "mcwfences:railing_deepslate_brick_wall"
+            [TAG_String] : "morecarpets:carpets/spawner_carpet"
+            [TAG_String] : "morecarpets:carpets/yellow_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:lime_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/gray_concrete_powder_carpet"
+            [TAG_String] : "mcwpaths:stone_crystal_floor"
+            [TAG_String] : "morecarpets:carpets/dark_prismarine_carpet"
+            [TAG_String] : "rats:upgrades/farmer_upgrade"
+            [TAG_String] : "mcwbiomesoplenty:redwood_highley_gate"
+            [TAG_String] : "minecraft:melon"
+            [TAG_String] : "mcwbiomesoplenty:umbran_highley_gate"
+            [TAG_String] : "mcwfences:acacia_curved_gate"
+            [TAG_String] : "supplementaries:fodder"
+            [TAG_String] : "mcwfences:birch_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/sandstone_carpet"
+            [TAG_String] : "mcwbiomesoplenty:umbran_horse_fence"
+            [TAG_String] : "regions_unexplored:willow_boat"
+            [TAG_String] : "morecarpets:carpets/bee_nest_top_carpet"
+            [TAG_String] : "mcwfences:dark_oak_stockade_fence"
+            [TAG_String] : "beautify:candelabra_brown"
+            [TAG_String] : "beautify:candelabra_magenta"
+            [TAG_String] : "buildersdelight:bamboo_glass_2"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_hedge"
+            [TAG_String] : "buildersdelight:bamboo_glass_1"
+            [TAG_String] : "rats:auto_curdler"
+            [TAG_String] : "rats:upgrades/golem_mount_upgrade"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_picket_fence"
+            [TAG_String] : "aether_redux:crystal_boat"
+            [TAG_String] : "minecraft:cobblestone_wall"
+            [TAG_String] : "buildersdelight:bamboo_glass_8"
+            [TAG_String] : "buildersdelight:bamboo_glass_7"
+            [TAG_String] : "buildersdelight:bamboo_glass_6"
+            [TAG_String] : "buildersdelight:bamboo_glass_5"
+            [TAG_String] : "buildersdelight:bamboo_glass_4"
+            [TAG_String] : "buildersdelight:bamboo_glass_3"
+            [TAG_String] : "beautify:candelabra_light_gray"
+            [TAG_String] : "mcwroofs:grass_attic_roof"
+            [TAG_String] : "mcwfences:acacia_wired_fence"
+            [TAG_String] : "mcwwindows:black_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:fir_highley_gate"
+            [TAG_String] : "farmersdelight:melon_popsicle"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_sand_carpet"
+            [TAG_String] : "mcwfences:curved_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/netherrack_carpet"
+            [TAG_String] : "morecarpets:carpets/glowstone_carpet"
+            [TAG_String] : "dyenamics:maroon_stained_glass"
+            [TAG_String] : "mcwfences:acacia_hedge"
+            [TAG_String] : "morecarpets:carpets/prismarine_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/glass_carpet"
+            [TAG_String] : "minecraft:flower_pot"
+            [TAG_String] : "morecarpets:carpets/orange_stained_glass_carpet"
+            [TAG_String] : "beautify:candelabra_lime"
+            [TAG_String] : "supplementaries:bubble_blower"
+            [TAG_String] : "morecarpets:carpets/light_gray_wool_carpet"
+            [TAG_String] : "minecraft:green_stained_glass"
+            [TAG_String] : "croptopia:documentation"
+            [TAG_String] : "mcwwindows:yellow_mosaic_glass"
+            [TAG_String] : "mcwbridges:glass_bridge_stair"
+            [TAG_String] : "aether_redux:glacia_boat"
+            [TAG_String] : "morecarpets:carpets/black_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:flowering_azalea_hedge"
+            [TAG_String] : "farmersdelight:melon_juice"
+            [TAG_String] : "rats:upgrades/chicken_mount_upgrade"
+            [TAG_String] : "morecarpets:carpets/warped_nylium_side_carpet"
+            [TAG_String] : "mcwfences:acacia_stockade_fence"
+            [TAG_String] : "minecraft:orange_stained_glass"
+            [TAG_String] : "mcwfences:prismarine_railing_gate"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_pyramid_gate"
+            [TAG_String] : "mcwbiomesoplenty:willow_highley_gate"
+            [TAG_String] : "mcwfences:warped_horse_fence"
+            [TAG_String] : "twilightforest:canopy_boat"
+            [TAG_String] : "minecraft:cobblestone_stairs"
+            [TAG_String] : "connectedglass:clear_glass_magenta2"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_curved_gate"
+            [TAG_String] : "morecarpets:carpets/light_blue_terracotta_carpet"
+            [TAG_String] : "regions_unexplored:maple_boat"
+            [TAG_String] : "morecarpets:carpets/coal_ore_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_dumble_paving"
+            [TAG_String] : "morecarpets:carpets/yellow_stained_glass_carpet"
+            [TAG_String] : "dyenamics:mint_stained_glass"
+            [TAG_String] : "morecarpets:carpets/cactus_side_carpet"
+            [TAG_String] : "rats:rat_burger"
+            [TAG_String] : "mcwfences:jungle_highley_gate"
+            [TAG_String] : "mcwbiomesoplenty:pine_highley_gate"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_picket_fence"
+            [TAG_String] : "mcwfences:ornate_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:palm_picket_fence"
+            [TAG_String] : "mcwfences:acacia_highley_gate"
+            [TAG_String] : "morecarpets:carpets/red_nether_bricks_carpet"
+            [TAG_String] : "buildersdelight:mangrove_glass_1"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_horse_fence"
+            [TAG_String] : "buildersdelight:mangrove_glass_2"
+            [TAG_String] : "supplementaries:planter_rich"
+            [TAG_String] : "mcwbiomesoplenty:umbran_curved_gate"
+            [TAG_String] : "buildersdelight:mangrove_glass_3"
+            [TAG_String] : "buildersdelight:mangrove_glass_4"
+            [TAG_String] : "netherexp:bone_fence"
+            [TAG_String] : "mcwwindows:bricks_pane_window"
+            [TAG_String] : "buildersdelight:mangrove_glass_5"
+            [TAG_String] : "mcwfences:modern_nether_brick_wall"
+            [TAG_String] : "morecarpets:carpets/hay_block_top_carpet"
+            [TAG_String] : "mcwfences:warped_highley_gate"
+            [TAG_String] : "mcwfences:crimson_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/pumpkin_side_carpet"
+            [TAG_String] : "rats:rat_water_bottle"
+            [TAG_String] : "morecarpets:carpets/oak_log_carpet"
+            [TAG_String] : "mcwfences:sandstone_railing_gate"
+            [TAG_String] : "mcwfences:dark_oak_pyramid_gate"
+            [TAG_String] : "buildersdelight:mangrove_glass_6"
+            [TAG_String] : "buildersdelight:mangrove_glass_7"
+            [TAG_String] : "mcwfences:railing_red_sandstone_wall"
+            [TAG_String] : "buildersdelight:mangrove_glass_8"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_stockade_fence"
+            [TAG_String] : "mcwpaths:dirt_path_block"
+            [TAG_String] : "morecarpets:carpets/emerald_block_carpet"
+            [TAG_String] : "biomesoplenty:mahogany_boat"
+            [TAG_String] : "mcwbiomesoplenty:fir_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/gravel_carpet"
+            [TAG_String] : "morecarpets:carpets/mushroom_stem_carpet"
+            [TAG_String] : "mcwwindows:orange_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/gray_terracotta_carpet"
+            [TAG_String] : "feywild:magical_honey_cookie"
+            [TAG_String] : "mcwfences:vintage_metal_fence"
+            [TAG_String] : "morecarpets:carpets/spruce_log_top_carpet"
+            [TAG_String] : "minecraft:brown_stained_glass"
+            [TAG_String] : "morecarpets:carpets/white_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:willow_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/cobblestone_carpet"
+            [TAG_String] : "morecarpets:carpets/brown_glazed_terracotta_carpet"
+            [TAG_String] : "connectedglass:clear_glass_purple2"
+            [TAG_String] : "mcwfences:nether_brick_grass_topped_wall"
+            [TAG_String] : "regions_unexplored:larch_boat"
+            [TAG_String] : "mcwwindows:white_mosaic_glass_pane"
+            [TAG_String] : "morecarpets:carpets/oak_log_top_carpet"
+            [TAG_String] : "mcwwindows:purple_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/magenta_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/cracked_stone_bricks_carpet"
+            [TAG_String] : "mcwfences:andesite_railing_gate"
+            [TAG_String] : "morecarpets:carpets/lapis_ore_carpet"
+            [TAG_String] : "morecarpets:carpets/yellow_concrete_carpet"
+            [TAG_String] : "biomesoplenty:magenta_dye_from_wildflower"
+            [TAG_String] : "mcwbiomesoplenty:umbran_wired_fence"
+            [TAG_String] : "regions_unexplored:mauve_boat"
+            [TAG_String] : "mcwtrpdoors:print_whispering"
+            [TAG_String] : "morecarpets:carpets/brain_coral_block_carpet"
+            [TAG_String] : "morecarpets:carpets/soul_campfire_fire_carpet"
+            [TAG_String] : "morecarpets:carpets/shroomlight_carpet"
+            [TAG_String] : "morecarpets:carpets/warped_nylium_carpet"
+            [TAG_String] : "mcwfences:oak_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/dark_oak_log_top_carpet"
+            [TAG_String] : "morecarpets:carpets/podzol_top_carpet"
+            [TAG_String] : "mcwfences:deepslate_railing_gate"
+            [TAG_String] : "morecarpets:carpets/cyan_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/warped_wart_block_carpet"
+            [TAG_String] : "mcwfences:deepslate_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/pink_concrete_carpet"
+            [TAG_String] : "mcwwindows:light_blue_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_wired_fence"
+            [TAG_String] : "morecarpets:carpets/dirt_carpet"
+            [TAG_String] : "morecarpets:carpets/acacia_log_top_carpet"
+            [TAG_String] : "mcwfences:stone_grass_topped_wall"
+            [TAG_String] : "mcwfences:mud_brick_grass_topped_wall"
+            [TAG_String] : "morecarpets:carpets/brown_concrete_powder_carpet"
+            [TAG_String] : "biomesoplenty:pine_boat"
+            [TAG_String] : "bclib:tag_piston"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_wired_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_horse_fence"
+            [TAG_String] : "regions_unexplored:oak_boat"
+            [TAG_String] : "twilightdelight:cutting/ice_bow"
+            [TAG_String] : "morecarpets:carpets/green_wool_carpet"
+            [TAG_String] : "minecraft:light_gray_stained_glass"
+            [TAG_String] : "mcwwindows:yellow_mosaic_glass_pane"
+            [TAG_String] : "phantasm:crystal_glass"
+            [TAG_String] : "buildersdelight:jungle_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:magic_picket_fence"
+            [TAG_String] : "buildersdelight:jungle_glass_5"
+            [TAG_String] : "netherexp:bone_rod"
+            [TAG_String] : "buildersdelight:jungle_glass_2"
+            [TAG_String] : "minecraft:cobblestone_wall_from_cobblestone_stonecutting"
+            [TAG_String] : "buildersdelight:jungle_glass_3"
+            [TAG_String] : "buildersdelight:jungle_glass_8"
+            [TAG_String] : "buildersdelight:jungle_glass_6"
+            [TAG_String] : "buildersdelight:jungle_glass_7"
+            [TAG_String] : "minecraft:decorated_pot_simple"
+            [TAG_String] : "morecarpets:carpets/smooth_stone_carpet"
+            [TAG_String] : "twilightforest:dark_boat"
+            [TAG_String] : "biomesoplenty:umbran_boat"
+            [TAG_String] : "minecraft:cyan_stained_glass"
+            [TAG_String] : "morecarpets:carpets/wet_sponge_carpet"
+            [TAG_String] : "buildersdelight:jungle_glass_1"
+            [TAG_String] : "morecarpets:carpets/red_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/diamond_ore_carpet"
+            [TAG_String] : "mcwfences:quartz_pillar_wall"
+            [TAG_String] : "mcwbiomesoplenty:pine_hedge"
+            [TAG_String] : "minecraft:glistering_melon_slice"
+            [TAG_String] : "connectedglass:clear_glass_orange2"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_horse_fence"
+            [TAG_String] : "morecarpets:carpets/dried_kelp_top_carpet"
+            [TAG_String] : "rats:upgrades/breeder_upgrade"
+            [TAG_String] : "mcwfences:nether_brick_pillar_wall"
+            [TAG_String] : "mcwroofs:thatch_roof"
+            [TAG_String] : "biomesoplenty:empyreal_boat"
+            [TAG_String] : "mcwbiomesoplenty:willow_curved_gate"
+            [TAG_String] : "morecarpets:carpets/chorus_plant_carpet"
+            [TAG_String] : "mcwfences:oak_wired_fence"
+            [TAG_String] : "rats:trash_can"
+            [TAG_String] : "morecarpets:carpets/nether_wart_block_carpet"
+            [TAG_String] : "dyenamics:fluorescent_stained_glass"
+            [TAG_String] : "connectedglass:clear_glass_light_blue2"
+            [TAG_String] : "mcwroofs:grass_upper_steep_roof"
+            [TAG_String] : "mcwbiomesoplenty:redwood_stockade_fence"
+            [TAG_String] : "connectedglass:clear_glass_cyan2"
+            [TAG_String] : "mcwfences:blackstone_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/black_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_bricks_carpet"
+            [TAG_String] : "minecraft:glass_pane"
+            [TAG_String] : "dyenamics:peach_stained_glass"
+            [TAG_String] : "morecarpets:carpets/diorite_carpet"
+            [TAG_String] : "mcwpaths:stone_running_bond_slab"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_path"
+            [TAG_String] : "mcwbiomesoplenty:maple_curved_gate"
+            [TAG_String] : "morecarpets:carpets/chiseled_nether_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/lapis_block_carpet"
+            [TAG_String] : "minecraft:purple_stained_glass"
+            [TAG_String] : "minecraft:iron_ingot_from_nuggets"
+            [TAG_String] : "morecarpets:carpets/nether_gold_ore_carpet"
+            [TAG_String] : "beautify:candelabra_white"
+            [TAG_String] : "minecraft:bamboo_raft"
+            [TAG_String] : "mcwfences:diorite_railing_gate"
+            [TAG_String] : "mcwfences:cathedral_metal_fence"
+            [TAG_String] : "morecarpets:carpets/polished_basalt_side_carpet"
+            [TAG_String] : "morecarpets:carpets/stripped_oak_log_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_terracotta_carpet"
+            [TAG_String] : "mcwwindows:white_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/sea_lantern_carpet"
+            [TAG_String] : "mcwfences:railing_andesite_wall"
+            [TAG_String] : "mcwwindows:cyan_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_hedge"
+            [TAG_String] : "beautify:candelabra_yellow"
+            [TAG_String] : "mcwbiomesoplenty:willow_hedge"
+            [TAG_String] : "minecraft:target"
+            [TAG_String] : "morecarpets:carpets/netherite_block_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_basket_weave_paving"
+            [TAG_String] : "minecraft:cherry_boat"
+            [TAG_String] : "morecarpets:carpets/horn_coral_block_carpet"
+            [TAG_String] : "dyenamics:icy_blue_stained_glass"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_slab"
+            [TAG_String] : "morecarpets:carpets/green_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_stockade_fence"
+            [TAG_String] : "mcwroofs:thatch_top_roof"
+            [TAG_String] : "mcwpaths:cobblestone_diamond_paving"
+            [TAG_String] : "buildersdelight:acacia_glass_2"
+            [TAG_String] : "buildersdelight:acacia_glass_1"
+            [TAG_String] : "mcwpaths:stone_flagstone_stairs"
+            [TAG_String] : "mcwbiomesoplenty:redwood_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_crimson_stem_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_highley_gate"
+            [TAG_String] : "morecarpets:carpets/red_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/prismarine_carpet"
+            [TAG_String] : "mcwfences:railing_prismarine_wall"
+            [TAG_String] : "mcwwindows:gray_mosaic_glass"
+            [TAG_String] : "buildersdelight:acacia_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_wired_fence"
+            [TAG_String] : "buildersdelight:acacia_glass_3"
+            [TAG_String] : "mcwfences:bamboo_fence"
+            [TAG_String] : "buildersdelight:acacia_glass_6"
+            [TAG_String] : "buildersdelight:acacia_glass_5"
+            [TAG_String] : "buildersdelight:acacia_glass_8"
+            [TAG_String] : "biomesoplenty:redwood_boat"
+            [TAG_String] : "rats:upgrades/bow_upgrade"
+            [TAG_String] : "mcwfences:mesh_metal_fence_gate"
+            [TAG_String] : "buildersdelight:acacia_glass_7"
+            [TAG_String] : "mcwbiomesoplenty:fir_pyramid_gate"
+            [TAG_String] : "mcwfences:jungle_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/birch_log_top_carpet"
+            [TAG_String] : "morecarpets:carpets/purpur_pillar_carpet"
+            [TAG_String] : "mcwwindows:magenta_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:end_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/sponge_carpet"
+            [TAG_String] : "dyenamics:navy_stained_glass"
+            [TAG_String] : "morecarpets:carpets/gold_block_carpet"
+            [TAG_String] : "mcwwindows:gray_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:oak_highley_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_birch_log_carpet"
+            [TAG_String] : "buildersdelight:warped_glass_3"
+            [TAG_String] : "mcwfences:railing_end_brick_wall"
+            [TAG_String] : "buildersdelight:warped_glass_2"
+            [TAG_String] : "buildersdelight:warped_glass_1"
+            [TAG_String] : "mcwfences:jungle_pyramid_gate"
+            [TAG_String] : "buildersdelight:warped_glass_7"
+            [TAG_String] : "buildersdelight:warped_glass_6"
+            [TAG_String] : "buildersdelight:warped_glass_5"
+            [TAG_String] : "buildersdelight:warped_glass_4"
+            [TAG_String] : "morecarpets:carpets/lava_flow_carpet"
+            [TAG_String] : "undergarden:wigglewood_boat"
+            [TAG_String] : "connectedglass:scratched_glass1"
+            [TAG_String] : "mcwbiomesoplenty:fir_hedge"
+            [TAG_String] : "mcwfences:deepslate_brick_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/basalt_side_carpet"
+            [TAG_String] : "mcwfences:birch_highley_gate"
+            [TAG_String] : "mcwfences:railing_diorite_wall"
+            [TAG_String] : "beautify:candelabra_light_blue"
+            [TAG_String] : "mcwfences:birch_wired_fence"
+            [TAG_String] : "mcwpaths:gravel_path_block"
+            [TAG_String] : "morecarpets:carpets/crimson_nylium_side_carpet"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_highley_gate"
+            [TAG_String] : "mcwbridges:glass_bridge_pier"
+            [TAG_String] : "mcwfences:warped_pyramid_gate"
+            [TAG_String] : "connectedglass:clear_glass_green2"
+            [TAG_String] : "mcwfences:railing_stone_brick_wall"
+            [TAG_String] : "morecarpets:carpets/ice_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_pyramid_gate"
+            [TAG_String] : "mcwpaths:red_sand_path_block"
+            [TAG_String] : "morecarpets:carpets/purple_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/stripped_jungle_log_carpet"
+            [TAG_String] : "mcwfences:jungle_picket_fence"
+            [TAG_String] : "mcwwindows:bricks_window2"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_stairs"
+            [TAG_String] : "minecraft:red_dye_from_poppy"
+            [TAG_String] : "buildersdelight:birch_glass_6"
+            [TAG_String] : "buildersdelight:birch_glass_5"
+            [TAG_String] : "dyenamics:bubblegum_stained_glass"
+            [TAG_String] : "morecarpets:carpets/brown_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/bone_block_side_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_4"
+            [TAG_String] : "buildersdelight:birch_glass_3"
+            [TAG_String] : "morecarpets:carpets/white_stained_glass_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_2"
+            [TAG_String] : "buildersdelight:birch_glass_1"
+            [TAG_String] : "minecraft:hay_block"
+            [TAG_String] : "mcwfences:acacia_picket_fence"
+            [TAG_String] : "mcwroofs:grass_roof"
+            [TAG_String] : "regions_unexplored:magnolia_boat"
+            [TAG_String] : "morecarpets:carpets/green_terracotta_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_8"
+            [TAG_String] : "twilightforest:mangrove_boat"
+            [TAG_String] : "mcwbiomesoplenty:palm_stockade_fence"
+            [TAG_String] : "buildersdelight:birch_glass_7"
+            [TAG_String] : "minecraft:cobblestone_slab"
+            [TAG_String] : "morecarpets:carpets/mossy_stone_bricks_carpet"
+            [TAG_String] : "mcwfences:mud_brick_railing_gate"
+            [TAG_String] : "mcwfences:birch_curved_gate"
+            [TAG_String] : "buildersdelight:warped_glass_8"
+            [TAG_String] : "phantasm:void_crystal_glass"
+            [TAG_String] : "mcwpaths:stone_windmill_weave"
+            [TAG_String] : "mcwbiomesoplenty:palm_pyramid_gate"
+            [TAG_String] : "mcwfences:modern_granite_wall"
+            [TAG_String] : "regions_unexplored:cypress_boat"
+            [TAG_String] : "morecarpets:carpets/pink_concrete_powder_carpet"
+            [TAG_String] : "mcwfences:railing_blackstone_wall"
+            [TAG_String] : "mcwbiomesoplenty:willow_picket_fence"
+            [TAG_String] : "morecarpets:carpets/orange_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/light_blue_stained_glass_carpet"
+            [TAG_String] : "mcwfences:dark_oak_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:dead_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_concrete_powder_carpet"
+            [TAG_String] : "minecraft:gray_stained_glass"
+            [TAG_String] : "mcwfences:wooden_cheval_de_frise"
+            [TAG_String] : "morecarpets:carpets/red_sandstone_carpet"
+            [TAG_String] : "morecarpets:carpets/red_mushroom_block_carpet"
+            [TAG_String] : "mcwfences:birch_horse_fence"
+            [TAG_String] : "mcwfences:mangrove_wired_fence"
+            [TAG_String] : "mcwfences:mangrove_highley_gate"
+            [TAG_String] : "mcwfences:modern_sandstone_wall"
+            [TAG_String] : "farmersdelight:cooking/bone_broth"
+            [TAG_String] : "morecarpets:carpets/brown_stained_glass_carpet"
+            [TAG_String] : "mcwroofs:thatch_lower_roof"
+            [TAG_String] : "morecarpets:carpets/light_blue_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_curved_gate"
+            [TAG_String] : "connectedglass:clear_glass_lime2"
+            [TAG_String] : "morecarpets:carpets/cracked_nether_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_concrete_carpet"
+            [TAG_String] : "mcwfences:red_sandstone_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/sand_carpet"
+            [TAG_String] : "mcwbiomesoplenty:willow_horse_fence"
+            [TAG_String] : "morecarpets:carpets/white_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:magic_curved_gate"
+            [TAG_String] : "biomesoplenty:dead_boat"
+            [TAG_String] : "mcwpaths:sand_path_block"
+            [TAG_String] : "mcwwindows:bricks_window"
+            [TAG_String] : "mcwfences:mangrove_stockade_fence"
+            [TAG_String] : "mcwfences:mud_brick_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/orange_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/crying_obsidian_carpet"
+            [TAG_String] : "mcwroofs:grass_lower_roof"
+            [TAG_String] : "dyenamics:conifer_stained_glass"
+            [TAG_String] : "connectedglass:borderless_glass1"
+            [TAG_String] : "mcwfences:blackstone_grass_topped_wall"
+            [TAG_String] : "minecraft:chain"
+            [TAG_String] : "morecarpets:carpets/magenta_concrete_carpet"
+            [TAG_String] : "minecraft:blue_stained_glass"
+            [TAG_String] : "mcwfences:red_sandstone_railing_gate"
+            [TAG_String] : "mcwfences:crimson_highley_gate"
+            [TAG_String] : "beautify:candelabra_red"
+            [TAG_String] : "dyenamics:aquamarine_stained_glass"
+            [TAG_String] : "morecarpets:carpets/blackstone_carpet"
+            [TAG_String] : "mcwfences:dark_oak_wired_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_curved_gate"
+            [TAG_String] : "mcwfences:sandstone_pillar_wall"
+            [TAG_String] : "mcwfences:prismarine_pillar_wall"
+            [TAG_String] : "mcwwindows:light_blue_mosaic_glass_pane"
+            [TAG_String] : "mcwpaths:stone_flagstone_slab"
+            [TAG_String] : "morecarpets:carpets/spruce_log_carpet"
+            [TAG_String] : "supplementaries:sconce_soul"
+            [TAG_String] : "rats:upgrades/strength_upgrade"
+            [TAG_String] : "mcwpaths:cobblestone_clover_paving"
+            [TAG_String] : "morecarpets:carpets/warped_stem_top_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:maple_horse_fence"
+            [TAG_String] : "supplementaries:hourglass"
+            [TAG_String] : "regions_unexplored:redwood_boat"
+            [TAG_String] : "mcwbiomesoplenty:red_maple_hedge"
+            [TAG_String] : "mcwwindows:blue_mosaic_glass_pane"
+            [TAG_String] : "supplementaries:checker"
+            [TAG_String] : "buildersdelight:dark_oak_glass_8"
+            [TAG_String] : "croptopia:flour"
+            [TAG_String] : "morevillagers:hunting_post"
+            [TAG_String] : "buildersdelight:dark_oak_glass_7"
+            [TAG_String] : "mcwbiomesoplenty:maple_wired_fence"
+            [TAG_String] : "buildersdelight:dark_oak_glass_6"
+            [TAG_String] : "buildersdelight:dark_oak_glass_5"
+            [TAG_String] : "mcwbiomesoplenty:maple_pyramid_gate"
+            [TAG_String] : "buildersdelight:dark_oak_glass_4"
+            [TAG_String] : "buildersdelight:dark_oak_glass_3"
+            [TAG_String] : "buildersdelight:dark_oak_glass_2"
+            [TAG_String] : "connectedglass:clear_glass_gray2"
+            [TAG_String] : "buildersdelight:dark_oak_glass_1"
+            [TAG_String] : "mcwfences:railing_mud_brick_wall"
+            [TAG_String] : "morecarpets:carpets/end_stone_bricks_carpet"
+            [TAG_String] : "aether_redux:cloudcap_boat"
+            [TAG_String] : "morecarpets:carpets/warped_stem_carpet"
+            [TAG_String] : "mcwwindows:cyan_mosaic_glass_pane"
+            [TAG_String] : "twilightforest:mining_boat"
+            [TAG_String] : "connectedglass:clear_glass_pane3"
+            [TAG_String] : "rats:upgrades/bucket_upgrade"
+            [TAG_String] : "morecarpets:carpets/stripped_acacia_log_carpet"
+            [TAG_String] : "morecarpets:carpets/ancient_debris_top_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_stained_glass_carpet"
+            [TAG_String] : "mcwfences:dark_oak_horse_fence"
+            [TAG_String] : "regions_unexplored:baobab_boat"
+            [TAG_String] : "morecarpets:carpets/mycelium_top_carpet"
+            [TAG_String] : "deeperdarker:bloom_boat"
+            [TAG_String] : "farmersdelight:skillet"
+            [TAG_String] : "connectedglass:clear_glass_blue2"
+            [TAG_String] : "mcwbiomesoplenty:willow_wired_fence"
+            [TAG_String] : "dyenamics:rose_stained_glass"
+            [TAG_String] : "minecraft:orange_dye"
+            [TAG_String] : "mcwbiomesoplenty:dead_picket_fence"
+            [TAG_String] : "mcwbiomesoplenty:magic_hedge"
+            [TAG_String] : "mcwwindows:orange_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:bastion_metal_fence"
+            [TAG_String] : "mcwfences:spruce_picket_fence"
+            [TAG_String] : "mcwfences:spruce_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_curved_gate"
+            [TAG_String] : "morecarpets:carpets/magenta_glazed_terracotta_carpet"
+            [TAG_String] : "minecraft:white_stained_glass"
+            [TAG_String] : "connectedglass:clear_glass_light_gray2"
+            [TAG_String] : "connectedglass:clear_glass_yellow2"
+            [TAG_String] : "player_companions:tame_seagrass_from_seagrass"
+            [TAG_String] : "mcwbiomesoplenty:maple_picket_fence"
+            [TAG_String] : "morecarpets:carpets/lime_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/black_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/dark_oak_log_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/tube_coral_block_carpet"
+            [TAG_String] : "mcwfences:spruce_pyramid_gate"
+            [TAG_String] : "rats:rat_capture_net"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_pyramid_gate"
+            [TAG_String] : "mcwfences:deepslate_brick_grass_topped_wall"
+            [TAG_String] : "mcwbiomesoplenty:magic_stockade_fence"
+            [TAG_String] : "mcwfences:acacia_horse_fence"
+            [TAG_String] : "morecarpets:carpets/terracotta_carpet"
+            [TAG_String] : "regions_unexplored:palm_boat"
+            [TAG_String] : "mcwfences:spruce_hedge"
+            [TAG_String] : "morecarpets:carpets/red_terracotta_carpet"
+            [TAG_String] : "mcwfences:jungle_hedge"
+            [TAG_String] : "mcwbiomesoplenty:magic_horse_fence"
+            [TAG_String] : "morecarpets:carpets/gray_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:brown_mosaic_glass_pane"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_stairs"
+            [TAG_String] : "regions_unexplored:socotra_boat"
+            [TAG_String] : "morecarpets:carpets/light_blue_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/bee_nest_bottom_carpet"
+            [TAG_String] : "regions_unexplored:blackwood_boat"
+            [TAG_String] : "mcwbiomesoplenty:dead_horse_fence"
+            [TAG_String] : "morecarpets:carpets/polished_blackstone_bricks_carpet"
+            [TAG_String] : "minecraft:dispenser"
+            [TAG_String] : "regions_unexplored:pine_boat"
+            [TAG_String] : "beautify:candelabra_orange"
+            [TAG_String] : "mcwfences:warped_stockade_fence"
+            [TAG_String] : "mcwfences:panelled_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/pink_wool_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_square_paving"
+            [TAG_String] : "handcrafted:oven"
+            [TAG_String] : "minecraft:red_stained_glass"
+            [TAG_String] : "morecarpets:carpets/packed_ice_carpet"
+            [TAG_String] : "rats:farmer_hat"
+            [TAG_String] : "mcwfences:mangrove_picket_fence"
+            [TAG_String] : "mcwfences:acorn_metal_fence"
+            [TAG_String] : "mcwfences:birch_stockade_fence"
+            [TAG_String] : "mcwfences:spruce_horse_fence"
+            [TAG_String] : "mcwfences:bamboo_wired_fence"
+            [TAG_String] : "morecarpets:carpets/cyan_concrete_powder_carpet"
+            [TAG_String] : "minecraft:lantern"
+            [TAG_String] : "mcwfences:crimson_curved_gate"
+            [TAG_String] : "morecarpets:carpets/gray_wool_carpet"
+            [TAG_String] : "minecraft:magenta_stained_glass"
+            [TAG_String] : "morecarpets:carpets/bee_nest_front_carpet"
+            [TAG_String] : "mcwbiomesoplenty:yellow_maple_hedge"
+            [TAG_String] : "rats:upgrades/undead_upgrade"
+            [TAG_String] : "morecarpets:carpets/white_glazed_terracotta_carpet"
+            [TAG_String] : "delightful:knives/bone_knife"
+            [TAG_String] : "morecarpets:carpets/nether_portal_carpet"
+            [TAG_String] : "morecarpets:carpets/mossy_cobblestone_carpet"
+            [TAG_String] : "morecarpets:carpets/magenta_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/soul_sand_carpet"
+            [TAG_String] : "mcwfences:panelled_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:fir_horse_fence"
+            [TAG_String] : "morecarpets:carpets/gray_concrete_carpet"
+            [TAG_String] : "mcwfences:andesite_pillar_wall"
+            [TAG_String] : "player_companions:tame_cake_from_cake"
+            [TAG_String] : "morecarpets:carpets/bedrock_carpet"
+            [TAG_String] : "morecarpets:carpets/light_blue_concrete_powder_carpet"
+            [TAG_String] : "mcwbridges:glass_bridge"
+            [TAG_String] : "morecarpets:carpets/purple_terracotta_carpet"
+            [TAG_String] : "mcwfences:majestic_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/black_stained_glass_carpet"
+            [TAG_String] : "regions_unexplored:eucalyptus_boat"
+            [TAG_String] : "morecarpets:carpets/polished_andesite_carpet"
+            [TAG_String] : "morecarpets:carpets/orange_glazed_terracotta_carpet"
+            [TAG_String] : "biomesoplenty:maple_boat"
+            [TAG_String] : "morecarpets:carpets/brown_mushroom_block_carpet"
+            [TAG_String] : "morecarpets:carpets/melon_side_carpet"
+            [TAG_String] : "beautify:candelabra"
+            [TAG_String] : "beautify:candelabra_purple"
+            [TAG_String] : "mcwroofs:thatch_upper_lower_roof"
+            [TAG_String] : "morecarpets:carpets/red_sandstone_top_carpet"
+            [TAG_String] : "mcwfences:granite_grass_topped_wall"
+            [TAG_String] : "mcwfences:modern_deepslate_brick_wall"
+            [TAG_String] : "mcwbiomesoplenty:rainbow_birch_hedge"
+            [TAG_String] : "croptopia:melon_juice"
+            [TAG_String] : "mcwbiomesoplenty:fir_picket_fence"
+            [TAG_String] : "mcwfences:oak_horse_fence"
+            [TAG_String] : "mcwfences:railing_nether_brick_wall"
+            [TAG_String] : "rats:upgrades/crossbow_upgrade"
+            [TAG_String] : "mcwfences:expanded_mesh_metal_fence"
+            [TAG_String] : "player_companions:tame_raw_mutton_from_raw_mutton"
+            [TAG_String] : "mcwwindows:brown_mosaic_glass"
+            [TAG_String] : "mcwfences:crimson_picket_fence"
+            [TAG_String] : "mcwfences:blackstone_pillar_wall"
+            [TAG_String] : "mcwbiomesoplenty:fir_curved_gate"
+            [TAG_String] : "mcwroofs:thatch_upper_steep_roof"
+            [TAG_String] : "morecarpets:carpets/beehive_side_carpet"
+            [TAG_String] : "minecraft:pink_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:maple_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/dried_kelp_side_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_stained_glass_carpet"
+            [TAG_String] : "mcwfences:oak_stockade_fence"
+            [TAG_String] : "mcwfences:crimson_wired_fence"
+            [TAG_String] : "mcwfences:modern_mud_brick_wall"
+            [TAG_String] : "mcwfences:azalea_hedge"
+            [TAG_String] : "mcwfences:dark_oak_picket_fence"
+            [TAG_String] : "morecarpets:carpets/magma_carpet"
+            [TAG_String] : "morecarpets:carpets/purpur_block_carpet"
+            [TAG_String] : "mcwfences:fortress_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_hedge"
+            [TAG_String] : "mcwfences:bamboo_curved_gate"
+            [TAG_String] : "terralith:dispenser_alt"
+            [TAG_String] : "morecarpets:carpets/pink_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:dark_oak_hedge"
+            [TAG_String] : "mcwfences:warped_picket_fence"
+            [TAG_String] : "morecarpets:carpets/end_stone_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_picket_fence"
+            [TAG_String] : "mcwbiomesoplenty:pine_wired_fence"
+            [TAG_String] : "mcwwindows:black_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:bamboo_highley_gate"
+            [TAG_String] : "aether_redux:fieldsproot_boat"
+            [TAG_String] : "mcwfences:mangrove_horse_fence"
+            [TAG_String] : "buildersdelight:crimson_glass_1"
+            [TAG_String] : "buildersdelight:crimson_glass_3"
+            [TAG_String] : "mcwfences:end_brick_grass_topped_wall"
+            [TAG_String] : "buildersdelight:crimson_glass_2"
+            [TAG_String] : "morecarpets:carpets/brown_terracotta_carpet"
+            [TAG_String] : "buildersdelight:crimson_glass_5"
+            [TAG_String] : "buildersdelight:crimson_glass_4"
+            [TAG_String] : "buildersdelight:crimson_glass_7"
+            [TAG_String] : "buildersdelight:crimson_glass_6"
+            [TAG_String] : "buildersdelight:crimson_glass_8"
+            [TAG_String] : "mcwfences:guardian_metal_fence"
+            [TAG_String] : "croptopia:cheeseburger"
+            [TAG_String] : "minecraft:mangrove_boat"
+            [TAG_String] : "minecraft:bread"
+            [TAG_String] : "mcwfences:jungle_curved_gate"
+            [TAG_String] : "morecarpets:carpets/white_concrete_powder_carpet"
+            [TAG_String] : "mcwwindows:red_mosaic_glass"
+            [TAG_String] : "minecraft:acacia_boat"
+            [TAG_String] : "mcwfences:acacia_pyramid_gate"
+            [TAG_String] : "mcwroofs:grass_top_roof"
+            [TAG_String] : "minecraft:lever"
+            [TAG_String] : "mcwwindows:green_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:twilight_metal_fence"
+            [TAG_String] : "mcwfences:curved_metal_fence"
+            [TAG_String] : "morecarpets:carpets/polished_granite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:magic_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/black_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_hedge"
+            [TAG_String] : "mcwbiomesoplenty:willow_pyramid_gate"
+            [TAG_String] : "mcwfences:iron_cheval_de_frise"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_highley_gate"
+            [TAG_String] : "morecarpets:carpets/light_gray_concrete_carpet"
+            [TAG_String] : "connectedglass:clear_glass_brown2"
+            [TAG_String] : "morecarpets:carpets/lime_wool_carpet"
+            [TAG_String] : "mcwfences:modern_red_sandstone_wall"
+            [TAG_String] : "morecarpets:carpets/redstone_block_carpet"
+            [TAG_String] : "biomesoplenty:willow_boat"
+            [TAG_String] : "mcwwindows:purple_mosaic_glass_pane"
+            [TAG_String] : "rats:rat_cage"
+            [TAG_String] : "mcwfences:deepslate_grass_topped_wall"
+            [TAG_String] : "mcwbiomesoplenty:redwood_picket_fence"
+            [TAG_String] : "minecraft:crafting_table"
+            [TAG_String] : "regions_unexplored:prismaglass"
+            [TAG_String] : "dyenamics:lavender_stained_glass"
+            [TAG_String] : "morecarpets:carpets/cake_top_carpet"
+            [TAG_String] : "twilightforest:time_boat"
+            [TAG_String] : "mcwfences:bastion_metal_fence_gate"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_pyramid_gate"
+            [TAG_String] : "mcwpaths:stone_running_bond_stairs"
+            [TAG_String] : "morecarpets:carpets/stripped_dark_oak_log_carpet"
+            [TAG_String] : "mcwwindows:green_mosaic_glass"
+            [TAG_String] : "mcwfences:spruce_wired_fence"
+            [TAG_String] : "morecarpets:carpets/iron_ore_carpet"
+            [TAG_String] : "mcwfences:gothic_metal_fence"
+            [TAG_String] : "deeperdarker:echo_boat"
+            [TAG_String] : "rats:rat_seed_bowl"
+            [TAG_String] : "supplementaries:jar"
+            [TAG_String] : "mcwbiomesoplenty:umbran_hedge"
+            [TAG_String] : "mcwfences:crimson_horse_fence"
+            [TAG_String] : "mcwwindows:red_mosaic_glass_pane"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_stockade_fence"
+            [TAG_String] : "mcwfences:modern_prismarine_wall"
+            [TAG_String] : "delightful:food/cooking/jam_jar"
+            [TAG_String] : "dyenamics:ultramarine_stained_glass"
+            [TAG_String] : "buildersdelight:oak_glass_8"
+            [TAG_String] : "mcwfences:birch_picket_fence"
+            [TAG_String] : "buildersdelight:oak_glass_6"
+            [TAG_String] : "mcwfences:double_curved_metal_fence"
+            [TAG_String] : "buildersdelight:oak_glass_7"
+            [TAG_String] : "buildersdelight:oak_glass_4"
+            [TAG_String] : "buildersdelight:oak_glass_5"
+            [TAG_String] : "buildersdelight:oak_glass_2"
+            [TAG_String] : "buildersdelight:oak_glass_3"
+            [TAG_String] : "buildersdelight:oak_glass_1"
+            [TAG_String] : "mcwbiomesoplenty:magic_wired_fence"
+            [TAG_String] : "biomesoplenty:jacaranda_boat"
+            [TAG_String] : "connectedglass:clear_glass_white2"
+            [TAG_String] : "mcwfences:nether_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/honey_block_top_carpet"
+            [TAG_String] : "mcwfences:quartz_grass_topped_wall"
+            [TAG_String] : "undergarden:grongle_boat"
+            [TAG_String] : "minecraft:bone_meal"
+            [TAG_String] : "mcwfences:oak_picket_fence"
+            [TAG_String] : "mcwfences:mangrove_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:dead_hedge"
+            [TAG_String] : "morecarpets:carpets/jungle_log_top_carpet"
+            [TAG_String] : "mcwfences:modern_andesite_wall"
+            [TAG_String] : "morevillagers:gardening_table"
+            [TAG_String] : "morecarpets:carpets/hay_block_side_carpet"
+            [TAG_String] : "xp_storage:xp_book2"
+            [TAG_String] : "mcwfences:prismarine_grass_topped_wall"
+            [TAG_String] : "supplementaries:goblet"
+            [TAG_String] : "morecarpets:carpets/lime_concrete_powder_carpet"
+            [TAG_String] : "mcwfences:bamboo_horse_fence"
+            [TAG_String] : "dyenamics:spring_green_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:magic_highley_gate"
+            [TAG_String] : "mcwfences:diorite_grass_topped_wall"
+            [TAG_String] : "morecarpets:carpets/gold_ore_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_pillar_top_carpet"
+            [TAG_String] : "morecarpets:carpets/orange_terracotta_carpet"
+            [TAG_String] : "croptopia:fruit_smoothie"
+            [TAG_String] : "minecraft:wheat"
+            [TAG_String] : "mcwbiomesoplenty:flowering_oak_hedge"
+            [TAG_String] : "morecarpets:carpets/chiseled_quartz_block_carpet"
+            [TAG_String] : "morecarpets:carpets/andesite_carpet"
+            [TAG_String] : "morecarpets:carpets/lava_still_carpet"
+            [TAG_String] : "mcwpaths:stone_running_bond_path"
+            [TAG_String] : "mcwfences:oak_curved_gate"
+            [TAG_String] : "betterend:tined_glass_from_smaragdant"
+            [TAG_String] : "morecarpets:carpets/stone_bricks_carpet"
+            [TAG_String] : "farmersdelight:wheat_dough_from_egg"
+            [TAG_String] : "mcwpaths:cobblestone_honeycomb_paving"
+            [TAG_String] : "mcwfences:granite_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/blue_concrete_powder_carpet"
+            [TAG_String] : "mcwwindows:light_gray_mosaic_glass_pane"
+            [TAG_String] : "biomesoplenty:palm_boat"
+            [TAG_String] : "morecarpets:carpets/chorus_flower_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_stained_glass_carpet"
+            [TAG_String] : "morecarpets:carpets/diamond_block_carpet"
+            [TAG_String] : "mcwbiomesoplenty:redwood_hedge"
+            [TAG_String] : "supplementaries:sconce"
+            [TAG_String] : "morecarpets:carpets/basalt_top_carpet"
+            [TAG_String] : "regions_unexplored:joshua_boat"
+            [TAG_String] : "beautify:candelabra_gray"
+            [TAG_String] : "minecraft:dark_oak_boat"
+            [TAG_String] : "morecarpets:carpets/s_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_wired_fence"
+            [TAG_String] : "supplementaries:turn_table"
+            [TAG_String] : "rats:rat_flute"
+            [TAG_String] : "morecarpets:carpets/yellow_terracotta_carpet"
+            [TAG_String] : "twilightforest:sorting_boat"
+            [TAG_String] : "minecraft:melon_seeds"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/acacia_log_carpet"
+            [TAG_String] : "mcwfences:modern_stone_brick_wall"
+            [TAG_String] : "aether_redux:blightwillow_boat"
+            [TAG_String] : "mcwbiomesoplenty:origin_hedge"
+            [TAG_String] : "morecarpets:carpets/magenta_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:redwood_curved_gate"
+            [TAG_String] : "morecarpets:carpets/emerald_ore_carpet"
+            [TAG_String] : "mcwbiomesoplenty:umbran_pyramid_gate"
+            [TAG_String] : "mcwpaths:podzol_path_block"
+            [TAG_String] : "minecraft:bricks"
+            [TAG_String] : "mcwbiomesoplenty:cypress_hedge"
+            [TAG_String] : "morecarpets:carpets/chiseled_stone_bricks_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_stockade_fence"
+            [TAG_String] : "rats:upgrades/health_upgrade"
+            [TAG_String] : "morecarpets:carpets/redstone_ore_carpet"
+            [TAG_String] : "undergarden:smogstem_boat"
+            [TAG_String] : "mcwbiomesoplenty:redwood_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_stained_glass_carpet"
+            [TAG_String] : "mcwfences:modern_quartz_wall"
+            [TAG_String] : "morecarpets:carpets/birch_log_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_concrete_powder_carpet"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_path"
+            [TAG_String] : "mcwfences:red_sandstone_grass_topped_wall"
+            [TAG_String] : "supplementaries:iron_gate"
+            [TAG_String] : "morecarpets:carpets/white_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/ancient_debris_side_carpet"
+            [TAG_String] : "morecarpets:carpets/fire_coral_block_carpet"
+            [TAG_String] : "mcwwindows:lime_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:andesite_grass_topped_wall"
+            [TAG_String] : "croptopia:turmeric_seed"
+            [TAG_String] : "aether_redux:jellyshroom_boat"
+            [TAG_String] : "mcwbiomesoplenty:pine_horse_fence"
+            [TAG_String] : "mcwfences:warped_wired_fence"
+            [TAG_String] : "morecarpets:carpets/purple_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/lime_terracotta_carpet"
+            [TAG_String] : "minecraft:stone"
+            [TAG_String] : "morecarpets:carpets/magenta_terracotta_carpet"
+            [TAG_String] : "terralith:lever_alt"
+            [TAG_String] : "morecarpets:carpets/jungle_log_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_wool_carpet"
+            [TAG_String] : "mcwfences:diorite_pillar_wall"
+            [TAG_String] : "dyenamics:cherenkov_stained_glass"
+            [TAG_String] : "mcwwindows:pink_mosaic_glass_pane"
+            [TAG_String] : "minecraft:yellow_stained_glass"
+            [TAG_String] : "dyenamics:honey_stained_glass"
+            [TAG_String] : "minecraft:light_blue_stained_glass"
+            [TAG_String] : "mcwfences:sandstone_grass_topped_wall"
+            [TAG_String] : "mcwfences:bamboo_picket_fence"
+            [TAG_String] : "mcwpaths:stone_flagstone_path"
+            [TAG_String] : "morecarpets:carpets/red_glazed_terracotta_carpet"
+            [TAG_String] : "connectedglass:clear_glass_black2"
+            [TAG_String] : "buildersdelight:cherry_glass_1"
+            [TAG_String] : "buildersdelight:cherry_glass_2"
+            [TAG_String] : "buildersdelight:cherry_glass_3"
+            [TAG_String] : "biomesoplenty:magic_boat"
+            [TAG_String] : "buildersdelight:cherry_glass_4"
+            [TAG_String] : "buildersdelight:cherry_glass_5"
+            [TAG_String] : "beautify:candelabra_green"
+            [TAG_String] : "buildersdelight:cherry_glass_6"
+            [TAG_String] : "buildersdelight:cherry_glass_7"
+            [TAG_String] : "buildersdelight:cherry_glass_8"
+            [TAG_String] : "rats:upgrades/gardener_upgrade"
+            [TAG_String] : "morecarpets:carpets/clay_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_block_side_carpet"
+            [TAG_String] : "mcwfences:bamboo_pyramid_gate"
+            [TAG_String] : "connectedglass:clear_glass_red2"
+            [TAG_String] : "morecarpets:carpets/coal_block_carpet"
+            [TAG_String] : "morecarpets:carpets/obsidian_carpet"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_picket_fence"
+            [TAG_String] : "mcwfences:mangrove_hedge"
+            [TAG_String] : "mcwfences:blackstone_railing_gate"
+            [TAG_String] : "buildersdelight:spruce_glass_3"
+            [TAG_String] : "aether:skyroot_chest"
+            [TAG_String] : "buildersdelight:spruce_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:fir_wired_fence"
+            [TAG_String] : "morecarpets:carpets/yellow_concrete_powder_carpet"
+            [TAG_String] : "buildersdelight:spruce_glass_1"
+            [TAG_String] : "player_companions:tame_honeycomb_from_honeycomb"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_horse_fence"
+            [TAG_String] : "buildersdelight:spruce_glass_2"
+            [TAG_String] : "regions_unexplored:dead_boat"
+            [TAG_String] : "buildersdelight:spruce_glass_7"
+            [TAG_String] : "supplementaries:flower_box"
+            [TAG_String] : "buildersdelight:spruce_glass_8"
+            [TAG_String] : "mcwroofs:thatch_attic_roof"
+            [TAG_String] : "buildersdelight:spruce_glass_5"
+            [TAG_String] : "morecarpets:carpets/polished_basalt_top_carpet"
+            [TAG_String] : "buildersdelight:spruce_glass_6"
+            [TAG_String] : "mcwwindows:blue_mosaic_glass"
+            [TAG_String] : "beautify:candelabra_pink"
+            [TAG_String] : "dyenamics:amber_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:palm_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:snowblossom_hedge"
+            [TAG_String] : "morecarpets:carpets/sandstone_top_carpet"
+            [TAG_String] : "rats:upgrades/replanter_upgrade"
+            [TAG_String] : "minecraft:oak_boat"
+            [TAG_String] : "minecraft:cobblestone_slab_from_cobblestone_stonecutting"
+            [TAG_String] : "mcwfences:dark_oak_highley_gate"
+            [TAG_String] : "morecarpets:carpets/green_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:bricks_four_window"
+            [TAG_String] : "mcwwindows:magenta_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/granite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_highley_gate"
+            [TAG_String] : "mcwwindows:light_gray_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/coarse_dirt_carpet"
+            [TAG_String] : "minecraft:jungle_boat"
+            [TAG_String] : "mcwbiomesoplenty:redwood_horse_fence"
+            [TAG_String] : "mcwbiomesoplenty:umbran_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/green_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/crimson_nylium_carpet"
+            [TAG_String] : "morecarpets:carpets/lime_stained_glass_carpet"
+            [TAG_String] : "morecarpets:carpets/campfire_fire_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_glazed_terracotta_carpet"
+            [TAG_String] : "regions_unexplored:kapok_boat"
+            [TAG_String] : "morecarpets:carpets/lime_concrete_carpet"
+            [TAG_String] : "minecraft:glass_bottle"
+            [TAG_String] : "mcwfences:mesh_metal_fence"
+            [TAG_String] : "morecarpets:carpets/orange_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_picket_fence"
+            [TAG_String] : "player_companions:tame_apple_from_apple"
+            [TAG_String] : "mcwbiomesoplenty:pine_curved_gate"
+            [TAG_String] : "aether:bow_repairing"
+            [TAG_String] : "morecarpets:carpets/bookshelf_carpet"
+            [TAG_String] : "minecraft:cobblestone_stairs_from_cobblestone_stonecutting"
+            [TAG_String] : "mcwfences:quartz_railing_gate"
+            [TAG_String] : "mcwbiomesoplenty:palm_horse_fence"
+            [TAG_String] : "twilightforest:transformation_boat"
+            [TAG_String] : "farmersdelight:pie_crust"
+            [TAG_String] : "dyenamics:persimmon_stained_glass"
+            [TAG_String] : "mcwfences:railing_granite_wall"
+            [TAG_String] : "morecarpets:carpets/honeycomb_block_carpet"
+            [TAG_String] : "mcwroofs:grass_steep_roof"
+            [TAG_String] : "dyenamics:wine_stained_glass"
+            [TAG_String] : "morecarpets:carpets/nether_quartz_ore_carpet"
+            [TAG_String] : "connectedglass:clear_glass_pink2"
+            [TAG_String] : "mcwbiomesoplenty:orange_maple_hedge"
+            [TAG_String] : "morecarpets:carpets/nether_bricks_carpet"
+            [TAG_String] : "aether:skyroot_boat"
+            [TAG_String] : "beautify:candelabra_cyan"
+            [TAG_String] : "mcwroofs:thatch_steep_roof"
+            [TAG_String] : "morecarpets:carpets/stripped_warped_stem_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/gilded_blackstone_carpet"
+            [TAG_String] : "mcwfences:crimson_pyramid_gate"
+            [TAG_String] : "mcwfences:stone_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/slime_block_carpet"
+            [TAG_String] : "mcwfences:mangrove_pyramid_gate"
+            [TAG_String] : "rats:upgrades/asbestos_upgrade"
+            [TAG_String] : "mcwfences:jungle_wired_fence"
+            [TAG_String] : "mcwfences:stone_pillar_wall"
+            [TAG_String] : "mcwfences:birch_hedge"
+            [TAG_String] : "morecarpets:carpets/light_blue_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:spruce_stockade_fence"
+            [TAG_String] : "beautify:candelabra_black"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_spruce_log_carpet"
+            [TAG_String] : "mcwfences:end_brick_pillar_wall"
+            [TAG_String] : "mcwpaths:stone_running_bond"
+            [TAG_String] : "morecarpets:carpets/soul_soil_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_hedge"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_curved_gate"
+            [TAG_String] : "morecarpets:carpets/black_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/chiseled_polished_blackstone_carpet"
+            [TAG_String] : "croptopia:campfire_toast"
+            [TAG_String] : "morecarpets:carpets/crimson_stem_top_carpet"
+            [TAG_String] : "morecarpets:carpets/green_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/snow_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_highley_gate"
+            [TAG_String] : "biomesoplenty:hellbark_boat"
+            [TAG_String] : "supplementaries:daub"
+            [TAG_String] : "twilightforest:twilight_oak_boat"
+            [TAG_String] : "mcwfences:oak_hedge"
+            [TAG_String] : "mcwfences:railing_sandstone_wall"
+            [TAG_String] : "morecarpets:carpets/yellow_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_pillar_carpet"
+            [TAG_String] : "rats:herb_bundle"
+            [TAG_String] : "morecarpets:carpets/bricks_carpet"
+            [TAG_String] : "mcwpaths:stone_flagstone"
+            [TAG_String] : "mcwfences:modern_diorite_wall"
+            [TAG_String] : "inventorio:deep_pockets_book"
+            [TAG_String] : "morecarpets:carpets/polished_diorite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_highley_gate"
+            [TAG_String] : "mcwfences:spruce_highley_gate"
+            [TAG_String] : "morecarpets:carpets/iron_block_carpet"
+            [TAG_String] : "minecraft:birch_boat"
+            [TAG_String] : "minecraft:spruce_boat"
+            [TAG_String] : "mcwfences:warped_curved_gate"
+            [TAG_String] : "mcwfences:bamboo_stockade_fence"
+            [TAG_String] : "mcwfences:modern_end_brick_wall"
+            [TAG_String] : "mcwwindows:pink_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/brown_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:maple_highley_gate"
+            [TAG_String] : "morecarpets:carpets/stone_carpet"
+            [TAG_String] : "player_companions:tame_bone_from_bone"
+            [TAG_String] : "mcwfences:deepslate_brick_railing_gate"
+            [TAG_String] : "minecraft:lime_stained_glass"
+            [TAG_String] : "morecarpets:carpets/blue_ice_carpet"
+            [TAG_String] : "mcwfences:railing_quartz_wall"
+            [TAG_String] : "mcwfences:jungle_horse_fence"
+            [TAG_String] : "mcwpaths:stone_strewn_rocky_path"
+            [TAG_String] : "mcwbiomesoplenty:umbran_picket_fence"
+            [TAG_String] : "morecarpets:carpets/crimson_stem_carpet"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_slab"
+            [TAG_String] : "morecarpets:carpets/pink_terracotta_carpet"
+            [TAG_String] : "player_companions:tame_carrot_from_carrot"
+            [TAG_String] : "mcwroofs:grass_upper_lower_roof"
+            [TAG_String] : "morecarpets:carpets/bubble_coral_block_carpet"
+            [TAG_String] : "mcwfences:modern_blackstone_wall"
+            [TAG_String] : "minecraft:black_stained_glass"
+        ]
+        [TAG_List (933 values of type TAG_String)] "toBeDisplayed"
+        [
+            [TAG_String] : "morecarpets:carpets/pink_stained_glass_carpet"
+            [TAG_String] : "mcwfences:granite_railing_gate"
+            [TAG_String] : "morecarpets:carpets/blue_glazed_terracotta_carpet"
+            [TAG_String] : "beautify:candelabra_blue"
+            [TAG_String] : "morecarpets:carpets/cyan_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/gray_stained_glass_carpet"
+            [TAG_String] : "biomesoplenty:fir_boat"
+            [TAG_String] : "mcwfences:railing_deepslate_brick_wall"
+            [TAG_String] : "morecarpets:carpets/spawner_carpet"
+            [TAG_String] : "morecarpets:carpets/yellow_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:lime_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/gray_concrete_powder_carpet"
+            [TAG_String] : "mcwpaths:stone_crystal_floor"
+            [TAG_String] : "morecarpets:carpets/dark_prismarine_carpet"
+            [TAG_String] : "rats:upgrades/farmer_upgrade"
+            [TAG_String] : "mcwbiomesoplenty:redwood_highley_gate"
+            [TAG_String] : "minecraft:melon"
+            [TAG_String] : "mcwbiomesoplenty:umbran_highley_gate"
+            [TAG_String] : "mcwfences:acacia_curved_gate"
+            [TAG_String] : "supplementaries:fodder"
+            [TAG_String] : "mcwfences:birch_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/sandstone_carpet"
+            [TAG_String] : "mcwbiomesoplenty:umbran_horse_fence"
+            [TAG_String] : "regions_unexplored:willow_boat"
+            [TAG_String] : "morecarpets:carpets/bee_nest_top_carpet"
+            [TAG_String] : "mcwfences:dark_oak_stockade_fence"
+            [TAG_String] : "beautify:candelabra_brown"
+            [TAG_String] : "beautify:candelabra_magenta"
+            [TAG_String] : "buildersdelight:bamboo_glass_2"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_hedge"
+            [TAG_String] : "buildersdelight:bamboo_glass_1"
+            [TAG_String] : "rats:auto_curdler"
+            [TAG_String] : "rats:upgrades/golem_mount_upgrade"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_picket_fence"
+            [TAG_String] : "aether_redux:crystal_boat"
+            [TAG_String] : "minecraft:cobblestone_wall"
+            [TAG_String] : "buildersdelight:bamboo_glass_8"
+            [TAG_String] : "buildersdelight:bamboo_glass_7"
+            [TAG_String] : "buildersdelight:bamboo_glass_6"
+            [TAG_String] : "buildersdelight:bamboo_glass_5"
+            [TAG_String] : "buildersdelight:bamboo_glass_4"
+            [TAG_String] : "buildersdelight:bamboo_glass_3"
+            [TAG_String] : "beautify:candelabra_light_gray"
+            [TAG_String] : "mcwroofs:grass_attic_roof"
+            [TAG_String] : "mcwfences:acacia_wired_fence"
+            [TAG_String] : "mcwwindows:black_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:fir_highley_gate"
+            [TAG_String] : "farmersdelight:melon_popsicle"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_sand_carpet"
+            [TAG_String] : "mcwfences:curved_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/netherrack_carpet"
+            [TAG_String] : "morecarpets:carpets/glowstone_carpet"
+            [TAG_String] : "dyenamics:maroon_stained_glass"
+            [TAG_String] : "mcwfences:acacia_hedge"
+            [TAG_String] : "morecarpets:carpets/prismarine_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/glass_carpet"
+            [TAG_String] : "minecraft:flower_pot"
+            [TAG_String] : "morecarpets:carpets/orange_stained_glass_carpet"
+            [TAG_String] : "beautify:candelabra_lime"
+            [TAG_String] : "supplementaries:bubble_blower"
+            [TAG_String] : "morecarpets:carpets/light_gray_wool_carpet"
+            [TAG_String] : "minecraft:green_stained_glass"
+            [TAG_String] : "croptopia:documentation"
+            [TAG_String] : "mcwwindows:yellow_mosaic_glass"
+            [TAG_String] : "mcwbridges:glass_bridge_stair"
+            [TAG_String] : "aether_redux:glacia_boat"
+            [TAG_String] : "morecarpets:carpets/black_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:flowering_azalea_hedge"
+            [TAG_String] : "farmersdelight:melon_juice"
+            [TAG_String] : "rats:upgrades/chicken_mount_upgrade"
+            [TAG_String] : "morecarpets:carpets/warped_nylium_side_carpet"
+            [TAG_String] : "mcwfences:acacia_stockade_fence"
+            [TAG_String] : "minecraft:orange_stained_glass"
+            [TAG_String] : "mcwfences:prismarine_railing_gate"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_pyramid_gate"
+            [TAG_String] : "mcwbiomesoplenty:willow_highley_gate"
+            [TAG_String] : "mcwfences:warped_horse_fence"
+            [TAG_String] : "twilightforest:canopy_boat"
+            [TAG_String] : "minecraft:cobblestone_stairs"
+            [TAG_String] : "connectedglass:clear_glass_magenta2"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_curved_gate"
+            [TAG_String] : "morecarpets:carpets/light_blue_terracotta_carpet"
+            [TAG_String] : "regions_unexplored:maple_boat"
+            [TAG_String] : "morecarpets:carpets/coal_ore_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_dumble_paving"
+            [TAG_String] : "morecarpets:carpets/yellow_stained_glass_carpet"
+            [TAG_String] : "dyenamics:mint_stained_glass"
+            [TAG_String] : "morecarpets:carpets/cactus_side_carpet"
+            [TAG_String] : "rats:rat_burger"
+            [TAG_String] : "mcwfences:jungle_highley_gate"
+            [TAG_String] : "mcwbiomesoplenty:pine_highley_gate"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_picket_fence"
+            [TAG_String] : "mcwfences:ornate_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:palm_picket_fence"
+            [TAG_String] : "mcwfences:acacia_highley_gate"
+            [TAG_String] : "morecarpets:carpets/red_nether_bricks_carpet"
+            [TAG_String] : "buildersdelight:mangrove_glass_1"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_horse_fence"
+            [TAG_String] : "buildersdelight:mangrove_glass_2"
+            [TAG_String] : "supplementaries:planter_rich"
+            [TAG_String] : "mcwbiomesoplenty:umbran_curved_gate"
+            [TAG_String] : "buildersdelight:mangrove_glass_3"
+            [TAG_String] : "buildersdelight:mangrove_glass_4"
+            [TAG_String] : "netherexp:bone_fence"
+            [TAG_String] : "mcwwindows:bricks_pane_window"
+            [TAG_String] : "buildersdelight:mangrove_glass_5"
+            [TAG_String] : "mcwfences:modern_nether_brick_wall"
+            [TAG_String] : "morecarpets:carpets/hay_block_top_carpet"
+            [TAG_String] : "mcwfences:warped_highley_gate"
+            [TAG_String] : "mcwfences:crimson_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/pumpkin_side_carpet"
+            [TAG_String] : "rats:rat_water_bottle"
+            [TAG_String] : "morecarpets:carpets/oak_log_carpet"
+            [TAG_String] : "mcwfences:sandstone_railing_gate"
+            [TAG_String] : "mcwfences:dark_oak_pyramid_gate"
+            [TAG_String] : "buildersdelight:mangrove_glass_6"
+            [TAG_String] : "buildersdelight:mangrove_glass_7"
+            [TAG_String] : "mcwfences:railing_red_sandstone_wall"
+            [TAG_String] : "buildersdelight:mangrove_glass_8"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_stockade_fence"
+            [TAG_String] : "mcwpaths:dirt_path_block"
+            [TAG_String] : "morecarpets:carpets/emerald_block_carpet"
+            [TAG_String] : "biomesoplenty:mahogany_boat"
+            [TAG_String] : "mcwbiomesoplenty:fir_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/gravel_carpet"
+            [TAG_String] : "morecarpets:carpets/mushroom_stem_carpet"
+            [TAG_String] : "mcwwindows:orange_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/gray_terracotta_carpet"
+            [TAG_String] : "feywild:magical_honey_cookie"
+            [TAG_String] : "mcwfences:vintage_metal_fence"
+            [TAG_String] : "morecarpets:carpets/spruce_log_top_carpet"
+            [TAG_String] : "minecraft:brown_stained_glass"
+            [TAG_String] : "morecarpets:carpets/white_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:willow_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/cobblestone_carpet"
+            [TAG_String] : "morecarpets:carpets/brown_glazed_terracotta_carpet"
+            [TAG_String] : "connectedglass:clear_glass_purple2"
+            [TAG_String] : "mcwfences:nether_brick_grass_topped_wall"
+            [TAG_String] : "regions_unexplored:larch_boat"
+            [TAG_String] : "mcwwindows:white_mosaic_glass_pane"
+            [TAG_String] : "morecarpets:carpets/oak_log_top_carpet"
+            [TAG_String] : "mcwwindows:purple_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/magenta_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/cracked_stone_bricks_carpet"
+            [TAG_String] : "mcwfences:andesite_railing_gate"
+            [TAG_String] : "morecarpets:carpets/lapis_ore_carpet"
+            [TAG_String] : "morecarpets:carpets/yellow_concrete_carpet"
+            [TAG_String] : "biomesoplenty:magenta_dye_from_wildflower"
+            [TAG_String] : "mcwbiomesoplenty:umbran_wired_fence"
+            [TAG_String] : "regions_unexplored:mauve_boat"
+            [TAG_String] : "mcwtrpdoors:print_whispering"
+            [TAG_String] : "morecarpets:carpets/brain_coral_block_carpet"
+            [TAG_String] : "morecarpets:carpets/soul_campfire_fire_carpet"
+            [TAG_String] : "morecarpets:carpets/shroomlight_carpet"
+            [TAG_String] : "morecarpets:carpets/warped_nylium_carpet"
+            [TAG_String] : "mcwfences:oak_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/dark_oak_log_top_carpet"
+            [TAG_String] : "morecarpets:carpets/podzol_top_carpet"
+            [TAG_String] : "mcwfences:deepslate_railing_gate"
+            [TAG_String] : "morecarpets:carpets/cyan_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/warped_wart_block_carpet"
+            [TAG_String] : "mcwfences:deepslate_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/pink_concrete_carpet"
+            [TAG_String] : "mcwwindows:light_blue_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_wired_fence"
+            [TAG_String] : "morecarpets:carpets/dirt_carpet"
+            [TAG_String] : "morecarpets:carpets/acacia_log_top_carpet"
+            [TAG_String] : "mcwfences:stone_grass_topped_wall"
+            [TAG_String] : "mcwfences:mud_brick_grass_topped_wall"
+            [TAG_String] : "morecarpets:carpets/brown_concrete_powder_carpet"
+            [TAG_String] : "biomesoplenty:pine_boat"
+            [TAG_String] : "bclib:tag_piston"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_wired_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_horse_fence"
+            [TAG_String] : "regions_unexplored:oak_boat"
+            [TAG_String] : "twilightdelight:cutting/ice_bow"
+            [TAG_String] : "morecarpets:carpets/green_wool_carpet"
+            [TAG_String] : "minecraft:light_gray_stained_glass"
+            [TAG_String] : "mcwwindows:yellow_mosaic_glass_pane"
+            [TAG_String] : "phantasm:crystal_glass"
+            [TAG_String] : "buildersdelight:jungle_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:magic_picket_fence"
+            [TAG_String] : "buildersdelight:jungle_glass_5"
+            [TAG_String] : "netherexp:bone_rod"
+            [TAG_String] : "buildersdelight:jungle_glass_2"
+            [TAG_String] : "minecraft:cobblestone_wall_from_cobblestone_stonecutting"
+            [TAG_String] : "buildersdelight:jungle_glass_3"
+            [TAG_String] : "buildersdelight:jungle_glass_8"
+            [TAG_String] : "buildersdelight:jungle_glass_6"
+            [TAG_String] : "buildersdelight:jungle_glass_7"
+            [TAG_String] : "minecraft:decorated_pot_simple"
+            [TAG_String] : "morecarpets:carpets/smooth_stone_carpet"
+            [TAG_String] : "twilightforest:dark_boat"
+            [TAG_String] : "biomesoplenty:umbran_boat"
+            [TAG_String] : "minecraft:cyan_stained_glass"
+            [TAG_String] : "morecarpets:carpets/wet_sponge_carpet"
+            [TAG_String] : "buildersdelight:jungle_glass_1"
+            [TAG_String] : "morecarpets:carpets/red_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/diamond_ore_carpet"
+            [TAG_String] : "mcwfences:quartz_pillar_wall"
+            [TAG_String] : "mcwbiomesoplenty:pine_hedge"
+            [TAG_String] : "minecraft:glistering_melon_slice"
+            [TAG_String] : "connectedglass:clear_glass_orange2"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_horse_fence"
+            [TAG_String] : "morecarpets:carpets/dried_kelp_top_carpet"
+            [TAG_String] : "rats:upgrades/breeder_upgrade"
+            [TAG_String] : "mcwfences:nether_brick_pillar_wall"
+            [TAG_String] : "mcwroofs:thatch_roof"
+            [TAG_String] : "biomesoplenty:empyreal_boat"
+            [TAG_String] : "mcwbiomesoplenty:willow_curved_gate"
+            [TAG_String] : "morecarpets:carpets/chorus_plant_carpet"
+            [TAG_String] : "mcwfences:oak_wired_fence"
+            [TAG_String] : "rats:trash_can"
+            [TAG_String] : "morecarpets:carpets/nether_wart_block_carpet"
+            [TAG_String] : "dyenamics:fluorescent_stained_glass"
+            [TAG_String] : "connectedglass:clear_glass_light_blue2"
+            [TAG_String] : "mcwroofs:grass_upper_steep_roof"
+            [TAG_String] : "mcwbiomesoplenty:redwood_stockade_fence"
+            [TAG_String] : "connectedglass:clear_glass_cyan2"
+            [TAG_String] : "mcwfences:blackstone_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/black_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_bricks_carpet"
+            [TAG_String] : "minecraft:glass_pane"
+            [TAG_String] : "dyenamics:peach_stained_glass"
+            [TAG_String] : "morecarpets:carpets/diorite_carpet"
+            [TAG_String] : "mcwpaths:stone_running_bond_slab"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_path"
+            [TAG_String] : "mcwbiomesoplenty:maple_curved_gate"
+            [TAG_String] : "morecarpets:carpets/chiseled_nether_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/lapis_block_carpet"
+            [TAG_String] : "minecraft:purple_stained_glass"
+            [TAG_String] : "minecraft:iron_ingot_from_nuggets"
+            [TAG_String] : "morecarpets:carpets/nether_gold_ore_carpet"
+            [TAG_String] : "beautify:candelabra_white"
+            [TAG_String] : "minecraft:bamboo_raft"
+            [TAG_String] : "mcwfences:diorite_railing_gate"
+            [TAG_String] : "mcwfences:cathedral_metal_fence"
+            [TAG_String] : "morecarpets:carpets/polished_basalt_side_carpet"
+            [TAG_String] : "morecarpets:carpets/stripped_oak_log_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_terracotta_carpet"
+            [TAG_String] : "mcwwindows:white_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/sea_lantern_carpet"
+            [TAG_String] : "mcwfences:railing_andesite_wall"
+            [TAG_String] : "mcwwindows:cyan_mosaic_glass"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_hedge"
+            [TAG_String] : "beautify:candelabra_yellow"
+            [TAG_String] : "mcwbiomesoplenty:willow_hedge"
+            [TAG_String] : "minecraft:target"
+            [TAG_String] : "morecarpets:carpets/netherite_block_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_basket_weave_paving"
+            [TAG_String] : "minecraft:cherry_boat"
+            [TAG_String] : "morecarpets:carpets/horn_coral_block_carpet"
+            [TAG_String] : "dyenamics:icy_blue_stained_glass"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_slab"
+            [TAG_String] : "morecarpets:carpets/green_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_stockade_fence"
+            [TAG_String] : "mcwroofs:thatch_top_roof"
+            [TAG_String] : "mcwpaths:cobblestone_diamond_paving"
+            [TAG_String] : "buildersdelight:acacia_glass_2"
+            [TAG_String] : "buildersdelight:acacia_glass_1"
+            [TAG_String] : "mcwpaths:stone_flagstone_stairs"
+            [TAG_String] : "mcwbiomesoplenty:redwood_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_crimson_stem_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_highley_gate"
+            [TAG_String] : "morecarpets:carpets/red_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/prismarine_carpet"
+            [TAG_String] : "mcwfences:railing_prismarine_wall"
+            [TAG_String] : "mcwwindows:gray_mosaic_glass"
+            [TAG_String] : "buildersdelight:acacia_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_wired_fence"
+            [TAG_String] : "buildersdelight:acacia_glass_3"
+            [TAG_String] : "mcwfences:bamboo_fence"
+            [TAG_String] : "buildersdelight:acacia_glass_6"
+            [TAG_String] : "buildersdelight:acacia_glass_5"
+            [TAG_String] : "buildersdelight:acacia_glass_8"
+            [TAG_String] : "biomesoplenty:redwood_boat"
+            [TAG_String] : "rats:upgrades/bow_upgrade"
+            [TAG_String] : "mcwfences:mesh_metal_fence_gate"
+            [TAG_String] : "buildersdelight:acacia_glass_7"
+            [TAG_String] : "mcwbiomesoplenty:fir_pyramid_gate"
+            [TAG_String] : "mcwfences:jungle_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/birch_log_top_carpet"
+            [TAG_String] : "morecarpets:carpets/purpur_pillar_carpet"
+            [TAG_String] : "mcwwindows:magenta_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:end_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/sponge_carpet"
+            [TAG_String] : "dyenamics:navy_stained_glass"
+            [TAG_String] : "morecarpets:carpets/gold_block_carpet"
+            [TAG_String] : "mcwwindows:gray_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:oak_highley_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_birch_log_carpet"
+            [TAG_String] : "buildersdelight:warped_glass_3"
+            [TAG_String] : "mcwfences:railing_end_brick_wall"
+            [TAG_String] : "buildersdelight:warped_glass_2"
+            [TAG_String] : "buildersdelight:warped_glass_1"
+            [TAG_String] : "mcwfences:jungle_pyramid_gate"
+            [TAG_String] : "buildersdelight:warped_glass_7"
+            [TAG_String] : "buildersdelight:warped_glass_6"
+            [TAG_String] : "buildersdelight:warped_glass_5"
+            [TAG_String] : "buildersdelight:warped_glass_4"
+            [TAG_String] : "morecarpets:carpets/lava_flow_carpet"
+            [TAG_String] : "undergarden:wigglewood_boat"
+            [TAG_String] : "connectedglass:scratched_glass1"
+            [TAG_String] : "mcwbiomesoplenty:fir_hedge"
+            [TAG_String] : "mcwfences:deepslate_brick_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/basalt_side_carpet"
+            [TAG_String] : "mcwfences:birch_highley_gate"
+            [TAG_String] : "mcwfences:railing_diorite_wall"
+            [TAG_String] : "beautify:candelabra_light_blue"
+            [TAG_String] : "mcwfences:birch_wired_fence"
+            [TAG_String] : "mcwpaths:gravel_path_block"
+            [TAG_String] : "morecarpets:carpets/crimson_nylium_side_carpet"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_highley_gate"
+            [TAG_String] : "mcwbridges:glass_bridge_pier"
+            [TAG_String] : "mcwfences:warped_pyramid_gate"
+            [TAG_String] : "connectedglass:clear_glass_green2"
+            [TAG_String] : "mcwfences:railing_stone_brick_wall"
+            [TAG_String] : "morecarpets:carpets/ice_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_pyramid_gate"
+            [TAG_String] : "mcwpaths:red_sand_path_block"
+            [TAG_String] : "morecarpets:carpets/purple_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/stripped_jungle_log_carpet"
+            [TAG_String] : "mcwfences:jungle_picket_fence"
+            [TAG_String] : "mcwwindows:bricks_window2"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_stairs"
+            [TAG_String] : "minecraft:red_dye_from_poppy"
+            [TAG_String] : "buildersdelight:birch_glass_6"
+            [TAG_String] : "buildersdelight:birch_glass_5"
+            [TAG_String] : "dyenamics:bubblegum_stained_glass"
+            [TAG_String] : "morecarpets:carpets/brown_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/bone_block_side_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_4"
+            [TAG_String] : "buildersdelight:birch_glass_3"
+            [TAG_String] : "morecarpets:carpets/white_stained_glass_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_2"
+            [TAG_String] : "buildersdelight:birch_glass_1"
+            [TAG_String] : "minecraft:hay_block"
+            [TAG_String] : "mcwfences:acacia_picket_fence"
+            [TAG_String] : "mcwroofs:grass_roof"
+            [TAG_String] : "regions_unexplored:magnolia_boat"
+            [TAG_String] : "morecarpets:carpets/green_terracotta_carpet"
+            [TAG_String] : "buildersdelight:birch_glass_8"
+            [TAG_String] : "twilightforest:mangrove_boat"
+            [TAG_String] : "mcwbiomesoplenty:palm_stockade_fence"
+            [TAG_String] : "buildersdelight:birch_glass_7"
+            [TAG_String] : "minecraft:cobblestone_slab"
+            [TAG_String] : "morecarpets:carpets/mossy_stone_bricks_carpet"
+            [TAG_String] : "mcwfences:mud_brick_railing_gate"
+            [TAG_String] : "mcwfences:birch_curved_gate"
+            [TAG_String] : "buildersdelight:warped_glass_8"
+            [TAG_String] : "phantasm:void_crystal_glass"
+            [TAG_String] : "mcwpaths:stone_windmill_weave"
+            [TAG_String] : "mcwbiomesoplenty:palm_pyramid_gate"
+            [TAG_String] : "mcwfences:modern_granite_wall"
+            [TAG_String] : "regions_unexplored:cypress_boat"
+            [TAG_String] : "morecarpets:carpets/pink_concrete_powder_carpet"
+            [TAG_String] : "mcwfences:railing_blackstone_wall"
+            [TAG_String] : "mcwbiomesoplenty:willow_picket_fence"
+            [TAG_String] : "morecarpets:carpets/orange_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/light_blue_stained_glass_carpet"
+            [TAG_String] : "mcwfences:dark_oak_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:dead_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_concrete_powder_carpet"
+            [TAG_String] : "minecraft:gray_stained_glass"
+            [TAG_String] : "mcwfences:wooden_cheval_de_frise"
+            [TAG_String] : "morecarpets:carpets/red_sandstone_carpet"
+            [TAG_String] : "morecarpets:carpets/red_mushroom_block_carpet"
+            [TAG_String] : "mcwfences:birch_horse_fence"
+            [TAG_String] : "mcwfences:mangrove_wired_fence"
+            [TAG_String] : "mcwfences:mangrove_highley_gate"
+            [TAG_String] : "mcwfences:modern_sandstone_wall"
+            [TAG_String] : "farmersdelight:cooking/bone_broth"
+            [TAG_String] : "morecarpets:carpets/brown_stained_glass_carpet"
+            [TAG_String] : "mcwroofs:thatch_lower_roof"
+            [TAG_String] : "morecarpets:carpets/light_blue_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_curved_gate"
+            [TAG_String] : "connectedglass:clear_glass_lime2"
+            [TAG_String] : "morecarpets:carpets/cracked_nether_bricks_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_concrete_carpet"
+            [TAG_String] : "mcwfences:red_sandstone_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/sand_carpet"
+            [TAG_String] : "mcwbiomesoplenty:willow_horse_fence"
+            [TAG_String] : "morecarpets:carpets/white_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:magic_curved_gate"
+            [TAG_String] : "biomesoplenty:dead_boat"
+            [TAG_String] : "mcwpaths:sand_path_block"
+            [TAG_String] : "mcwwindows:bricks_window"
+            [TAG_String] : "mcwfences:mangrove_stockade_fence"
+            [TAG_String] : "mcwfences:mud_brick_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/orange_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/crying_obsidian_carpet"
+            [TAG_String] : "mcwroofs:grass_lower_roof"
+            [TAG_String] : "dyenamics:conifer_stained_glass"
+            [TAG_String] : "connectedglass:borderless_glass1"
+            [TAG_String] : "mcwfences:blackstone_grass_topped_wall"
+            [TAG_String] : "minecraft:chain"
+            [TAG_String] : "morecarpets:carpets/magenta_concrete_carpet"
+            [TAG_String] : "minecraft:blue_stained_glass"
+            [TAG_String] : "mcwfences:red_sandstone_railing_gate"
+            [TAG_String] : "mcwfences:crimson_highley_gate"
+            [TAG_String] : "beautify:candelabra_red"
+            [TAG_String] : "dyenamics:aquamarine_stained_glass"
+            [TAG_String] : "morecarpets:carpets/blackstone_carpet"
+            [TAG_String] : "mcwfences:dark_oak_wired_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_curved_gate"
+            [TAG_String] : "mcwfences:sandstone_pillar_wall"
+            [TAG_String] : "mcwfences:prismarine_pillar_wall"
+            [TAG_String] : "mcwwindows:light_blue_mosaic_glass_pane"
+            [TAG_String] : "mcwpaths:stone_flagstone_slab"
+            [TAG_String] : "morecarpets:carpets/spruce_log_carpet"
+            [TAG_String] : "supplementaries:sconce_soul"
+            [TAG_String] : "rats:upgrades/strength_upgrade"
+            [TAG_String] : "mcwpaths:cobblestone_clover_paving"
+            [TAG_String] : "morecarpets:carpets/warped_stem_top_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:maple_horse_fence"
+            [TAG_String] : "supplementaries:hourglass"
+            [TAG_String] : "regions_unexplored:redwood_boat"
+            [TAG_String] : "mcwbiomesoplenty:red_maple_hedge"
+            [TAG_String] : "mcwwindows:blue_mosaic_glass_pane"
+            [TAG_String] : "supplementaries:checker"
+            [TAG_String] : "buildersdelight:dark_oak_glass_8"
+            [TAG_String] : "croptopia:flour"
+            [TAG_String] : "morevillagers:hunting_post"
+            [TAG_String] : "buildersdelight:dark_oak_glass_7"
+            [TAG_String] : "mcwbiomesoplenty:maple_wired_fence"
+            [TAG_String] : "buildersdelight:dark_oak_glass_6"
+            [TAG_String] : "buildersdelight:dark_oak_glass_5"
+            [TAG_String] : "mcwbiomesoplenty:maple_pyramid_gate"
+            [TAG_String] : "buildersdelight:dark_oak_glass_4"
+            [TAG_String] : "buildersdelight:dark_oak_glass_3"
+            [TAG_String] : "buildersdelight:dark_oak_glass_2"
+            [TAG_String] : "connectedglass:clear_glass_gray2"
+            [TAG_String] : "buildersdelight:dark_oak_glass_1"
+            [TAG_String] : "mcwfences:railing_mud_brick_wall"
+            [TAG_String] : "morecarpets:carpets/end_stone_bricks_carpet"
+            [TAG_String] : "aether_redux:cloudcap_boat"
+            [TAG_String] : "morecarpets:carpets/warped_stem_carpet"
+            [TAG_String] : "mcwwindows:cyan_mosaic_glass_pane"
+            [TAG_String] : "twilightforest:mining_boat"
+            [TAG_String] : "connectedglass:clear_glass_pane3"
+            [TAG_String] : "rats:upgrades/bucket_upgrade"
+            [TAG_String] : "morecarpets:carpets/stripped_acacia_log_carpet"
+            [TAG_String] : "morecarpets:carpets/ancient_debris_top_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_stained_glass_carpet"
+            [TAG_String] : "mcwfences:dark_oak_horse_fence"
+            [TAG_String] : "regions_unexplored:baobab_boat"
+            [TAG_String] : "morecarpets:carpets/mycelium_top_carpet"
+            [TAG_String] : "deeperdarker:bloom_boat"
+            [TAG_String] : "farmersdelight:skillet"
+            [TAG_String] : "connectedglass:clear_glass_blue2"
+            [TAG_String] : "mcwbiomesoplenty:willow_wired_fence"
+            [TAG_String] : "dyenamics:rose_stained_glass"
+            [TAG_String] : "minecraft:orange_dye"
+            [TAG_String] : "mcwbiomesoplenty:dead_picket_fence"
+            [TAG_String] : "mcwbiomesoplenty:magic_hedge"
+            [TAG_String] : "mcwwindows:orange_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:bastion_metal_fence"
+            [TAG_String] : "mcwfences:spruce_picket_fence"
+            [TAG_String] : "mcwfences:spruce_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_curved_gate"
+            [TAG_String] : "morecarpets:carpets/magenta_glazed_terracotta_carpet"
+            [TAG_String] : "minecraft:white_stained_glass"
+            [TAG_String] : "connectedglass:clear_glass_light_gray2"
+            [TAG_String] : "connectedglass:clear_glass_yellow2"
+            [TAG_String] : "player_companions:tame_seagrass_from_seagrass"
+            [TAG_String] : "mcwbiomesoplenty:maple_picket_fence"
+            [TAG_String] : "morecarpets:carpets/lime_glazed_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/black_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/dark_oak_log_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/tube_coral_block_carpet"
+            [TAG_String] : "mcwfences:spruce_pyramid_gate"
+            [TAG_String] : "rats:rat_capture_net"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_pyramid_gate"
+            [TAG_String] : "mcwfences:deepslate_brick_grass_topped_wall"
+            [TAG_String] : "mcwbiomesoplenty:magic_stockade_fence"
+            [TAG_String] : "mcwfences:acacia_horse_fence"
+            [TAG_String] : "morecarpets:carpets/terracotta_carpet"
+            [TAG_String] : "regions_unexplored:palm_boat"
+            [TAG_String] : "mcwfences:spruce_hedge"
+            [TAG_String] : "morecarpets:carpets/red_terracotta_carpet"
+            [TAG_String] : "mcwfences:jungle_hedge"
+            [TAG_String] : "mcwbiomesoplenty:magic_horse_fence"
+            [TAG_String] : "morecarpets:carpets/gray_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:brown_mosaic_glass_pane"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_stairs"
+            [TAG_String] : "regions_unexplored:socotra_boat"
+            [TAG_String] : "morecarpets:carpets/light_blue_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/bee_nest_bottom_carpet"
+            [TAG_String] : "regions_unexplored:blackwood_boat"
+            [TAG_String] : "mcwbiomesoplenty:dead_horse_fence"
+            [TAG_String] : "morecarpets:carpets/polished_blackstone_bricks_carpet"
+            [TAG_String] : "minecraft:dispenser"
+            [TAG_String] : "regions_unexplored:pine_boat"
+            [TAG_String] : "beautify:candelabra_orange"
+            [TAG_String] : "mcwfences:warped_stockade_fence"
+            [TAG_String] : "mcwfences:panelled_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/pink_wool_carpet"
+            [TAG_String] : "mcwpaths:cobblestone_square_paving"
+            [TAG_String] : "handcrafted:oven"
+            [TAG_String] : "minecraft:red_stained_glass"
+            [TAG_String] : "morecarpets:carpets/packed_ice_carpet"
+            [TAG_String] : "rats:farmer_hat"
+            [TAG_String] : "mcwfences:mangrove_picket_fence"
+            [TAG_String] : "mcwfences:acorn_metal_fence"
+            [TAG_String] : "mcwfences:birch_stockade_fence"
+            [TAG_String] : "mcwfences:spruce_horse_fence"
+            [TAG_String] : "mcwfences:bamboo_wired_fence"
+            [TAG_String] : "morecarpets:carpets/cyan_concrete_powder_carpet"
+            [TAG_String] : "minecraft:lantern"
+            [TAG_String] : "mcwfences:crimson_curved_gate"
+            [TAG_String] : "morecarpets:carpets/gray_wool_carpet"
+            [TAG_String] : "minecraft:magenta_stained_glass"
+            [TAG_String] : "morecarpets:carpets/bee_nest_front_carpet"
+            [TAG_String] : "mcwbiomesoplenty:yellow_maple_hedge"
+            [TAG_String] : "rats:upgrades/undead_upgrade"
+            [TAG_String] : "morecarpets:carpets/white_glazed_terracotta_carpet"
+            [TAG_String] : "delightful:knives/bone_knife"
+            [TAG_String] : "morecarpets:carpets/nether_portal_carpet"
+            [TAG_String] : "morecarpets:carpets/mossy_cobblestone_carpet"
+            [TAG_String] : "morecarpets:carpets/magenta_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/soul_sand_carpet"
+            [TAG_String] : "mcwfences:panelled_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:fir_horse_fence"
+            [TAG_String] : "morecarpets:carpets/gray_concrete_carpet"
+            [TAG_String] : "mcwfences:andesite_pillar_wall"
+            [TAG_String] : "player_companions:tame_cake_from_cake"
+            [TAG_String] : "morecarpets:carpets/bedrock_carpet"
+            [TAG_String] : "morecarpets:carpets/light_blue_concrete_powder_carpet"
+            [TAG_String] : "mcwbridges:glass_bridge"
+            [TAG_String] : "morecarpets:carpets/purple_terracotta_carpet"
+            [TAG_String] : "mcwfences:majestic_metal_fence_gate"
+            [TAG_String] : "morecarpets:carpets/black_stained_glass_carpet"
+            [TAG_String] : "regions_unexplored:eucalyptus_boat"
+            [TAG_String] : "morecarpets:carpets/polished_andesite_carpet"
+            [TAG_String] : "morecarpets:carpets/orange_glazed_terracotta_carpet"
+            [TAG_String] : "biomesoplenty:maple_boat"
+            [TAG_String] : "morecarpets:carpets/brown_mushroom_block_carpet"
+            [TAG_String] : "morecarpets:carpets/melon_side_carpet"
+            [TAG_String] : "beautify:candelabra"
+            [TAG_String] : "beautify:candelabra_purple"
+            [TAG_String] : "mcwroofs:thatch_upper_lower_roof"
+            [TAG_String] : "morecarpets:carpets/red_sandstone_top_carpet"
+            [TAG_String] : "mcwfences:granite_grass_topped_wall"
+            [TAG_String] : "mcwfences:modern_deepslate_brick_wall"
+            [TAG_String] : "mcwbiomesoplenty:rainbow_birch_hedge"
+            [TAG_String] : "croptopia:melon_juice"
+            [TAG_String] : "mcwbiomesoplenty:fir_picket_fence"
+            [TAG_String] : "mcwfences:oak_horse_fence"
+            [TAG_String] : "mcwfences:railing_nether_brick_wall"
+            [TAG_String] : "rats:upgrades/crossbow_upgrade"
+            [TAG_String] : "mcwfences:expanded_mesh_metal_fence"
+            [TAG_String] : "player_companions:tame_raw_mutton_from_raw_mutton"
+            [TAG_String] : "mcwwindows:brown_mosaic_glass"
+            [TAG_String] : "mcwfences:crimson_picket_fence"
+            [TAG_String] : "mcwfences:blackstone_pillar_wall"
+            [TAG_String] : "mcwbiomesoplenty:fir_curved_gate"
+            [TAG_String] : "mcwroofs:thatch_upper_steep_roof"
+            [TAG_String] : "morecarpets:carpets/beehive_side_carpet"
+            [TAG_String] : "minecraft:pink_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:maple_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/dried_kelp_side_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_stained_glass_carpet"
+            [TAG_String] : "mcwfences:oak_stockade_fence"
+            [TAG_String] : "mcwfences:crimson_wired_fence"
+            [TAG_String] : "mcwfences:modern_mud_brick_wall"
+            [TAG_String] : "mcwfences:azalea_hedge"
+            [TAG_String] : "mcwfences:dark_oak_picket_fence"
+            [TAG_String] : "morecarpets:carpets/magma_carpet"
+            [TAG_String] : "morecarpets:carpets/purpur_block_carpet"
+            [TAG_String] : "mcwfences:fortress_metal_fence"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_hedge"
+            [TAG_String] : "mcwfences:bamboo_curved_gate"
+            [TAG_String] : "terralith:dispenser_alt"
+            [TAG_String] : "morecarpets:carpets/pink_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:dark_oak_hedge"
+            [TAG_String] : "mcwfences:warped_picket_fence"
+            [TAG_String] : "morecarpets:carpets/end_stone_carpet"
+            [TAG_String] : "mcwbiomesoplenty:pine_picket_fence"
+            [TAG_String] : "mcwbiomesoplenty:pine_wired_fence"
+            [TAG_String] : "mcwwindows:black_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:bamboo_highley_gate"
+            [TAG_String] : "aether_redux:fieldsproot_boat"
+            [TAG_String] : "mcwfences:mangrove_horse_fence"
+            [TAG_String] : "buildersdelight:crimson_glass_1"
+            [TAG_String] : "buildersdelight:crimson_glass_3"
+            [TAG_String] : "mcwfences:end_brick_grass_topped_wall"
+            [TAG_String] : "buildersdelight:crimson_glass_2"
+            [TAG_String] : "morecarpets:carpets/brown_terracotta_carpet"
+            [TAG_String] : "buildersdelight:crimson_glass_5"
+            [TAG_String] : "buildersdelight:crimson_glass_4"
+            [TAG_String] : "buildersdelight:crimson_glass_7"
+            [TAG_String] : "buildersdelight:crimson_glass_6"
+            [TAG_String] : "buildersdelight:crimson_glass_8"
+            [TAG_String] : "mcwfences:guardian_metal_fence"
+            [TAG_String] : "croptopia:cheeseburger"
+            [TAG_String] : "minecraft:mangrove_boat"
+            [TAG_String] : "minecraft:bread"
+            [TAG_String] : "mcwfences:jungle_curved_gate"
+            [TAG_String] : "morecarpets:carpets/white_concrete_powder_carpet"
+            [TAG_String] : "mcwwindows:red_mosaic_glass"
+            [TAG_String] : "minecraft:acacia_boat"
+            [TAG_String] : "mcwfences:acacia_pyramid_gate"
+            [TAG_String] : "mcwroofs:grass_top_roof"
+            [TAG_String] : "minecraft:lever"
+            [TAG_String] : "mcwwindows:green_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:twilight_metal_fence"
+            [TAG_String] : "mcwfences:curved_metal_fence"
+            [TAG_String] : "morecarpets:carpets/polished_granite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:magic_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/black_wool_carpet"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_hedge"
+            [TAG_String] : "mcwbiomesoplenty:willow_pyramid_gate"
+            [TAG_String] : "mcwfences:iron_cheval_de_frise"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_highley_gate"
+            [TAG_String] : "morecarpets:carpets/light_gray_concrete_carpet"
+            [TAG_String] : "connectedglass:clear_glass_brown2"
+            [TAG_String] : "morecarpets:carpets/lime_wool_carpet"
+            [TAG_String] : "mcwfences:modern_red_sandstone_wall"
+            [TAG_String] : "morecarpets:carpets/redstone_block_carpet"
+            [TAG_String] : "biomesoplenty:willow_boat"
+            [TAG_String] : "mcwwindows:purple_mosaic_glass_pane"
+            [TAG_String] : "rats:rat_cage"
+            [TAG_String] : "mcwfences:deepslate_grass_topped_wall"
+            [TAG_String] : "mcwbiomesoplenty:redwood_picket_fence"
+            [TAG_String] : "minecraft:crafting_table"
+            [TAG_String] : "regions_unexplored:prismaglass"
+            [TAG_String] : "dyenamics:lavender_stained_glass"
+            [TAG_String] : "morecarpets:carpets/cake_top_carpet"
+            [TAG_String] : "twilightforest:time_boat"
+            [TAG_String] : "mcwfences:bastion_metal_fence_gate"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_pyramid_gate"
+            [TAG_String] : "mcwpaths:stone_running_bond_stairs"
+            [TAG_String] : "morecarpets:carpets/stripped_dark_oak_log_carpet"
+            [TAG_String] : "mcwwindows:green_mosaic_glass"
+            [TAG_String] : "mcwfences:spruce_wired_fence"
+            [TAG_String] : "morecarpets:carpets/iron_ore_carpet"
+            [TAG_String] : "mcwfences:gothic_metal_fence"
+            [TAG_String] : "deeperdarker:echo_boat"
+            [TAG_String] : "rats:rat_seed_bowl"
+            [TAG_String] : "supplementaries:jar"
+            [TAG_String] : "mcwbiomesoplenty:umbran_hedge"
+            [TAG_String] : "mcwfences:crimson_horse_fence"
+            [TAG_String] : "mcwwindows:red_mosaic_glass_pane"
+            [TAG_String] : "mcwbiomesoplenty:mahogany_stockade_fence"
+            [TAG_String] : "mcwfences:modern_prismarine_wall"
+            [TAG_String] : "delightful:food/cooking/jam_jar"
+            [TAG_String] : "dyenamics:ultramarine_stained_glass"
+            [TAG_String] : "buildersdelight:oak_glass_8"
+            [TAG_String] : "mcwfences:birch_picket_fence"
+            [TAG_String] : "buildersdelight:oak_glass_6"
+            [TAG_String] : "mcwfences:double_curved_metal_fence"
+            [TAG_String] : "buildersdelight:oak_glass_7"
+            [TAG_String] : "buildersdelight:oak_glass_4"
+            [TAG_String] : "buildersdelight:oak_glass_5"
+            [TAG_String] : "buildersdelight:oak_glass_2"
+            [TAG_String] : "buildersdelight:oak_glass_3"
+            [TAG_String] : "buildersdelight:oak_glass_1"
+            [TAG_String] : "mcwbiomesoplenty:magic_wired_fence"
+            [TAG_String] : "biomesoplenty:jacaranda_boat"
+            [TAG_String] : "connectedglass:clear_glass_white2"
+            [TAG_String] : "mcwfences:nether_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/honey_block_top_carpet"
+            [TAG_String] : "mcwfences:quartz_grass_topped_wall"
+            [TAG_String] : "undergarden:grongle_boat"
+            [TAG_String] : "minecraft:bone_meal"
+            [TAG_String] : "mcwfences:oak_picket_fence"
+            [TAG_String] : "mcwfences:mangrove_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:dead_hedge"
+            [TAG_String] : "morecarpets:carpets/jungle_log_top_carpet"
+            [TAG_String] : "mcwfences:modern_andesite_wall"
+            [TAG_String] : "morevillagers:gardening_table"
+            [TAG_String] : "morecarpets:carpets/hay_block_side_carpet"
+            [TAG_String] : "xp_storage:xp_book2"
+            [TAG_String] : "mcwfences:prismarine_grass_topped_wall"
+            [TAG_String] : "supplementaries:goblet"
+            [TAG_String] : "morecarpets:carpets/lime_concrete_powder_carpet"
+            [TAG_String] : "mcwfences:bamboo_horse_fence"
+            [TAG_String] : "dyenamics:spring_green_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:magic_highley_gate"
+            [TAG_String] : "mcwfences:diorite_grass_topped_wall"
+            [TAG_String] : "morecarpets:carpets/gold_ore_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_pillar_top_carpet"
+            [TAG_String] : "morecarpets:carpets/orange_terracotta_carpet"
+            [TAG_String] : "croptopia:fruit_smoothie"
+            [TAG_String] : "minecraft:wheat"
+            [TAG_String] : "mcwbiomesoplenty:flowering_oak_hedge"
+            [TAG_String] : "morecarpets:carpets/chiseled_quartz_block_carpet"
+            [TAG_String] : "morecarpets:carpets/andesite_carpet"
+            [TAG_String] : "morecarpets:carpets/lava_still_carpet"
+            [TAG_String] : "mcwpaths:stone_running_bond_path"
+            [TAG_String] : "mcwfences:oak_curved_gate"
+            [TAG_String] : "betterend:tined_glass_from_smaragdant"
+            [TAG_String] : "morecarpets:carpets/stone_bricks_carpet"
+            [TAG_String] : "farmersdelight:wheat_dough_from_egg"
+            [TAG_String] : "mcwpaths:cobblestone_honeycomb_paving"
+            [TAG_String] : "mcwfences:granite_pillar_wall"
+            [TAG_String] : "morecarpets:carpets/blue_concrete_powder_carpet"
+            [TAG_String] : "mcwwindows:light_gray_mosaic_glass_pane"
+            [TAG_String] : "biomesoplenty:palm_boat"
+            [TAG_String] : "morecarpets:carpets/chorus_flower_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_stained_glass_carpet"
+            [TAG_String] : "morecarpets:carpets/diamond_block_carpet"
+            [TAG_String] : "mcwbiomesoplenty:redwood_hedge"
+            [TAG_String] : "supplementaries:sconce"
+            [TAG_String] : "morecarpets:carpets/basalt_top_carpet"
+            [TAG_String] : "regions_unexplored:joshua_boat"
+            [TAG_String] : "beautify:candelabra_gray"
+            [TAG_String] : "minecraft:dark_oak_boat"
+            [TAG_String] : "morecarpets:carpets/s_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_wired_fence"
+            [TAG_String] : "supplementaries:turn_table"
+            [TAG_String] : "rats:rat_flute"
+            [TAG_String] : "morecarpets:carpets/yellow_terracotta_carpet"
+            [TAG_String] : "twilightforest:sorting_boat"
+            [TAG_String] : "minecraft:melon_seeds"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/acacia_log_carpet"
+            [TAG_String] : "mcwfences:modern_stone_brick_wall"
+            [TAG_String] : "aether_redux:blightwillow_boat"
+            [TAG_String] : "mcwbiomesoplenty:origin_hedge"
+            [TAG_String] : "morecarpets:carpets/magenta_stained_glass_carpet"
+            [TAG_String] : "mcwbiomesoplenty:redwood_curved_gate"
+            [TAG_String] : "morecarpets:carpets/emerald_ore_carpet"
+            [TAG_String] : "mcwbiomesoplenty:umbran_pyramid_gate"
+            [TAG_String] : "mcwpaths:podzol_path_block"
+            [TAG_String] : "minecraft:bricks"
+            [TAG_String] : "mcwbiomesoplenty:cypress_hedge"
+            [TAG_String] : "morecarpets:carpets/chiseled_stone_bricks_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_stockade_fence"
+            [TAG_String] : "rats:upgrades/health_upgrade"
+            [TAG_String] : "morecarpets:carpets/redstone_ore_carpet"
+            [TAG_String] : "undergarden:smogstem_boat"
+            [TAG_String] : "mcwbiomesoplenty:redwood_wired_fence"
+            [TAG_String] : "morecarpets:carpets/red_stained_glass_carpet"
+            [TAG_String] : "mcwfences:modern_quartz_wall"
+            [TAG_String] : "morecarpets:carpets/birch_log_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_concrete_powder_carpet"
+            [TAG_String] : "mcwpaths:stone_windmill_weave_path"
+            [TAG_String] : "mcwfences:red_sandstone_grass_topped_wall"
+            [TAG_String] : "supplementaries:iron_gate"
+            [TAG_String] : "morecarpets:carpets/white_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/ancient_debris_side_carpet"
+            [TAG_String] : "morecarpets:carpets/fire_coral_block_carpet"
+            [TAG_String] : "mcwwindows:lime_mosaic_glass_pane"
+            [TAG_String] : "mcwfences:andesite_grass_topped_wall"
+            [TAG_String] : "croptopia:turmeric_seed"
+            [TAG_String] : "aether_redux:jellyshroom_boat"
+            [TAG_String] : "mcwbiomesoplenty:pine_horse_fence"
+            [TAG_String] : "mcwfences:warped_wired_fence"
+            [TAG_String] : "morecarpets:carpets/purple_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/blue_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/lime_terracotta_carpet"
+            [TAG_String] : "minecraft:stone"
+            [TAG_String] : "morecarpets:carpets/magenta_terracotta_carpet"
+            [TAG_String] : "terralith:lever_alt"
+            [TAG_String] : "morecarpets:carpets/jungle_log_carpet"
+            [TAG_String] : "morecarpets:carpets/purple_wool_carpet"
+            [TAG_String] : "mcwfences:diorite_pillar_wall"
+            [TAG_String] : "dyenamics:cherenkov_stained_glass"
+            [TAG_String] : "mcwwindows:pink_mosaic_glass_pane"
+            [TAG_String] : "minecraft:yellow_stained_glass"
+            [TAG_String] : "dyenamics:honey_stained_glass"
+            [TAG_String] : "minecraft:light_blue_stained_glass"
+            [TAG_String] : "mcwfences:sandstone_grass_topped_wall"
+            [TAG_String] : "mcwfences:bamboo_picket_fence"
+            [TAG_String] : "mcwpaths:stone_flagstone_path"
+            [TAG_String] : "morecarpets:carpets/red_glazed_terracotta_carpet"
+            [TAG_String] : "connectedglass:clear_glass_black2"
+            [TAG_String] : "buildersdelight:cherry_glass_1"
+            [TAG_String] : "buildersdelight:cherry_glass_2"
+            [TAG_String] : "buildersdelight:cherry_glass_3"
+            [TAG_String] : "biomesoplenty:magic_boat"
+            [TAG_String] : "buildersdelight:cherry_glass_4"
+            [TAG_String] : "buildersdelight:cherry_glass_5"
+            [TAG_String] : "beautify:candelabra_green"
+            [TAG_String] : "buildersdelight:cherry_glass_6"
+            [TAG_String] : "buildersdelight:cherry_glass_7"
+            [TAG_String] : "buildersdelight:cherry_glass_8"
+            [TAG_String] : "rats:upgrades/gardener_upgrade"
+            [TAG_String] : "morecarpets:carpets/clay_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_block_side_carpet"
+            [TAG_String] : "mcwfences:bamboo_pyramid_gate"
+            [TAG_String] : "connectedglass:clear_glass_red2"
+            [TAG_String] : "morecarpets:carpets/coal_block_carpet"
+            [TAG_String] : "morecarpets:carpets/obsidian_carpet"
+            [TAG_String] : "mcwbiomesoplenty:jacaranda_picket_fence"
+            [TAG_String] : "mcwfences:mangrove_hedge"
+            [TAG_String] : "mcwfences:blackstone_railing_gate"
+            [TAG_String] : "buildersdelight:spruce_glass_3"
+            [TAG_String] : "aether:skyroot_chest"
+            [TAG_String] : "buildersdelight:spruce_glass_4"
+            [TAG_String] : "mcwbiomesoplenty:fir_wired_fence"
+            [TAG_String] : "morecarpets:carpets/yellow_concrete_powder_carpet"
+            [TAG_String] : "buildersdelight:spruce_glass_1"
+            [TAG_String] : "player_companions:tame_honeycomb_from_honeycomb"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_horse_fence"
+            [TAG_String] : "buildersdelight:spruce_glass_2"
+            [TAG_String] : "regions_unexplored:dead_boat"
+            [TAG_String] : "buildersdelight:spruce_glass_7"
+            [TAG_String] : "supplementaries:flower_box"
+            [TAG_String] : "buildersdelight:spruce_glass_8"
+            [TAG_String] : "mcwroofs:thatch_attic_roof"
+            [TAG_String] : "buildersdelight:spruce_glass_5"
+            [TAG_String] : "morecarpets:carpets/polished_basalt_top_carpet"
+            [TAG_String] : "buildersdelight:spruce_glass_6"
+            [TAG_String] : "mcwwindows:blue_mosaic_glass"
+            [TAG_String] : "beautify:candelabra_pink"
+            [TAG_String] : "dyenamics:amber_stained_glass"
+            [TAG_String] : "mcwbiomesoplenty:palm_curved_gate"
+            [TAG_String] : "mcwbiomesoplenty:snowblossom_hedge"
+            [TAG_String] : "morecarpets:carpets/sandstone_top_carpet"
+            [TAG_String] : "rats:upgrades/replanter_upgrade"
+            [TAG_String] : "minecraft:oak_boat"
+            [TAG_String] : "minecraft:cobblestone_slab_from_cobblestone_stonecutting"
+            [TAG_String] : "mcwfences:dark_oak_highley_gate"
+            [TAG_String] : "morecarpets:carpets/green_glazed_terracotta_carpet"
+            [TAG_String] : "mcwwindows:bricks_four_window"
+            [TAG_String] : "mcwwindows:magenta_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/granite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_highley_gate"
+            [TAG_String] : "mcwwindows:light_gray_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/coarse_dirt_carpet"
+            [TAG_String] : "minecraft:jungle_boat"
+            [TAG_String] : "mcwbiomesoplenty:redwood_horse_fence"
+            [TAG_String] : "mcwbiomesoplenty:umbran_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/green_concrete_powder_carpet"
+            [TAG_String] : "morecarpets:carpets/crimson_nylium_carpet"
+            [TAG_String] : "morecarpets:carpets/lime_stained_glass_carpet"
+            [TAG_String] : "morecarpets:carpets/campfire_fire_carpet"
+            [TAG_String] : "morecarpets:carpets/light_gray_glazed_terracotta_carpet"
+            [TAG_String] : "regions_unexplored:kapok_boat"
+            [TAG_String] : "morecarpets:carpets/lime_concrete_carpet"
+            [TAG_String] : "minecraft:glass_bottle"
+            [TAG_String] : "mcwfences:mesh_metal_fence"
+            [TAG_String] : "morecarpets:carpets/orange_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_picket_fence"
+            [TAG_String] : "player_companions:tame_apple_from_apple"
+            [TAG_String] : "mcwbiomesoplenty:pine_curved_gate"
+            [TAG_String] : "aether:bow_repairing"
+            [TAG_String] : "morecarpets:carpets/bookshelf_carpet"
+            [TAG_String] : "minecraft:cobblestone_stairs_from_cobblestone_stonecutting"
+            [TAG_String] : "mcwfences:quartz_railing_gate"
+            [TAG_String] : "mcwbiomesoplenty:palm_horse_fence"
+            [TAG_String] : "twilightforest:transformation_boat"
+            [TAG_String] : "farmersdelight:pie_crust"
+            [TAG_String] : "dyenamics:persimmon_stained_glass"
+            [TAG_String] : "mcwfences:railing_granite_wall"
+            [TAG_String] : "morecarpets:carpets/honeycomb_block_carpet"
+            [TAG_String] : "mcwroofs:grass_steep_roof"
+            [TAG_String] : "dyenamics:wine_stained_glass"
+            [TAG_String] : "morecarpets:carpets/nether_quartz_ore_carpet"
+            [TAG_String] : "connectedglass:clear_glass_pink2"
+            [TAG_String] : "mcwbiomesoplenty:orange_maple_hedge"
+            [TAG_String] : "morecarpets:carpets/nether_bricks_carpet"
+            [TAG_String] : "aether:skyroot_boat"
+            [TAG_String] : "beautify:candelabra_cyan"
+            [TAG_String] : "mcwroofs:thatch_steep_roof"
+            [TAG_String] : "morecarpets:carpets/stripped_warped_stem_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_stockade_fence"
+            [TAG_String] : "morecarpets:carpets/gilded_blackstone_carpet"
+            [TAG_String] : "mcwfences:crimson_pyramid_gate"
+            [TAG_String] : "mcwfences:stone_brick_railing_gate"
+            [TAG_String] : "morecarpets:carpets/slime_block_carpet"
+            [TAG_String] : "mcwfences:mangrove_pyramid_gate"
+            [TAG_String] : "rats:upgrades/asbestos_upgrade"
+            [TAG_String] : "mcwfences:jungle_wired_fence"
+            [TAG_String] : "mcwfences:stone_pillar_wall"
+            [TAG_String] : "mcwfences:birch_hedge"
+            [TAG_String] : "morecarpets:carpets/light_blue_glazed_terracotta_carpet"
+            [TAG_String] : "mcwfences:spruce_stockade_fence"
+            [TAG_String] : "beautify:candelabra_black"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_pyramid_gate"
+            [TAG_String] : "morecarpets:carpets/stripped_spruce_log_carpet"
+            [TAG_String] : "mcwfences:end_brick_pillar_wall"
+            [TAG_String] : "mcwpaths:stone_running_bond"
+            [TAG_String] : "morecarpets:carpets/soul_soil_carpet"
+            [TAG_String] : "mcwbiomesoplenty:palm_hedge"
+            [TAG_String] : "mcwbiomesoplenty:empyreal_curved_gate"
+            [TAG_String] : "morecarpets:carpets/black_terracotta_carpet"
+            [TAG_String] : "morecarpets:carpets/cyan_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/chiseled_polished_blackstone_carpet"
+            [TAG_String] : "croptopia:campfire_toast"
+            [TAG_String] : "morecarpets:carpets/crimson_stem_top_carpet"
+            [TAG_String] : "morecarpets:carpets/green_concrete_carpet"
+            [TAG_String] : "morecarpets:carpets/snow_carpet"
+            [TAG_String] : "mcwbiomesoplenty:dead_highley_gate"
+            [TAG_String] : "biomesoplenty:hellbark_boat"
+            [TAG_String] : "supplementaries:daub"
+            [TAG_String] : "twilightforest:twilight_oak_boat"
+            [TAG_String] : "mcwfences:oak_hedge"
+            [TAG_String] : "mcwfences:railing_sandstone_wall"
+            [TAG_String] : "morecarpets:carpets/yellow_wool_carpet"
+            [TAG_String] : "morecarpets:carpets/quartz_pillar_carpet"
+            [TAG_String] : "rats:herb_bundle"
+            [TAG_String] : "morecarpets:carpets/bricks_carpet"
+            [TAG_String] : "mcwpaths:stone_flagstone"
+            [TAG_String] : "mcwfences:modern_diorite_wall"
+            [TAG_String] : "inventorio:deep_pockets_book"
+            [TAG_String] : "morecarpets:carpets/polished_diorite_carpet"
+            [TAG_String] : "mcwbiomesoplenty:hellbark_highley_gate"
+            [TAG_String] : "mcwfences:spruce_highley_gate"
+            [TAG_String] : "morecarpets:carpets/iron_block_carpet"
+            [TAG_String] : "minecraft:birch_boat"
+            [TAG_String] : "minecraft:spruce_boat"
+            [TAG_String] : "mcwfences:warped_curved_gate"
+            [TAG_String] : "mcwfences:bamboo_stockade_fence"
+            [TAG_String] : "mcwfences:modern_end_brick_wall"
+            [TAG_String] : "mcwwindows:pink_mosaic_glass"
+            [TAG_String] : "morecarpets:carpets/brown_concrete_carpet"
+            [TAG_String] : "mcwbiomesoplenty:maple_highley_gate"
+            [TAG_String] : "morecarpets:carpets/stone_carpet"
+            [TAG_String] : "player_companions:tame_bone_from_bone"
+            [TAG_String] : "mcwfences:deepslate_brick_railing_gate"
+            [TAG_String] : "minecraft:lime_stained_glass"
+            [TAG_String] : "morecarpets:carpets/blue_ice_carpet"
+            [TAG_String] : "mcwfences:railing_quartz_wall"
+            [TAG_String] : "mcwfences:jungle_horse_fence"
+            [TAG_String] : "mcwpaths:stone_strewn_rocky_path"
+            [TAG_String] : "mcwbiomesoplenty:umbran_picket_fence"
+            [TAG_String] : "morecarpets:carpets/crimson_stem_carpet"
+            [TAG_String] : "mcwpaths:stone_crystal_floor_slab"
+            [TAG_String] : "morecarpets:carpets/pink_terracotta_carpet"
+            [TAG_String] : "player_companions:tame_carrot_from_carrot"
+            [TAG_String] : "mcwroofs:grass_upper_lower_roof"
+            [TAG_String] : "morecarpets:carpets/bubble_coral_block_carpet"
+            [TAG_String] : "mcwfences:modern_blackstone_wall"
+            [TAG_String] : "minecraft:black_stained_glass"
+        ]
+    }
+    [TAG_Byte] "seenCredits": 0
+    [TAG_Compound (6 values)] "treechop:chopSettings"
+    {
+        [TAG_Byte] "chopInCreativeMode": 0
+        [TAG_Byte] "choppingEnabled": 1
+        [TAG_Byte] "fellingEnabled": 1
+        [TAG_Byte] "isSynced": 1
+        [TAG_String] "sneakBehavior": "INVERT_CHOPPING"
+        [TAG_Byte] "treesMustHaveLeaves": 1
+    }
+    [TAG_Compound (3 values)] "warden_spawn_tracker"
+    {
+        [TAG_Int] "cooldown_ticks": 0
+        [TAG_Int] "ticks_since_last_warning": 4230
+        [TAG_Int] "warning_level": 0
+    }
+}

@@ -1,0 +1,401 @@
+
+[[plant_nutrients]]
+
+	[plant_nutrients.white_widow_crop]
+		n = 11
+		p = 8
+		k = 10
+
+[[plant_nutrients]]
+
+	[plant_nutrients.bubble_kush_crop]
+		n = 12
+		p = 10
+		k = 18
+
+[[plant_nutrients]]
+
+	[plant_nutrients.amnesia_haze_crop]
+		n = 10
+		p = 13
+		k = 9
+
+[[plant_nutrients]]
+
+	[plant_nutrients.blue_cookies_crop]
+		n = 10
+		p = 13
+		k = 9
+
+[[plant_nutrients]]
+
+	[plant_nutrients.ghost_train_crop]
+		n = 13
+		p = 12
+		k = 10
+
+[[plant_nutrients]]
+
+	[plant_nutrients.sour_diesel_crop]
+		n = 11
+		p = 13
+		k = 10
+
+[[plant_nutrients]]
+
+	[plant_nutrients.lemon_haze_crop]
+		n = 9
+		p = 12
+		k = 15
+
+[[plant_nutrients]]
+
+	[plant_nutrients.jack_herer_crop]
+		n = 10
+		p = 15
+		k = 10
+
+[[plant_nutrients]]
+
+	[plant_nutrients.grape_ape_crop]
+		n = 15
+		p = 13
+		k = 15
+
+[[plant_nutrients]]
+
+	[plant_nutrients.cotton_candy_crop]
+		n = 10
+		p = 13
+		k = 9
+
+[[plant_nutrients]]
+
+	[plant_nutrients.afghani_crop]
+		n = 11
+		p = 10
+		k = 19
+
+[[plant_nutrients]]
+
+	[plant_nutrients.lava_cake_crop]
+		n = 14
+		p = 12
+		k = 11
+
+[[plant_nutrients]]
+
+	[plant_nutrients.jelly_rancher_crop]
+		n = 11
+		p = 14
+		k = 9
+
+[[plant_nutrients]]
+
+	[plant_nutrients.strawberry_shortcake_crop]
+		n = 14
+		p = 11
+		k = 15
+
+[[plant_nutrients]]
+
+	[plant_nutrients.purple_haze_crop]
+		n = 11
+		p = 13
+		k = 7
+
+[[plant_nutrients]]
+
+	[plant_nutrients.blue_ice_crop]
+		n = 14
+		p = 9
+		k = 14
+
+[[plant_nutrients]]
+
+	[plant_nutrients.bubblegum_crop]
+		n = 14
+		p = 14
+		k = 12
+
+[[plant_nutrients]]
+
+	[plant_nutrients.gary_peyton_crop]
+		n = 14
+		p = 15
+		k = 9
+
+[[plant_nutrients]]
+
+	[plant_nutrients.ak47_crop]
+		n = 17
+		p = 8
+		k = 11
+
+[[plant_nutrients]]
+
+	[plant_nutrients.banana_kush_crop]
+		n = 15
+		p = 13
+		k = 15
+
+[[plant_nutrients]]
+
+	[plant_nutrients.pink_kush_crop]
+		n = 17
+		p = 9
+		k = 12
+
+[[plant_nutrients]]
+
+	[plant_nutrients.og_kush_crop]
+		n = 12
+		p = 13
+		k = 15
+
+[[plant_nutrients]]
+
+	[plant_nutrients.carbon_fiber_crop]
+		n = 14
+		p = 13
+		k = 20
+
+[[plant_nutrients]]
+
+	[plant_nutrients.birthday_cake_crop]
+		n = 11
+		p = 13
+		k = 16
+
+[[plant_nutrients]]
+
+	[plant_nutrients.moonbow_crop]
+		n = 15
+		p = 2
+		k = 22
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.white_widow_extract_fluid]
+		n = 11
+		p = 8
+		k = 10
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.bubble_kush_extract_fluid]
+		n = 12
+		p = 10
+		k = 18
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.amnesia_haze_extract_fluid]
+		n = 10
+		p = 13
+		k = 9
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.blue_cookies_extract_fluid]
+		n = 10
+		p = 13
+		k = 9
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.ghost_train_extract_fluid]
+		n = 13
+		p = 12
+		k = 10
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.sour_diesel_extract_fluid]
+		n = 11
+		p = 13
+		k = 10
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.lemon_haze_extract_fluid]
+		n = 9
+		p = 12
+		k = 15
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.jack_herer_extract_fluid]
+		n = 10
+		p = 15
+		k = 10
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.grape_ape_extract_fluid]
+		n = 15
+		p = 13
+		k = 15
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.cotton_candy_extract_fluid]
+		n = 10
+		p = 13
+		k = 9
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.afghani_extract_fluid]
+		n = 11
+		p = 10
+		k = 19
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.lava_cake_extract_fluid]
+		n = 14
+		p = 12
+		k = 11
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.jelly_rancher_extract_fluid]
+		n = 11
+		p = 14
+		k = 9
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.strawberry_shortcake_extract_fluid]
+		n = 14
+		p = 11
+		k = 15
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.purple_haze_extract_fluid]
+		n = 11
+		p = 13
+		k = 7
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.blue_ice_extract_fluid]
+		n = 14
+		p = 9
+		k = 14
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.bubblegum_extract_fluid]
+		n = 14
+		p = 14
+		k = 12
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.gary_peyton_extract_fluid]
+		n = 14
+		p = 15
+		k = 9
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.ak47_extract_fluid]
+		n = 17
+		p = 8
+		k = 11
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.banana_kush_extract_fluid]
+		n = 15
+		p = 13
+		k = 15
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.pink_kush_extract_fluid]
+		n = 17
+		p = 9
+		k = 12
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.og_kush_extract_fluid]
+		n = 12
+		p = 13
+		k = 15
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.carbon_fiber_extract_fluid]
+		n = 14
+		p = 13
+		k = 20
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.birthday_cake_extract_fluid]
+		n = 11
+		p = 13
+		k = 16
+		thc = 0
+		cbd = 0
+
+[[extract_fluid_stats]]
+
+	[extract_fluid_stats.moonbow_extract_fluid]
+		n = 15
+		p = 2
+		k = 22
+		thc = 0
+		cbd = 0
+

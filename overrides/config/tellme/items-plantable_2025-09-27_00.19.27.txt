@@ -1,0 +1,821 @@
+----------------------------------------------------
+*** WARNING ***
+Don't use the item ID for anything "proper"!!
+It's provided here for completeness's sake, it's different in every world.
+----------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Tags
+----------------------------------------------------
+Minecraft, minecraft:acacia_sapling, 39, Acacia Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:azalea, 175, Azalea, c:saplings, villagersplus:flower_tub_tall_plantable_items, alexsmobs:elephant_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable, enlightened_end:sacrificeable_items, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Minecraft, minecraft:bamboo, 229, Bamboo, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, alexsmobs:gorilla_foodstuffs, villagersplus:flower_tub_small_plantable_items, sullysmod:tortoise_food, hexerei:herbs
+Minecraft, minecraft:beetroot_seeds, 1109, Beetroot Seeds, alexsmobs:crow_foodstuffs, crittersandcompanions:shima_enaga_food, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, quark:parrot_feed, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, quark:seed_pouch_holdable, forge:seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, forge:seeds/beetroot, minecraft:villager_plantable_seeds
+Minecraft, minecraft:big_dripleaf, 227, Big Dripleaf, hexerei:herbs, supplementaries:flower_box_plantable, villagersplus:flower_tub_tall_plantable_items
+Minecraft, minecraft:birch_sapling, 37, Birch Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:brown_mushroom, 212, Brown Mushroom, supplementaries:flower_box_plantable, alexsmobs:banana_slug_breedables, farmersdelight:cabbage_roll_ingredients, villagersplus:flower_tub_small_plantable_items, forge:mushrooms, chipped:brown_mushroom, alexsmobs:tusklin_foodstuffs, hexerei:herbs, quark:seed_pouch_holdable, realmrpg_quests:quests/cook/mushrooms
+Minecraft, minecraft:carrot, 1051, Carrot, forge:crops/carrot, alexsmobs:elephant_foodstuffs, minecraft:villager_plantable_seeds, realmrpg_quests:quests/cook/salad, blue_skies:trough_foods, forge:crops, hexerei:herbs, farmersdelight:cabbage_roll_ingredients, forge:vegetables/carrot, alexsmobs:triops_breedables, quark:seed_pouch_holdable, alexsmobs:bunfungus_foodstuffs, c:foods, forge:foods, alexsmobs:kangaroo_tameables, forge:vegetables
+Minecraft, minecraft:cherry_sapling, 40, Cherry Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:cocoa_beans, 903, Cocoa Beans, quark:seed_pouch_holdable
+Minecraft, minecraft:crimson_fungus, 214, Crimson Fungus, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, unusualend:warpable_fungus, cnb:cindershell_food, hexerei:herbs, chipped:crimson_fungus
+Minecraft, minecraft:crimson_nylium, 20, Crimson Nylium, 
+Minecraft, minecraft:dark_oak_sapling, 41, Dark Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:fern, 174, Fern, villagersplus:flower_tub_small_plantable_items, regions_unexplored:grass, alexscaves:ferns, hexerei:herbs, supplementaries:flower_box_plantable
+Minecraft, minecraft:flowering_azalea, 176, Flowering Azalea, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_small_plantable_items, alexsmobs:elephant_foodstuffs, minecraft:flowers, minecraft:saplings, alexsmobs:hummingbird_breedables, quark:seed_pouch_holdable, enlightened_end:sacrificeable_items, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_tall_plantable_items
+Minecraft, minecraft:glow_berries, 1166, Glow Berries, forge:foods, alexsmobs:blue_jay_foodstuffs, c:foods, minecraft:fox_food, alexsmobs:raccoon_teaming_foods, hexerei:herbs, forge:fruits, alexsmobs:blue_jay_teaming_foods, forge:berries, forge:fruits/glow_berries, sullysmod:tortoise_food
+Minecraft, minecraft:glow_lichen, 338, Glow Lichen, hexerei:herbs, galosphere:sparkle_tempt_items
+Minecraft, minecraft:grass, 173, Grass, alexsmobs:kangaroo_breedables, hexerei:herbs, alexsmobs:rhinoceros_breedables, villagersplus:flower_tub_small_plantable_items, regions_unexplored:grass, farmersdelight:straw_plants
+Minecraft, minecraft:grass_block, 14, Grass Block, minecraft:dirt
+Minecraft, minecraft:jungle_sapling, 38, Jungle Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:kelp, 222, Kelp, quark:seed_pouch_holdable, more_rpg_classes:rune_crafting/reagent/aqua_small, more_rpg_classes:water_plants, villagersplus:aquarium_plantable_items, hexerei:herbs
+Minecraft, minecraft:lilac, 444, Magenta Lilac, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Minecraft, minecraft:mangrove_leaves, 161, Mangrove Leaves, hexerei:herbs, minecraft:leaves, alexsmobs:gorilla_foodstuffs, minecraft:completes_find_tree_tutorial, c:leaves, alexsmobs:elephant_foodstuffs
+Minecraft, minecraft:mangrove_propagule, 42, Mangrove Propagule, minecraft:saplings, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:elephant_foodstuffs, more_rpg_classes:water_plants, quark:seed_pouch_holdable, hexerei:herbs, c:saplings, supplementaries:flower_box_plantable, alexsmobs:hummingbird_breedables, villagersplus:flower_tub_small_plantable_items, minecraft:flowers
+Minecraft, minecraft:melon_seeds, 946, Melon Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, crittersandcompanions:shima_enaga_food, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, forge:seeds/melon, naturalist:bird_food_items, forge:seeds
+Minecraft, minecraft:moss_block, 225, Moss Block, chipped:moss_block, botania:semi_disposable, minecraft:moseek, minecraft:dirt, hexerei:herbs
+Minecraft, minecraft:netherrack, 303, Netherrack, chipped:netherrack, botania:disposable, forge:ore_bearing_ground/netherrack, forge:netherrack
+Minecraft, minecraft:oak_sapling, 35, Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:peony, 446, Pink Peony, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Minecraft, minecraft:pink_petals, 224, Pink Petals, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Minecraft, minecraft:pitcher_pod, 1107, Pitcher Pod, supplementaries:flower_box_plantable, quark:seed_pouch_holdable, minecraft:villager_plantable_seeds
+Minecraft, minecraft:potato, 1052, Potato, alexsmobs:elephant_foodstuffs, forge:crops/potato, forge:crops, quark:seed_pouch_holdable, forge:potatoes, farmersdelight:cabbage_roll_ingredients, c:foods, forge:vegetables, minecraft:villager_plantable_seeds, hexerei:herbs, realmrpg_quests:quests/cook/soup_ingredients, forge:vegetables/potato, forge:foods
+Minecraft, minecraft:pumpkin_seeds, 945, Pumpkin Seeds, alexsmobs:crow_foodstuffs, crittersandcompanions:shima_enaga_food, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:seeds/pumpkin, quark:seed_pouch_holdable, alexsmobs:crow_tameables, forge:seeds, hexerei:herbs, alexsmobs:crow_breedables, alexsmobs:blue_jay_alert_foods
+Minecraft, minecraft:red_mushroom, 213, Red Mushroom, realmrpg_quests:quests/cook/mushrooms, forge:mushrooms, chipped:red_mushroom, hexerei:herbs, farmersdelight:cabbage_roll_ingredients, supplementaries:flower_box_plantable, alexsmobs:tusklin_breedables, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable
+Minecraft, minecraft:rooted_dirt, 18, Rooted Dirt, minecraft:dirt
+Minecraft, minecraft:rose_bush, 445, Red Rose Bush, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, delightful:rose, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables
+Minecraft, minecraft:sea_pickle, 179, Sea Pickle, hexerei:herbs, more_rpg_classes:rune_crafting/reagent/aqua_small, villagersplus:aquarium_plantable_items, more_rpg_classes:water_plants
+Minecraft, minecraft:seagrass, 178, Seagrass, hexerei:herbs, croptopiadelight:seagrass, more_rpg_classes:water_plants, alexsmobs:terrapin_breedables, villagersplus:aquarium_plantable_items, more_rpg_classes:rune_crafting/reagent/aqua_small
+Minecraft, minecraft:small_dripleaf, 228, Small Dripleaf, enlightened_end:sacrificeable_items, hexerei:herbs, supplementaries:flower_box_plantable, villagersplus:flower_tub_tall_plantable_items
+Minecraft, minecraft:spruce_sapling, 36, Spruce Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Minecraft, minecraft:sunflower, 443, Sunflower, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Minecraft, minecraft:sweet_berries, 1165, Sweet Berries, supplementaries:flower_box_plantable, forge:fruits/sweet_berries, croptopiadelight:fruits, alexsmobs:sugar_glider_tameables, letfishlove:fish_food/minecraft/salmon, quark:seed_pouch_holdable, forge:foods, alexsmobs:skunk_breedables, alexscaves:sweet_berries, alexsmobs:elephant_foodstuffs, sullysmod:tortoise_food, forge:fruits, hexerei:herbs, c:foods, minecraft:fox_food, villagersplus:flower_tub_small_plantable_items, forge:berries, forge:fruits/sweet
+Minecraft, minecraft:torchflower_seeds, 1106, Torchflower Seeds, minecraft:sniffer_food, quark:seed_pouch_holdable, minecraft:villager_plantable_seeds
+Minecraft, minecraft:twisting_vines, 220, Twisting Vines, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, supplementaries:flower_box_plantable
+Minecraft, minecraft:warped_fungus, 215, Warped Fungus, hexerei:herbs, quark:seed_pouch_holdable, chipped:warped_fungus, cnb:cindershell_food, villagersplus:flower_tub_small_plantable_items, supplementaries:flower_box_plantable
+Minecraft, minecraft:warped_nylium, 21, Warped Nylium, 
+Minecraft, minecraft:weeping_vines, 219, Weeping Vines, hexerei:herbs
+Minecraft, minecraft:wheat_seeds, 813, Wheat Seeds, crittersandcompanions:shima_enaga_food, botania:seed_apothecary_reagent, naturalist:bird_food_items, forge:seeds, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, minecraft:villager_plantable_seeds, alexsmobs:blue_jay_foodstuffs, c:seeds, hexerei:herbs, alexsmobs:jerboa_begs_for, forge:seeds/wheat, alexsmobs:blue_jay_alert_foods
+Unknown, aether:aether_grass_block, 21457, Aether Grass Block, aether:aether_dirt
+Unknown, aether:berry_bush_stem, 21499, Bush Stem, 
+Unknown, aether:enchanted_aether_grass_block, 21458, Enchanted Aether Grass Block, aether:aether_dirt
+Unknown, aether:golden_oak_sapling, 21503, Golden Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, aether:skyroot_sapling, 21502, Skyroot Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, aether_redux:avelium, 22055, Avelium, 
+Unknown, aether_redux:blighted_aether_grass_block, 22056, Blighted Aether Grass Block, 
+Unknown, aether_redux:blighted_skyroot_sapling, 22132, Stormroot Sapling, 
+Unknown, aether_redux:blightmoss_block, 22123, Bleakmoss Block, 
+Unknown, aether_redux:blightwillow_sapling, 22111, Blightwillow Sapling, 
+Unknown, aether_redux:cloudcap_mushling, 22081, Cloudcap Mushling, 
+Unknown, aether_redux:corrupted_vines, 22145, Corrupted Vines, 
+Unknown, aether_redux:crystal_fruit_sapling, 22113, Crystal Fruit Sapling, 
+Unknown, aether_redux:crystal_sapling, 22112, Crystal Sapling, aether_redux:blue_crystal_saplings
+Unknown, aether_redux:fieldsproot_petals, 22050, Fieldsproot Petals, 
+Unknown, aether_redux:fieldsproot_sapling, 22115, Fieldsproot Sapling, 
+Unknown, aether_redux:fungal_growth, 22125, Fungal Growth, 
+Unknown, aether_redux:gilded_oak_sapling, 22131, Gildenroot Sapling, 
+Unknown, aether_redux:gilded_vines, 22144, Gilded Vines, 
+Unknown, aether_redux:glacia_sapling, 22118, Glacia Sapling, 
+Unknown, aether_redux:golden_vines, 22143, Golden Vines, 
+Unknown, aether_redux:jellyshroom, 22070, Jellyshroom, 
+Unknown, aether_redux:lightroot_clump, 22019, Lightroot Clump, aether_redux:mykapod_temptation_items, aether_redux:mykapod_follow_items
+Unknown, aether_redux:purple_crystal_fruit_sapling, 22114, Purple Crystal Fruit Sapling, 
+Unknown, aether_redux:purple_glacia_sapling, 22119, Purple Glacia Sapling, 
+Unknown, aether_redux:wynd_oats, 21973, Wynd Oats, aether:phyg_temptation_items, aether_redux:redux_phyg_food_items
+Unknown, aether_redux:zanberry_bush_stem, 22130, Zanberry Bush Stem, 
+Unknown, alexscaves:ancient_sapling, 27659, Ancient Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, alexscaves:archaic_vine, 27657, Archaic Vine, 
+Unknown, alexscaves:curly_fern, 27654, Curly Fern, alexscaves:ferns
+Unknown, alexscaves:cycad, 27656, Cycad, 
+Unknown, alexscaves:flytrap, 27655, Flytrap, 
+Unknown, alexscaves:licoroot_sprout, 27814, Licoroot Sprout, 
+Unknown, alexscaves:pewen_sapling, 27652, Pewen Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, alexscaves:thornwood_sapling, 27794, Thornwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, betterend:aeridium, 2186, Aeridium, forge:compostable, c:compostable
+Unknown, betterend:amber_grass, 2175, Amber Grass, forge:compostable, c:compostable
+Unknown, betterend:amber_root_seed, 2215, Amber Root Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:aurant_polypore, 2253, Aurant Polypore, 
+Unknown, betterend:blooming_cooksonia, 2179, Blooming Cooksonia, forge:compostable, c:compostable
+Unknown, betterend:blossom_berry_seed, 2214, Blossom Berry Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:blue_vine_seed, 2192, Blue Vine Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:bolux_mushroom, 2200, Bolux Mushroom, forge:compostable, c:compostable
+Unknown, betterend:bubble_coral, 2219, Bubble Coral, forge:compostable, c:compostable
+Unknown, betterend:bulb_moss, 2258, Bulb Moss, forge:compostable, c:compostable
+Unknown, betterend:bulb_vine, 2264, Bulb Vine, forge:compostable, c:compostable
+Unknown, betterend:bulb_vine_seed, 2263, Bulb Vine Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:bushy_grass, 2174, Bushy Grass, forge:compostable, c:compostable
+Unknown, betterend:cave_grass, 2171, Cave Grass, forge:compostable, c:compostable
+Unknown, betterend:cave_pumpkin_seed, 2217, Cave Pumpkin Seed, forge:compostable, c:compostable
+Unknown, betterend:charnia_cyan, 2226, Cyan Charnia, forge:compostable, c:compostable
+Unknown, betterend:charnia_green, 2227, Green Charnia, forge:compostable, c:compostable
+Unknown, betterend:charnia_light_blue, 2225, Light Blue Charnia, forge:compostable, c:compostable
+Unknown, betterend:charnia_orange, 2224, Orange Charnia, forge:compostable, c:compostable
+Unknown, betterend:charnia_purple, 2223, Purple Charnia, forge:compostable, c:compostable
+Unknown, betterend:charnia_red, 2222, Red Charnia, forge:compostable, c:compostable
+Unknown, betterend:chorus_grass, 2170, Chorus Grass, forge:compostable, c:compostable
+Unknown, betterend:chorus_mushroom_seed, 2216, Chorus Mushroom Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:clawfern, 2183, Clawfern, forge:compostable, c:compostable
+Unknown, betterend:creeping_moss, 2169, Creeping Moss, forge:compostable, c:compostable
+Unknown, betterend:crystal_grass, 2172, Crystal Grass, forge:compostable, c:compostable
+Unknown, betterend:crystal_moss_cover, 2191, Crystal Moss Cover, forge:compostable, c:compostable
+Unknown, betterend:cyan_moss, 2255, Cyan Moss, forge:compostable, c:compostable
+Unknown, betterend:dense_vine, 2261, Dense Vine, forge:compostable, c:compostable
+Unknown, betterend:dragon_tree_sapling, 2000, Dragon Tree Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:end_lily_seed, 2228, End Lily Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:end_lotus_seed, 1946, Endlotus Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:filalux, 2268, Filalux, forge:compostable, c:compostable
+Unknown, betterend:flamaea, 2248, Flamaea, forge:compostable, c:compostable
+Unknown, betterend:flammalix, 2190, Flammalix, forge:compostable, c:compostable
+Unknown, betterend:fracturn, 2182, Fracturn, forge:compostable, c:compostable
+Unknown, betterend:globulagus, 2184, Globulagus, forge:compostable, c:compostable
+Unknown, betterend:glowing_pillar_seed, 2196, Glowing Pillar Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:helix_tree_sapling, 2056, Helix Tree Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:hydralux_sapling, 2229, Hydralux Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:inflexia, 2189, Inflexia, forge:compostable, c:compostable
+Unknown, betterend:jungle_fern, 2259, Jungle Fern, forge:compostable, c:compostable
+Unknown, betterend:jungle_grass, 2178, Jungle Grass, forge:compostable, c:compostable
+Unknown, betterend:jungle_vine, 2265, Jungle Vine, forge:compostable, c:compostable
+Unknown, betterend:lacugrove_sapling, 1973, Lacugrove Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:lamellarium, 2188, Lamellarium, forge:compostable, c:compostable
+Unknown, betterend:lanceleaf_seed, 2195, Lanceleaf Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:lucernia_sapling, 2138, Lucernia Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:lumecorn_seed, 2201, Lumecorn Seed, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:lutebus, 2187, Lutebus, forge:compostable, c:compostable
+Unknown, betterend:magnula, 2267, Magnula, forge:compostable, c:compostable
+Unknown, betterend:mossy_glowshroom_sapling, 1890, Mossy Glowshroom Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:murkweed, 2250, Murkweed, 
+Unknown, betterend:needlegrass, 2251, Needlegrass, 
+Unknown, betterend:orango, 2185, Orango, forge:compostable, c:compostable
+Unknown, betterend:pond_anemone, 2247, Pond Anemone, forge:compostable, c:compostable
+Unknown, betterend:purple_polypore, 2252, Purple Polypore, 
+Unknown, betterend:pythadendron_sapling, 1919, Pythadendron Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:rubinea, 2266, Rubinea, forge:compostable, c:compostable
+Unknown, betterend:ruscus, 2260, Ruscus, forge:compostable, c:compostable
+Unknown, betterend:salteago, 2180, Salteago, forge:compostable, c:compostable
+Unknown, betterend:shadow_berry, 2213, Shadow Berry Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:compostable, c:seeds, forge:compostable, naturalist:bird_food_items, forge:seeds
+Unknown, betterend:shadow_plant, 2173, Shadow Plant, forge:compostable, c:compostable
+Unknown, betterend:small_amaranita_mushroom, 2202, Small Amaranita Mushroom, forge:compostable, c:compostable
+Unknown, betterend:small_jellyshroom, 2199, Small Jellyshroom, forge:compostable, c:compostable
+Unknown, betterend:tail_moss, 2254, Tail Moss, forge:compostable, c:compostable
+Unknown, betterend:tenanea_flowers, 2029, Tenanea Flowers, forge:compostable, c:compostable
+Unknown, betterend:tenanea_sapling, 2027, Tenanea Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:tube_worm, 2257, Tube Worm, forge:compostable, c:compostable
+Unknown, betterend:twisted_moss, 2256, Twisted Moss, forge:compostable, c:compostable
+Unknown, betterend:twisted_umbrella_moss, 2176, Twisted Umbrella Moss, forge:compostable, c:compostable
+Unknown, betterend:twisted_umbrella_moss_tall, 2177, Twisted Umbrella Moss Tall, forge:compostable, c:compostable
+Unknown, betterend:twisted_vine, 2262, Twisted Vine, forge:compostable, c:compostable
+Unknown, betterend:umbrella_moss, 2167, Umbrella Moss, forge:compostable, c:compostable
+Unknown, betterend:umbrella_moss_tall, 2168, Tall Umbrella Moss, forge:compostable, c:compostable
+Unknown, betterend:umbrella_tree_sapling, 2083, Umbrella Tree Sapling, c:saplings, alexsmobs:elephant_foodstuffs, forge:compostable, hexerei:herbs, supplementaries:flower_box_plantable, c:compostable, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, betterend:vaiolush_fern, 2181, Vaiolush Fern, forge:compostable, c:compostable
+Unknown, biomesoplenty:algal_end_stone, 18763, Algal End Stone, 
+Unknown, biomesoplenty:barley, 19033, Barley, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:blue_hydrangea, 19006, Blue Hydrangea, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Unknown, biomesoplenty:brimstone_cluster, 18752, Brimstone Cluster, 
+Unknown, biomesoplenty:cattail, 19035, Cattail, forge:cattail, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:clover, 19022, Clover, forge:clover, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:cypress_sapling, 18788, Cypress Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, sereneseasons:summer_crops, minecraft:saplings
+Unknown, biomesoplenty:dead_sapling, 18924, Dead Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable, sereneseasons:winter_crops, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:empyreal_sapling, 18985, Empyreal Sapling, minecraft:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:winter_crops, quark:seed_pouch_holdable, sereneseasons:summer_crops, sereneseasons:spring_crops, sereneseasons:autumn_crops, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items
+Unknown, biomesoplenty:eyebulb, 18742, Eyebulb, 
+Unknown, biomesoplenty:fir_sapling, 18794, Fir Sapling, sereneseasons:autumn_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable, alexsmobs:elephant_foodstuffs, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, c:saplings, minecraft:saplings, hexerei:herbs, quark:seed_pouch_holdable
+Unknown, biomesoplenty:flesh_tendons, 18740, Flesh Tendons, 
+Unknown, biomesoplenty:flesh_tendons_strand, 18741, Flesh Tendons Strand, 
+Unknown, biomesoplenty:flowering_oak_sapling, 18786, Flowering Oak Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:summer_crops, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:glowing_moss_block, 18774, Glowing Moss Block, 
+Unknown, biomesoplenty:glowshroom, 18772, Glowshroom, farmersdelight:cabbage_roll_ingredients, sereneseasons:winter_crops, sereneseasons:autumn_crops, quark:seed_pouch_holdable, forge:mushrooms, supplementaries:flower_box_plantable, sereneseasons:summer_crops, sereneseasons:spring_crops
+Unknown, biomesoplenty:glowworm_silk, 18776, Glowworm Silk, minecraft:trim_materials
+Unknown, biomesoplenty:glowworm_silk_strand, 18777, Glowworm Silk Strand, 
+Unknown, biomesoplenty:goldenrod, 19008, Goldenrod, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Unknown, biomesoplenty:hanging_cobweb, 18779, Hanging Cobweb, 
+Unknown, biomesoplenty:hanging_cobweb_strand, 18780, Hanging Cobweb Strand, 
+Unknown, biomesoplenty:hellbark_sapling, 18970, Hellbark Sapling, minecraft:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:winter_crops, quark:seed_pouch_holdable, sereneseasons:summer_crops, sereneseasons:spring_crops, sereneseasons:autumn_crops, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items
+Unknown, biomesoplenty:high_grass, 19020, High Grass, 
+Unknown, biomesoplenty:high_grass_plant, 19021, High Grass Plant, 
+Unknown, biomesoplenty:icy_iris, 19013, Icy Iris, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, toughasnails:thermoregulator_cooling_fuel
+Unknown, biomesoplenty:jacaranda_sapling, 18876, Jacaranda Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:summer_crops, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:lumaloop, 19031, Lumaloop, 
+Unknown, biomesoplenty:lumaloop_plant, 19032, Lumaloop Plant, 
+Unknown, biomesoplenty:magic_sapling, 18940, Magic Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:summer_crops, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:mahogany_sapling, 18861, Mahogany Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, sereneseasons:summer_crops, minecraft:saplings
+Unknown, biomesoplenty:mossy_black_sand, 18723, Mossy Black Sand, botania:disposable, supplementaries:hourglass_sands, minecraft:smelts_to_glass, minecraft:sand
+Unknown, biomesoplenty:null_block, 18766, ?????, 
+Unknown, biomesoplenty:null_plant, 18768, ??? ?????, 
+Unknown, biomesoplenty:orange_maple_sapling, 18827, Orange Maple Sapling, hexerei:herbs, c:saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, biomesoplenty:origin_grass_block, 18783, Origin Grass Block, 
+Unknown, biomesoplenty:origin_sapling, 18784, Origin Sapling, minecraft:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:winter_crops, quark:seed_pouch_holdable, sereneseasons:summer_crops, sereneseasons:spring_crops, sereneseasons:autumn_crops, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items
+Unknown, biomesoplenty:palm_sapling, 18891, Palm Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, sereneseasons:summer_crops, minecraft:saplings
+Unknown, biomesoplenty:pine_sapling, 18809, Pine Sapling, sereneseasons:autumn_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable, alexsmobs:elephant_foodstuffs, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, c:saplings, minecraft:saplings, hexerei:herbs, quark:seed_pouch_holdable
+Unknown, biomesoplenty:rainbow_birch_sapling, 18792, Rainbow Birch Sapling, minecraft:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:winter_crops, quark:seed_pouch_holdable, sereneseasons:summer_crops, sereneseasons:spring_crops, sereneseasons:autumn_crops, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items
+Unknown, biomesoplenty:red_maple_sapling, 18824, Red Maple Sapling, hexerei:herbs, c:saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, biomesoplenty:redwood_sapling, 18846, Redwood Sapling, sereneseasons:autumn_crops, supplementaries:flower_box_plantable, alexsmobs:elephant_foodstuffs, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, c:saplings, minecraft:saplings, sereneseasons:summer_crops, hexerei:herbs, quark:seed_pouch_holdable
+Unknown, biomesoplenty:reed, 19036, Reed, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:sea_oats, 19034, Sea Oats, 
+Unknown, biomesoplenty:snowblossom_sapling, 18790, Snowblossom Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable, sereneseasons:winter_crops, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:spanish_moss, 18908, Spanish Moss, 
+Unknown, biomesoplenty:spanish_moss_plant, 18909, Spanish Moss Plant, 
+Unknown, biomesoplenty:tall_lavender, 19003, Tall Lavender, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, minecraft:flowers/lavender, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables
+Unknown, biomesoplenty:tall_white_lavender, 19005, Tall White Lavender, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Unknown, biomesoplenty:toadstool, 18770, Toadstool, farmersdelight:cabbage_roll_ingredients, sereneseasons:winter_crops, sereneseasons:autumn_crops, quark:seed_pouch_holdable, forge:mushrooms, supplementaries:flower_box_plantable, sereneseasons:summer_crops, sereneseasons:spring_crops
+Unknown, biomesoplenty:umbran_sapling, 18955, Umbran Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable, sereneseasons:winter_crops, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:watergrass, 19037, Watergrass, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:white_petals, 19012, White Petals, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:wildflower, 19007, Wildflower, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, biomesoplenty:willow_sapling, 18906, Willow Sapling, c:saplings, alexsmobs:elephant_foodstuffs, hexerei:herbs, sereneseasons:summer_crops, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, sereneseasons:spring_crops, minecraft:saplings, quark:seed_pouch_holdable
+Unknown, biomesoplenty:yellow_maple_sapling, 18830, Yellow Maple Sapling, hexerei:herbs, c:saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, blue_skies:bluebright_sapling, 20520, Bluebright Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:brewberry_bush, 20523, Brewberry Bush, supplementaries:flower_box_plantable
+Unknown, blue_skies:brumble, 20513, Brumble, supplementaries:flower_box_plantable
+Unknown, blue_skies:brumble_vine_top, 20514, Brumble Vine, supplementaries:flower_box_plantable
+Unknown, blue_skies:comet_grass, 20644, Comet Grass, 
+Unknown, blue_skies:comet_leaves, 20647, Comet Leaves, hexerei:herbs, minecraft:leaves, alexsmobs:gorilla_foodstuffs, minecraft:completes_find_tree_tutorial, c:leaves, alexsmobs:elephant_foodstuffs
+Unknown, blue_skies:comet_sapling, 20653, Comet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:crescent_fruit_leaves, 20657, Crescent Fruit Leaves, hexerei:herbs, minecraft:leaves, alexsmobs:gorilla_foodstuffs, minecraft:completes_find_tree_tutorial, c:leaves, alexsmobs:elephant_foodstuffs
+Unknown, blue_skies:crescent_fruit_sapling, 20656, Crescent Fruit Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:cryo_root, 20281, Cryo Root, quark:seed_pouch_holdable, forge:crops, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, blue_skies:crystal_flower, 20586, Crystal Flower, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, blue_skies:crystal_sand, 20627, Crystal Sand, forge:sand, botania:disposable, supplementaries:hourglass_sands, minecraft:sand
+Unknown, blue_skies:dusk_sapling, 20593, Dusk Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:fiery_bean_seeds, 20476, Fiery Bean Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, minecraft:villager_plantable_seeds, blue_skies:drops/lunar_grass, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, naturalist:bird_food_items, forge:seeds
+Unknown, blue_skies:frostbright_sapling, 20522, Frostbright Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:lunar_comet_grass_block, 20646, Comet Grass Block, 
+Unknown, blue_skies:lunar_grass, 20567, Lunar Grass, supplementaries:flower_box_plantable
+Unknown, blue_skies:lunar_grass_block, 20569, Lunar Grass Block, 
+Unknown, blue_skies:lunar_sapling, 20592, Lunar Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:maple_sapling, 20594, Maple Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:midnight_sand, 20552, Midnight Sand, forge:sand, botania:disposable, supplementaries:hourglass_sands, minecraft:sand
+Unknown, blue_skies:pine_fruit_seeds, 20478, Pine Fruit Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, minecraft:villager_plantable_seeds, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, forge:seeds, naturalist:bird_food_items, blue_skies:drops/turquoise_grass
+Unknown, blue_skies:scalefruit_seeds, 20477, Scalefruit Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, minecraft:villager_plantable_seeds, blue_skies:drops/lunar_grass, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, naturalist:bird_food_items, forge:seeds
+Unknown, blue_skies:sea_moss, 20510, Sea Moss, 
+Unknown, blue_skies:sea_moss_block, 20511, Sea Moss Block, 
+Unknown, blue_skies:snowcap_mushroom, 20525, Snowcap Mushroom, quark:seed_pouch_holdable, forge:mushrooms, farmersdelight:cabbage_roll_ingredients, supplementaries:flower_box_plantable
+Unknown, blue_skies:snowcap_pinhead, 20524, Snowcap Pinhead, quark:seed_pouch_holdable, forge:mushrooms, farmersdelight:cabbage_roll_ingredients, supplementaries:flower_box_plantable
+Unknown, blue_skies:solnut, 20280, Solnut, quark:seed_pouch_holdable, forge:crops, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, blue_skies:starlit_sapling, 20521, Starlit Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, blue_skies:turquoise_comet_grass_block, 20645, Comet Grass Block, 
+Unknown, blue_skies:turquoise_grass, 20484, Turquoise Grass, supplementaries:flower_box_plantable
+Unknown, blue_skies:turquoise_grass_block, 20486, Turquoise Grass Block, 
+Unknown, blue_skies:winter_leaf_seeds, 20475, Winter Leaf Seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, minecraft:villager_plantable_seeds, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, forge:seeds, naturalist:bird_food_items, blue_skies:drops/turquoise_grass
+Unknown, born_in_chaos_v1:river_mint, 26497, River Mint, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, botania:black_double_flower, 3408, Tall Mystical Black Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:black_mushroom, 3392, Black Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/black, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:black_mystical_flower, 3328, Mystical Black Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:black_petal, 3783, Mystical Black Petal, botania:petals, botania:petals/black
+Unknown, botania:black_shiny_flower, 3344, Glimmering Black Flower, 
+Unknown, botania:blue_double_flower, 3417, Tall Mystical Blue Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:blue_mushroom, 3401, Blue Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/blue, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:blue_mystical_flower, 3337, Mystical Blue Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:blue_petal, 3792, Mystical Blue Petal, botania:petals/blue, botania:petals
+Unknown, botania:blue_shiny_flower, 3353, Glimmering Blue Flower, 
+Unknown, botania:brown_double_flower, 3409, Tall Mystical Brown Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:brown_mushroom, 3393, Brown Shimmering Mushroom, supplementaries:flower_box_plantable, quark:seed_pouch_holdable, botania:petals/brown, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:brown_mystical_flower, 3329, Mystical Brown Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:brown_petal, 3784, Mystical Brown Petal, botania:petals/brown, botania:petals
+Unknown, botania:brown_shiny_flower, 3345, Glimmering Brown Flower, 
+Unknown, botania:cyan_double_flower, 3415, Tall Mystical Cyan Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:cyan_mushroom, 3399, Cyan Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals/cyan, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:cyan_mystical_flower, 3335, Mystical Cyan Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:cyan_petal, 3790, Mystical Cyan Petal, botania:petals, botania:petals/cyan
+Unknown, botania:cyan_shiny_flower, 3351, Glimmering Cyan Flower, 
+Unknown, botania:gray_double_flower, 3407, Tall Mystical Gray Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:gray_mushroom, 3391, Gray Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals/gray, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:gray_mystical_flower, 3327, Mystical Gray Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:gray_petal, 3782, Mystical Gray Petal, botania:petals, botania:petals/gray
+Unknown, botania:gray_shiny_flower, 3343, Glimmering Gray Flower, 
+Unknown, botania:green_double_flower, 3414, Tall Mystical Green Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:green_mushroom, 3398, Green Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/green, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:green_mystical_flower, 3334, Mystical Green Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:green_petal, 3789, Mystical Green Petal, botania:petals, botania:petals/green
+Unknown, botania:green_shiny_flower, 3350, Glimmering Green Flower, 
+Unknown, botania:light_blue_double_flower, 3416, Tall Mystical Light Blue Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:light_blue_mushroom, 3400, Light Blue Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:petals/light_blue, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:light_blue_mystical_flower, 3336, Mystical Light Blue Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:light_blue_petal, 3791, Mystical Light Blue Petal, botania:petals, botania:petals/light_blue
+Unknown, botania:light_blue_shiny_flower, 3352, Glimmering Light Blue Flower, 
+Unknown, botania:light_gray_double_flower, 3406, Tall Mystical Light Gray Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:light_gray_mushroom, 3390, Light Gray Shimmering Mushroom, botania:petals/light_gray, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:light_gray_mystical_flower, 3326, Mystical Light Gray Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:light_gray_petal, 3781, Mystical Light Gray Petal, botania:petals/light_gray, botania:petals
+Unknown, botania:light_gray_shiny_flower, 3342, Glimmering Light Gray Flower, 
+Unknown, botania:lime_double_flower, 3413, Tall Mystical Lime Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:lime_mushroom, 3397, Lime Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals/lime, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:lime_mystical_flower, 3333, Mystical Lime Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:lime_petal, 3788, Mystical Lime Petal, botania:petals, botania:petals/lime
+Unknown, botania:lime_shiny_flower, 3349, Glimmering Lime Flower, 
+Unknown, botania:magenta_double_flower, 3419, Tall Mystical Magenta Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:magenta_mushroom, 3403, Magenta Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/magenta, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:magenta_mystical_flower, 3339, Mystical Magenta Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:magenta_petal, 3794, Mystical Magenta Petal, botania:petals, botania:petals/magenta
+Unknown, botania:magenta_shiny_flower, 3355, Glimmering Magenta Flower, 
+Unknown, botania:orange_double_flower, 3411, Tall Mystical Orange Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:orange_mushroom, 3395, Orange Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, botania:petals/orange, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:orange_mystical_flower, 3331, Mystical Orange Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:orange_petal, 3786, Mystical Orange Petal, botania:petals, botania:petals/orange
+Unknown, botania:orange_shiny_flower, 3347, Glimmering Orange Flower, 
+Unknown, botania:pink_double_flower, 3420, Tall Mystical Pink Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:pink_mushroom, 3404, Pink Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/pink, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:pink_mystical_flower, 3340, Mystical Pink Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:pink_petal, 3795, Mystical Pink Petal, botania:petals, botania:petals/pink
+Unknown, botania:pink_shiny_flower, 3356, Glimmering Pink Flower, 
+Unknown, botania:purple_double_flower, 3418, Tall Mystical Purple Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:purple_mushroom, 3402, Purple Shimmering Mushroom, botania:petals/purple, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:purple_mystical_flower, 3338, Mystical Purple Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:purple_petal, 3793, Mystical Purple Petal, botania:petals, botania:petals/purple
+Unknown, botania:purple_shiny_flower, 3354, Glimmering Purple Flower, 
+Unknown, botania:red_double_flower, 3410, Tall Mystical Red Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:red_mushroom, 3394, Red Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, botania:petals/red, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:red_mystical_flower, 3330, Mystical Red Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:red_petal, 3785, Mystical Red Petal, botania:petals, botania:petals/red
+Unknown, botania:red_shiny_flower, 3346, Glimmering Red Flower, 
+Unknown, botania:red_string_fertilizer, 3548, Red Stringed Nutrifier, 
+Unknown, botania:white_double_flower, 3405, Tall Mystical White Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:white_mushroom, 3389, White Shimmering Mushroom, botania:petals/white, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:white_mystical_flower, 3325, Mystical White Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:white_petal, 3780, Mystical White Petal, botania:petals, botania:petals/white
+Unknown, botania:white_shiny_flower, 3341, Glimmering White Flower, 
+Unknown, botania:yellow_double_flower, 3412, Tall Mystical Yellow Flower, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, botania:double_mystical_flowers
+Unknown, botania:yellow_mushroom, 3396, Yellow Shimmering Mushroom, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, forge:mushrooms, botania:petals/yellow, botania:shimmering_mushrooms, botania:petals, farmersdelight:cabbage_roll_ingredients
+Unknown, botania:yellow_mystical_flower, 3332, Mystical Yellow Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, botania:mystical_flowers, alexsmobs:hummingbird_breedables
+Unknown, botania:yellow_petal, 3787, Mystical Yellow Petal, botania:petals, botania:petals/yellow
+Unknown, botania:yellow_shiny_flower, 3348, Glimmering Yellow Flower, 
+Unknown, buncha_flowers:black_peony, 1320, Black Peony, 
+Unknown, buncha_flowers:black_rose_bush, 1299, Black Rose Bush, 
+Unknown, buncha_flowers:blue_lilac, 1314, Blue Lilac, 
+Unknown, buncha_flowers:blue_peony, 1321, Blue Peony, 
+Unknown, buncha_flowers:blue_rose_bush, 1300, Blue Rose Bush, 
+Unknown, buncha_flowers:burgundy_rose_bush, 1301, Burgundy Rose Bush, 
+Unknown, buncha_flowers:coral_rose_bush, 1302, Coral Rose Bush, 
+Unknown, buncha_flowers:cream_rose_bush, 1303, Cream Rose Bush, 
+Unknown, buncha_flowers:dark_pink_peony, 1322, Dark pink Peony, 
+Unknown, buncha_flowers:dark_pink_rose_bush, 1304, Dark pink Rose Bush, 
+Unknown, buncha_flowers:fuschia_peony, 1323, Fuschia Peony, 
+Unknown, buncha_flowers:green_rose_bush, 1305, Green Rose Bush, 
+Unknown, buncha_flowers:light_pink_lilac, 1315, Light pink Lilac, 
+Unknown, buncha_flowers:light_purple_lilac, 1316, Light purple Lilac, 
+Unknown, buncha_flowers:magenta_peony, 1324, Magenta Peony, 
+Unknown, buncha_flowers:orange_rose_bush, 1306, Orange Rose Bush, 
+Unknown, buncha_flowers:pastel_blue_peony, 1325, Pastel blue Peony, 
+Unknown, buncha_flowers:peach_peony, 1326, Peach Peony, 
+Unknown, buncha_flowers:peach_rose_bush, 1307, Peach Rose Bush, 
+Unknown, buncha_flowers:pink_rose_bush, 1308, Pink Rose Bush, 
+Unknown, buncha_flowers:plum_lilac, 1317, Plum Lilac, 
+Unknown, buncha_flowers:purple_peony, 1327, Purple Peony, 
+Unknown, buncha_flowers:purple_rose_bush, 1309, Purple Rose Bush, 
+Unknown, buncha_flowers:rainbow_rose_bush, 1310, Rainbow Rose Bush, 
+Unknown, buncha_flowers:red_peony, 1328, Red Peony, 
+Unknown, buncha_flowers:salmon_rose_bush, 1311, Salmon Rose Bush, 
+Unknown, buncha_flowers:spring_pink_peony, 1329, Spring pink Peony, 
+Unknown, buncha_flowers:violet_lilac, 1318, Violet Lilac, 
+Unknown, buncha_flowers:white_lilac, 1319, White Lilac, 
+Unknown, buncha_flowers:white_peony, 1330, White Peony, 
+Unknown, buncha_flowers:white_rose_bush, 1312, White Rose Bush, 
+Unknown, buncha_flowers:yellow_peony, 1331, Yellow Peony, 
+Unknown, buncha_flowers:yellow_rose_bush, 1313, Yellow Rose Bush, 
+Unknown, callfromthedepth_:deepflower, 26986, Depths Tulip, 
+Unknown, chipped:blobby_moss_block, 8918, Blobby Moss Block, chipped:moss_block
+Unknown, chipped:blue_moss_block, 8919, Blue Moss Block, chipped:moss_block
+Unknown, chipped:brown_mushroom_bulb, 8866, Brown Mushroom Bulb, chipped:brown_mushroom
+Unknown, chipped:brown_mushroom_bushel, 8867, Brown Mushroom Bushel, chipped:brown_mushroom
+Unknown, chipped:brown_mushroom_cluster, 8868, Brown Mushroom Cluster, chipped:brown_mushroom
+Unknown, chipped:brown_mushroom_trio, 8869, Brown Mushroom Trio, chipped:brown_mushroom
+Unknown, chipped:bulbed_brown_mushroom, 8858, Bulbed Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:bulbed_red_mushroom, 8872, Bulbed Red Mushroom, chipped:red_mushroom
+Unknown, chipped:button_brown_mushroom, 8859, Button Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:button_red_mushroom, 8873, Button Red Mushroom, chipped:red_mushroom
+Unknown, chipped:clustered_brown_mushroom, 8860, Clustered Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:clustered_red_mushroom, 8874, Clustered Red Mushroom, chipped:red_mushroom
+Unknown, chipped:crunchy_moss_block, 8920, Crunchy Moss Block, chipped:moss_block
+Unknown, chipped:double_brown_mushroom, 8861, Double Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:double_red_mushroom, 8875, Double Red Mushroom, chipped:red_mushroom
+Unknown, chipped:franken_brown_mushroom, 8862, Franken Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:franken_red_mushroom, 8876, Franken Red Mushroom, chipped:red_mushroom
+Unknown, chipped:hooded_brown_mushroom, 8863, Hooded Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:hooded_red_mushroom, 8877, Hooded Red Mushroom, chipped:red_mushroom
+Unknown, chipped:lime_moss_block, 8921, Lime Moss Block, chipped:moss_block
+Unknown, chipped:micro_brown_mushroom, 8864, Micro Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:micro_red_mushroom, 8878, Micro Red Mushroom, chipped:red_mushroom
+Unknown, chipped:mini_brown_mushroom, 8865, Mini Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:mini_red_mushroom, 8879, Mini Red Mushroom, chipped:red_mushroom
+Unknown, chipped:old_moss_block, 8922, Old Moss Block, chipped:moss_block
+Unknown, chipped:red_moss_block, 8923, Red Moss Block, chipped:moss_block
+Unknown, chipped:red_mushroom_bulb, 8880, Red Mushroom Bulb, chipped:red_mushroom
+Unknown, chipped:red_mushroom_bushel, 8881, Red Mushroom Bushel, chipped:red_mushroom
+Unknown, chipped:red_mushroom_cluster, 8882, Red Mushroom Cluster, chipped:red_mushroom
+Unknown, chipped:red_mushroom_trio, 8883, Red Mushroom Trio, chipped:red_mushroom
+Unknown, chipped:smooth_moss_block, 8924, Smooth Moss Block, chipped:moss_block
+Unknown, chipped:spongy_moss_block, 8925, Spongy Moss Block, chipped:moss_block
+Unknown, chipped:sprinkled_moss_block, 8926, Sprinkled Moss Block, chipped:moss_block
+Unknown, chipped:umbrella_brown_mushroom, 8870, Umbrella Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:umbrella_red_mushroom, 8884, Umbrella Red Mushroom, chipped:red_mushroom
+Unknown, chipped:wicked_brown_mushroom, 8871, Wicked Brown Mushroom, chipped:brown_mushroom
+Unknown, chipped:wicked_red_mushroom, 8885, Wicked Red Mushroom, chipped:red_mushroom
+Unknown, chipped:yellow_moss_block, 8927, Yellow Moss Block, chipped:moss_block
+Unknown, croptopia:almond_sapling, 19661, Almond Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:almond_saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, forge:saplings/almond, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:apple_sapling, 19662, Apple Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:saplings/apple, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings, forge:apple_saplings
+Unknown, croptopia:apricot_sapling, 19664, Apricot Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, forge:apricot_saplings, forge:saplings/apricot, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:artichoke_seed, 19545, Artichoke Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, forge:artichoke_seeds, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, forge:seeds/artichoke
+Unknown, croptopia:asparagus_seed, 19547, Asparagus Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, forge:seeds/asparagus, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:asparagus_seeds, botania:seed_apothecary_reagent
+Unknown, croptopia:avocado_sapling, 19666, Avocado Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:saplings/avocado, quark:seed_pouch_holdable, forge:avocado_saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:banana_sapling, 19668, Banana Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:banana_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, forge:saplings/banana, minecraft:saplings
+Unknown, croptopia:barley_seed, 19549, Barley Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/barley, botania:seed_apothecary_reagent, forge:barley_seeds
+Unknown, croptopia:basil_seed, 19551, Basil Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, forge:seeds/basil, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:basil_seeds, botania:seed_apothecary_reagent
+Unknown, croptopia:bellpepper_seed, 19553, Bell Pepper Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, forge:bellpepper_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/bellpepper, botania:seed_apothecary_reagent
+Unknown, croptopia:blackbean_seed, 19555, Black Bean Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/blackbean, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, forge:blackbean_seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:blackberry_seed, 19557, Blackberry Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, forge:seeds/blackberry, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:blackberry_seeds, botania:seed_apothecary_reagent
+Unknown, croptopia:blueberry_seed, 19559, Blueberry Seeds, forge:seeds/blueberry, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, forge:blueberry_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, alexsmobs:blue_jay_alert_foods
+Unknown, croptopia:broccoli_seed, 19561, Broccoli Seeds, croptopia:advancements_seeds, forge:seeds/broccoli, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, forge:broccoli_seeds, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:cabbage_seed, 19563, Cabbage Seeds, croptopia:advancements_seeds, forge:seeds/cabbage, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, forge:cabbage_seeds, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops
+Unknown, croptopia:cantaloupe_seed, 19565, Cantaloupe Seeds, alexsmobs:blue_jay_alert_foods, forge:cantaloupe_seeds, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/cantaloupe, botania:seed_apothecary_reagent
+Unknown, croptopia:cashew_sapling, 19670, Cashew Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, forge:cashew_saplings, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings/cashew, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:cauliflower_seed, 19567, Cauliflower Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:cauliflower_seeds, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/cauliflower, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:celery_seed, 19569, Celery Seeds, croptopia:advancements_seeds, forge:celery_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/celery, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops
+Unknown, croptopia:cherry_sapling, 19672, Cherry Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:cherry_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, forge:saplings/cherry, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:chile_pepper_seed, 19571, Chile Pepper Seeds, alexsmobs:blue_jay_alert_foods, sereneseasons:autumn_crops, naturalist:bird_food_items, minecraft:villager_plantable_seeds, forge:chile_pepper_seeds, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/chilepepper, botania:seed_apothecary_reagent
+Unknown, croptopia:cinnamon_sapling, 19716, Cinnamon Sapling, forge:saplings/cinnamon, minecraft:saplings, croptopia:advancements_saplings, alexsmobs:elephant_foodstuffs, forge:saplings, quark:seed_pouch_holdable, hexerei:herbs, forge:cinnamon_saplings, c:saplings, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items
+Unknown, croptopia:coconut_sapling, 19674, Coconut Sapling, croptopia:advancements_saplings, forge:coconut_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:saplings/coconut, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:coffee_seed, 19573, Coffee Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, sereneseasons:summer_crops, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, quark:seed_pouch_holdable, forge:coffee_seeds, forge:seeds, hexerei:herbs, forge:seeds/coffee_beans, minecraft:villager_plantable_seeds
+Unknown, croptopia:corn_seed, 19575, Corn Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:corn_seeds, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/corn, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:cranberry_seed, 19577, Cranberry Seeds, alexsmobs:blue_jay_alert_foods, forge:seeds/cranberry, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, forge:cranberry_seeds, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent
+Unknown, croptopia:cucumber_seed, 19579, Cucumber Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/cucumber, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:cucumber_seeds, forge:seeds
+Unknown, croptopia:currant_seed, 19581, Currant Seeds, croptopia:advancements_seeds, hexerei:herbs, forge:currant_seeds, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/currant, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:date_sapling, 19676, Date Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:saplings/date, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, forge:date_saplings, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:dragonfruit_sapling, 19678, Dragon Fruit Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:saplings/dragonfruit, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings, forge:dragonfruit_saplings
+Unknown, croptopia:eggplant_seed, 19583, Eggplant Seeds, croptopia:advancements_seeds, forge:eggplant_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, forge:seeds/eggplant
+Unknown, croptopia:elderberry_seed, 19585, Elderberry Seeds, forge:elderberry_seeds, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/elderberry, botania:seed_apothecary_reagent, alexsmobs:blue_jay_alert_foods
+Unknown, croptopia:fig_sapling, 19680, Fig Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:saplings/fig, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:fig_saplings, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:garlic_seed, 19587, Garlic Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:garlic_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:seeds/garlic, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops
+Unknown, croptopia:ginger_seed, 19589, Ginger Seeds, alexsmobs:blue_jay_alert_foods, forge:ginger_seeds, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/ginger, botania:seed_apothecary_reagent
+Unknown, croptopia:grape_seed, 19591, Grape Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:grape_seeds, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/grape, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:grapefruit_sapling, 19682, Grapefruit Sapling, forge:grapefruit_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, forge:saplings/grapefruit, supplementaries:flower_box_plantable, minecraft:saplings, croptopia:advancements_saplings
+Unknown, croptopia:greenbean_seed, 19593, Green Bean Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, forge:greenbean_seeds, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:seeds/greenbean, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:greenonion_seed, 19595, Green Onion Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, sereneseasons:summer_crops, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:greenonion_seeds, quark:seed_pouch_holdable, forge:seeds, forge:seeds/greenonion, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, croptopia:honeydew_seed, 19597, Honeydew Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/honeydew, forge:honeydew_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:hops_seed, 19599, Hops Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:seeds/hops, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:hops_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:kale_seed, 19601, Kale Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, forge:seeds/kale, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:kale_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:kiwi_seed, 19603, Kiwi Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/kiwi, forge:kiwi_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:kumquat_sapling, 19684, Kumquat Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:saplings/kumquat, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, forge:kumquat_saplings, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:leek_seed, 19605, Leek Seeds, croptopia:advancements_seeds, hexerei:herbs, forge:seeds/leek, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:leek_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops
+Unknown, croptopia:lemon_sapling, 19686, Lemon Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:lemon_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, forge:saplings/lemon, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:lettuce_seed, 19607, Lettuce Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:lettuce_seeds, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops, forge:seeds/lettuce
+Unknown, croptopia:lime_sapling, 19688, Lime Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, forge:lime_saplings, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, forge:saplings/lime, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:mango_sapling, 19690, Mango Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:saplings/mango, forge:mango_saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:mustard_seed, 19609, Mustard Seeds, alexsmobs:blue_jay_alert_foods, forge:mustard_seeds, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, forge:seeds/mustard, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent
+Unknown, croptopia:nectarine_sapling, 19692, Nectarine Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, forge:saplings/nectarine, supplementaries:flower_box_plantable, forge:nectarine_saplings, minecraft:saplings
+Unknown, croptopia:nutmeg_sapling, 19694, Nutmeg Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:nutmeg_saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, forge:saplings/nutmeg, minecraft:saplings
+Unknown, croptopia:oat_seed, 19611, Oats Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, forge:oat_seeds, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/oat, botania:seed_apothecary_reagent
+Unknown, croptopia:olive_seed, 19613, Olive Seeds, forge:olive_seeds, forge:seeds/olive, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, croptopia:advancements_seeds
+Unknown, croptopia:onion_seed, 19615, Onion Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:onion_seeds, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, forge:seeds/onion
+Unknown, croptopia:orange_sapling, 19696, Orange Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, forge:orange_saplings, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, forge:saplings/orange, minecraft:saplings
+Unknown, croptopia:peach_sapling, 19698, Peach Sapling, croptopia:advancements_saplings, forge:peach_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, forge:saplings/peach, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:peanut_seed, 19617, Peanut Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:peanut_seeds, sereneseasons:autumn_crops, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds/peanut, forge:seeds
+Unknown, croptopia:pear_sapling, 19700, Pear Sapling, croptopia:advancements_saplings, forge:saplings/pear, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:pear_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:pecan_sapling, 19702, Pecan Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:pecan_saplings, forge:saplings, forge:saplings/pecan, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:pepper_seed, 19619, Pepper Seeds, alexsmobs:crow_foodstuffs, forge:seeds/pepper, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, croptopia:advancements_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:pepper_seeds, quark:seed_pouch_holdable, forge:seeds, hexerei:herbs, alexsmobs:blue_jay_alert_foods, minecraft:villager_plantable_seeds
+Unknown, croptopia:persimmon_sapling, 19704, Persimmon Sapling, croptopia:advancements_saplings, c:saplings, forge:saplings/persimmon, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:persimmon_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:pineapple_seed, 19621, Pineapple Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:pineapple_seeds, naturalist:bird_food_items, alexsmobs:blue_jay_alert_foods, alexsmobs:jerboa_begs_for, c:seeds, forge:seeds/pineapple, forge:seeds
+Unknown, croptopia:plum_sapling, 19706, Plum Sapling, croptopia:advancements_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, forge:plum_saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, forge:saplings/plum, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, croptopia:radish_seed, 19623, Radish Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/radish, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, forge:radish_seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, sereneseasons:spring_crops
+Unknown, croptopia:raspberry_seed, 19625, Raspberry Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:raspberry_seeds, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds, forge:seeds/raspberry
+Unknown, croptopia:rhubarb_seed, 19627, Rhubarb Seeds, croptopia:advancements_seeds, forge:seeds/rhubarb, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, sereneseasons:winter_crops, alexsmobs:blue_jay_alert_foods, forge:seeds, forge:rhubarb_seeds
+Unknown, croptopia:rice_seed, 19629, Rice Seeds, croptopia:advancements_seeds, forge:seeds/rice, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, forge:rice_seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:rutabaga_seed, 19631, Rutabaga Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, forge:seeds/rutabaga, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, alexsmobs:jerboa_begs_for, naturalist:bird_food_items, c:seeds, sereneseasons:winter_crops, forge:rutabaga_seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:saguaro_seed, 19633, Saguaro Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:saguaro_seeds, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/saguaro, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:soybean_seed, 19635, Soybean Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, croptopia:advancements_seeds, forge:seeds, hexerei:herbs, forge:seeds/soybean, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, forge:soybean_seeds
+Unknown, croptopia:spinach_seed, 19637, Spinach Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, forge:spinach_seeds, forge:seeds/spinach, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, quark:seed_pouch_holdable, forge:seeds, sereneseasons:spring_crops, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, croptopia:squash_seed, 19639, Squash Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:squash_seeds, forge:seeds/squash, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, sereneseasons:winter_crops, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:starfruit_sapling, 19708, Star Fruit Sapling, croptopia:advancements_saplings, forge:starfruit_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, supplementaries:flower_box_plantable, forge:saplings/starfruit, minecraft:saplings
+Unknown, croptopia:strawberry_seed, 19641, Strawberry Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, forge:seeds/strawberry, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:strawberry_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:sweetpotato_seed, 19643, Sweet Potato Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, sereneseasons:autumn_crops, alexsmobs:jerboa_begs_for, naturalist:bird_food_items, forge:sweetpotato_seeds, quark:seed_pouch_holdable, forge:seeds/sweetpotato, forge:seeds, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, croptopia:tea_seed, 19645, Tea Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, croptopia:advancements_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, forge:seeds/tea_leaves, quark:seed_pouch_holdable, forge:seeds, forge:tea_seeds, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, croptopia:tomatillo_seed, 19647, Tomatillo Seeds, croptopia:advancements_seeds, hexerei:herbs, sereneseasons:summer_crops, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, forge:tomatillo_seeds, forge:seeds/tomatillo, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, c:seeds, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:tomato_seed, 19649, Tomato Seeds, alexsmobs:blue_jay_alert_foods, forge:tomato_seeds, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:seeds/tomato, botania:seed_apothecary_reagent
+Unknown, croptopia:turmeric_seed, 19651, Turmeric Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, forge:turmeric_seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, forge:seeds/turmeric
+Unknown, croptopia:turnip_seed, 19653, Turnip Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, forge:turnip_seeds, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, sereneseasons:winter_crops, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, forge:seeds/turnip
+Unknown, croptopia:vanilla_seeds, 19655, Vanilla Seeds, alexsmobs:crow_foodstuffs, alexsmobs:blue_jay_alert_foods, c:seeds, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, croptopia:advancements_seeds, naturalist:bird_food_items, alexsmobs:jerboa_begs_for, quark:seed_pouch_holdable, forge:seeds/vanilla, forge:seeds, forge:vanilla_seeds, hexerei:herbs, minecraft:villager_plantable_seeds
+Unknown, croptopia:walnut_sapling, 19710, Walnut Sapling, forge:walnut_saplings, c:saplings, sereneseasons:summer_crops, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, villagersplus:flower_tub_small_plantable_items, hexerei:herbs, forge:saplings, forge:saplings/walnut, supplementaries:flower_box_plantable, minecraft:saplings, croptopia:advancements_saplings
+Unknown, croptopia:yam_seed, 19657, Yam Seeds, croptopia:advancements_seeds, hexerei:herbs, botania:seed_apothecary_reagent, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, alexsmobs:crow_foodstuffs, minecraft:villager_plantable_seeds, forge:seeds/yam, alexsmobs:jerboa_begs_for, naturalist:bird_food_items, c:seeds, forge:yam_seeds, sereneseasons:winter_crops, alexsmobs:blue_jay_alert_foods, forge:seeds
+Unknown, croptopia:zucchini_seed, 19659, Zucchini Seeds, alexsmobs:blue_jay_alert_foods, naturalist:bird_food_items, minecraft:villager_plantable_seeds, sereneseasons:summer_crops, c:seeds, forge:seeds/zucchini, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, croptopia:advancements_seeds, alexsmobs:blue_jay_foodstuffs, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, forge:zucchini_seeds, botania:seed_apothecary_reagent
+Unknown, deep_aether:aether_moss_block, 21928, Aether Moss Block, aether:treated_as_aether_item
+Unknown, deep_aether:blue_roseroot_sapling, 21754, Blue Roseroot Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deep_aether:conberry_sapling, 21810, Conberry Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deep_aether:cruderoot_sapling, 21793, Cruderoot Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deep_aether:feather_grass, 21731, Feather Grass, aether:treated_as_aether_item
+Unknown, deep_aether:glowing_spores, 21721, Luminescent Spores, aether:treated_as_aether_item
+Unknown, deep_aether:golden_flower, 21887, Golden Flower, minecraft:flowers, hexerei:herbs, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, aether:treated_as_aether_item, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, deep_aether:golden_heights_grass_block, 21724, Golden Grass Block, aether:treated_as_aether_item
+Unknown, deep_aether:goldenleaf_berries, 21696, Goldenleaf Berries, minecraft:fox_food, forge:fruits, forge:berries, sullysmod:tortoise_food, aether:treated_as_aether_item
+Unknown, deep_aether:lightcap_mushrooms, 21755, Lightcap Mushrooms, aether:treated_as_aether_item
+Unknown, deep_aether:medium_golden_grass, 21729, Medium Golden Grass, aether:treated_as_aether_item
+Unknown, deep_aether:mini_golden_grass, 21727, Mini Golden Grass, aether:treated_as_aether_item
+Unknown, deep_aether:roseroot_sapling, 21751, Roseroot Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deep_aether:short_golden_grass, 21728, Short Golden Grass, aether:treated_as_aether_item
+Unknown, deep_aether:squash_seeds, 21702, Squash Seeds, quark:seed_pouch_holdable, aether:treated_as_aether_item
+Unknown, deep_aether:sunroot_sapling, 21827, Sunroot Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deep_aether:tall_aether_cattails, 21886, Tall Aether Cattails, aether:treated_as_aether_item
+Unknown, deep_aether:yagroot_sapling, 21773, Yagroot Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, aether:treated_as_aether_item, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, deeperdarker:bloom_berries, 24647, Bloom Berries, forge:berries, minecraft:fox_food, forge:fruits, sullysmod:tortoise_food
+Unknown, deeperdarker:echo_sapling, 24706, Echo Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, deeperdarker:gloomy_sculk, 24784, Gloomy Sculk, 
+Unknown, deeperdarker:glowing_roots, 24811, Glowing Roots, 
+Unknown, deeperdarker:sculk_tendrils, 24809, Sculk Tendrils, createaddition:plants
+Unknown, deeperdarker:sculk_vines, 24810, Sculk Vines, createaddition:plants
+Unknown, delightful:cantaloupe_seeds, 29743, Cantaloupe Seeds, forge:cantaloupe_seeds, botania:seed_apothecary_reagent, naturalist:bird_food_items, forge:seeds, sereneseasons:summer_crops, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, c:seeds, hexerei:herbs, alexsmobs:jerboa_begs_for, alexsmobs:blue_jay_alert_foods, forge:seeds/cantaloupe
+Unknown, delightful:mini_melon, 29741, Mini Melon, 
+Unknown, delightful:salmonberry_pips, 29684, Salmonberry Pips, hexerei:herbs, alexsmobs:blue_jay_alert_foods, alexsmobs:blue_jay_foodstuffs, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent, sereneseasons:summer_crops, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, c:seeds, naturalist:bird_food_items, forge:seeds/salmonberry, forge:seeds
+Unknown, delightful:wild_salmonberries, 29685, Wild Salmonberries, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, dungeonnowloading:moss, 6513, Moss, 
+Unknown, ends_delight:chorus_succulent, 23880, Chorus Succulent, 
+Unknown, enlightened_end:azure_berry_vine_0, 15725, Azure Berry Vine, 
+Unknown, enlightened_end:azure_berry_vine_1, 15726, Azure Berry Vine, 
+Unknown, enlightened_end:bouncling_nut_0, 15724, Bouncer  Nut, 
+Unknown, enlightened_end:cerulean_grass, 15496, Cerulean Grass, 
+Unknown, enlightened_end:cerulean_vine_tip, 15704, Cerulean Vines, 
+Unknown, enlightened_end:closed_odd_roots, 15415, Odd Roots, 
+Unknown, enlightened_end:cradling_flower, 15495, Cradling Flower, 
+Unknown, enlightened_end:elevibloom_0, 15739, Elevibloom, 
+Unknown, enlightened_end:elevibloom_1, 15740, Elevibloom, 
+Unknown, enlightened_end:elevibloom_2, 15741, Elevibloom, 
+Unknown, enlightened_end:ennegel_fern, 15479, Ennegel Fern, 
+Unknown, enlightened_end:glowseep, 15518, Glowseep, 
+Unknown, enlightened_end:indigo_eylium, 15476, Indigo Eylium, 
+Unknown, enlightened_end:indigo_roots, 15477, Indigo Roots, 
+Unknown, enlightened_end:indigo_sprouts, 15478, Indigo Sprouts, 
+Unknown, enlightened_end:open_odd_roots, 15416, Blossoming Odd Roots, 
+Unknown, enlightened_end:springleaf, 15480, Springleaf, 
+Unknown, enlightened_end:underlily, 15494, Underlily, 
+Unknown, farmersdelight:brown_mushroom_colony, 23779, Brown Mushroom Colony, alexsmobs:tusklin_foodstuffs, autumnity:snail_snacks, createaddition:plants, supplementaries:flower_box_plantable
+Unknown, farmersdelight:cabbage_seeds, 23786, Cabbage Seeds, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, spawn:ant_feeds, spawn:hamster_tempts, minecraft:villager_plantable_seeds, alexsmobs:blue_jay_alert_foods, c:seeds, alexsmobs:jerboa_begs_for, forge:cabbage_seeds, hexerei:herbs, botania:seed_apothecary_reagent, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, forge:seeds/cabbage, sereneseasons:autumn_crops, forge:seeds, sereneseasons:winter_crops
+Unknown, farmersdelight:onion, 23783, Onion, forge:onions, tconstruct:seeds, forge:vegetables/onion, forge:crops/onion, forge:crops, quark:seed_pouch_holdable, sereneseasons:autumn_crops, forge:vegetables, minecraft:villager_plantable_seeds, sereneseasons:spring_crops, hexerei:herbs, realmrpg_quests:quests/cook/soup_ingredients, croptopiadelight:onion
+Unknown, farmersdelight:red_mushroom_colony, 23780, Red Mushroom Colony, alexsmobs:tusklin_breedables, autumnity:snail_snacks, createaddition:plants, supplementaries:flower_box_plantable
+Unknown, farmersdelight:rice, 23785, Rice, sereneseasons:autumn_crops, forge:rice, forge:crops/rice, botania:seed_apothecary_reagent, forge:rice_seeds, forge:grain, forge:grain/rice, naturalist:bird_food_items, quark:seed_pouch_holdable, alexsmobs:blue_jay_foodstuffs, hexerei:herbs, alexsmobs:jerboa_begs_for, croptopiadelight:rice, c:seeds, forge:seeds/rice, sereneseasons:summer_crops, alexsmobs:shrimp_rice_fryables, forge:crops, alexsmobs:blue_jay_alert_foods, alexsmobs:crow_foodstuffs, forge:seeds
+Unknown, farmersdelight:sandy_shrub, 23771, Sandy Shrub, farmersdelight:straw_plants, createaddition:plants
+Unknown, farmersdelight:tomato_seeds, 23787, Tomato Seeds, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, spawn:ant_feeds, spawn:hamster_tempts, minecraft:villager_plantable_seeds, alexsmobs:blue_jay_alert_foods, c:seeds, forge:tomato_seeds, alexsmobs:jerboa_begs_for, hexerei:herbs, botania:seed_apothecary_reagent, sereneseasons:summer_crops, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, forge:seeds/tomato, easy_villagers:invalid_farmer_crop, forge:seeds
+Unknown, farmersdelight:wild_beetroots, 23777, Sea Beet, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, farmersdelight:wild_cabbages, 23772, Wild Cabbage, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, farmersdelight:wild_carrots, 23775, Wild Carrot, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, farmersdelight:wild_onions, 23773, Wild Onion, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, farmersdelight:wild_potatoes, 23776, Wild Potato, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, farmersdelight:wild_rice, 23778, Wild Rice, minecraft:flowers, hexerei:herbs, minecraft:tall_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, farmersdelight:wild_crops
+Unknown, farmersdelight:wild_tomatoes, 23774, Tomato Shrub, minecraft:flowers, hexerei:herbs, farmersdelight:wild_crops, villagersplus:flower_tub_small_plantable_items, minecraft:small_flowers, supplementaries:flower_box_plantable, alexsmobs:tarantula_hawk_foodstuffs, alexsmobs:hummingbird_breedables
+Unknown, feywild:autumn_tree_sapling, 21094, Autumn Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, feywild:blossom_tree_sapling, 21146, Blossom Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, feywild:fey_mushroom, 20960, Fey Mushroom, 
+Unknown, feywild:hexen_tree_sapling, 21172, Hexen Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, feywild:mandrake_crop_seed, 20957, Mandrake Seed, 
+Unknown, feywild:spring_tree_sapling, 21043, Spring Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, feywild:summer_tree_sapling, 21069, Summer Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, feywild:winter_tree_sapling, 21121, Winter Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, galosphere:bowl_lichen, 7390, Bowl Lichen, quark:seed_pouch_holdable, frycooks_delight:burns_to_morsel
+Unknown, galosphere:lichen_cordyceps, 7327, Lichen Cordyceps, 
+Unknown, graveyard:tg_grass_block, 18410, Grass Block, 
+Unknown, graveyard:tg_moss_block, 18408, Moss Block, 
+Unknown, hauntedharvest:kernels, 23124, Kernels, alexsmobs:crow_foodstuffs, quark:seed_pouch_holdable, spawn:ant_feeds, spawn:hamster_tempts, minecraft:villager_plantable_seeds, alexsmobs:blue_jay_alert_foods, c:seeds, forge:corn_seeds, forge:seeds/corn, alexsmobs:jerboa_begs_for, hexerei:herbs, botania:seed_apothecary_reagent, sereneseasons:summer_crops, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, sereneseasons:autumn_crops, forge:seeds
+Unknown, hexerei:belladonna_plant, 20232, Belladonna Plant, hexerei:herbs
+Unknown, hexerei:mahogany_sapling, 20175, Mahogany Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, hexerei:mandrake_plant, 20231, Mandrake Plant, hexerei:herbs
+Unknown, hexerei:mugwort_bush, 20233, Mugwort Bush, hexerei:herbs
+Unknown, hexerei:sage_seed, 20034, Sage Seeds, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, alexsmobs:blue_jay_alert_foods, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, alexsmobs:jerboa_begs_for, c:seeds, hexerei:herbs, quark:seed_pouch_holdable, forge:seeds
+Unknown, hexerei:willow_sapling, 20199, Willow Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, hexerei:willow_vines, 20190, Willow Vines, hexerei:herbs
+Unknown, hexerei:witch_hazel_sapling, 20222, Witch Hazel Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, hexerei:yellow_dock_bush, 20234, Yellow Dock Bush, hexerei:herbs
+Unknown, lost_aether_content:crystal_sapling, 21612, Crystal Sapling, aether_redux:blue_crystal_saplings
+Unknown, lost_aether_content:holiday_sapling, 21613, Holiday Sapling, 
+Unknown, netherexp:blue_scale_fungus, 16541, Blue Scale Fungus, 
+Unknown, netherexp:carved_sorrowsquash, 16441, Carved Sorrowsquash, 
+Unknown, netherexp:crimson_sporeshroom, 16546, Crimson Sporeshroom, 
+Unknown, netherexp:ghoul_o_lantern, 16442, Ghoul o'Lantern, 
+Unknown, netherexp:igneous_reeds, 16499, Igneous Reeds, 
+Unknown, netherexp:red_scale_fungus, 16540, Red Scale Fungus, 
+Unknown, netherexp:smokestalk, 16500, Smokestalk, 
+Unknown, netherexp:sorrowsquash, 16440, Sorrowsquash, 
+Unknown, netherexp:soul_swirls, 16427, Soul Swirls, 
+Unknown, netherexp:twisting_ivy, 16539, Twisting Ivy, 
+Unknown, netherexp:warped_sporeshroom, 16547, Warped Sporeshroom, 
+Unknown, netherexp:weeping_ivy, 16538, Weeping Ivy, 
+Unknown, nethersdelight:crimson_fungus_colony, 28606, Crimson Fungus Colony, 
+Unknown, nethersdelight:propelplant_cane, 28613, Propelplant Cane, 
+Unknown, nethersdelight:warped_fungus_colony, 28607, Warped Fungus Colony, 
+Unknown, outer_end:azure_berries, 15829, Azure Berries, supplementaries:flower_box_plantable
+Unknown, outer_end:azure_bud, 15772, Azure Bud, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, phantasm:acidic_nihilium, 7173, Acidic Nihilium, 
+Unknown, phantasm:dragon_mint, 7175, Dragon Mint, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, phantasm:dralgae, 7177, Dralgae, 
+Unknown, phantasm:hanging_pream_leaves, 7156, Hanging Pream Leaves, 
+Unknown, phantasm:oblivine, 7167, Oblivine, 
+Unknown, phantasm:pream_sapling, 7166, Pream Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, phantasm:vivid_nihilium, 7170, Vivid Nihilium, 
+Unknown, quark:ancient_sapling, 28671, Ashen Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, quark:blue_blossom_sapling, 28727, Frosty Trumpet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, quark:chorus_twist, 28741, Chorus Twist, 
+Unknown, quark:chorus_weeds, 28740, Chorus Weeds, 
+Unknown, quark:glow_lichen_growth, 28877, Glow Lichen Growth, 
+Unknown, quark:glow_shroom, 28873, Glow Shroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, quark:glow_shroom_feedables, supplementaries:flower_box_plantable
+Unknown, quark:lavender_blossom_sapling, 28729, Serene Trumpet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, quark:orange_blossom_sapling, 28731, Warm Trumpet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, quark:red_blossom_sapling, 28735, Fiery Trumpet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, quark:yellow_blossom_sapling, 28733, Sunny Trumpet Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, rats:marbled_cheese_grass, 22763, Marbled Cheese Grass, 
+Unknown, rats:pirat_sapling, 22769, Ghost Pirat Sapling, 
+Unknown, regions_unexplored:alpha_grass_block, 28130, Alpha Grass Block, minecraft:dirt
+Unknown, regions_unexplored:alpha_sapling, 27963, Alpha Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:apple_oak_leaves, 28060, Apple Oak Leaves, hexerei:herbs, minecraft:leaves, alexsmobs:gorilla_foodstuffs, minecraft:completes_find_tree_tutorial, c:leaves, alexsmobs:elephant_foodstuffs
+Unknown, regions_unexplored:apple_oak_sapling, 27964, Apple Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:argillite_grass_block, 27887, Argillite Grass Block, minecraft:dirt
+Unknown, regions_unexplored:ashen_sapling, 27962, Ashen Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:bamboo_log, 28054, Bamboo Log, minecraft:logs, minecraft:completes_find_tree_tutorial, regions_unexplored:bamboo_logs, minecraft:logs_that_burn, regions_unexplored:logs, minecraft:bamboo_blocks
+Unknown, regions_unexplored:bamboo_sapling, 27965, Bamboo Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:baobab_sapling, 27966, Baobab Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:blackwood_sapling, 27967, Blackwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:bladed_grass, 27893, Bladed Grass, 
+Unknown, regions_unexplored:blue_bioshroom, 28031, Blue Bioshroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, regions_unexplored:bioshrooms, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:blue_magnolia_flowers, 27934, Blue Magnolia Flowers, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:blue_magnolia_sapling, 27984, Blue Magnolia Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:brimsprout_nylium, 28500, Brimsprout Nylium, 
+Unknown, regions_unexplored:brimwood_sapling, 27988, Brimwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:cactus_flower, 27968, Cactus Flower, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:chalk_grass_block, 28132, Chalk Grass Block, minecraft:dirt
+Unknown, regions_unexplored:clover, 27933, Clover, forge:clover
+Unknown, regions_unexplored:cobalt_nylium, 28504, Cobalt Nylium, 
+Unknown, regions_unexplored:cobalt_sapling, 27989, Cobalt Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:cypress_sapling, 27970, Cypress Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:day_lily, 27961, Day Lily, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Unknown, regions_unexplored:dead_pine_sapling, 27971, Dead Pine Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:dead_sapling, 27972, Dead Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:deepslate_grass_block, 27889, Deepslate Grass Block, minecraft:dirt
+Unknown, regions_unexplored:deepslate_prismoss, 27877, Deepslate Prismoss, minecraft:dirt
+Unknown, regions_unexplored:deepslate_viridescent_nylium, 27891, Deepslate Viridescent Nylium, minecraft:dirt
+Unknown, regions_unexplored:dropleaf, 27895, Dropleaf, 
+Unknown, regions_unexplored:duskmelon_slice, 28596, Duskmelon Slice, 
+Unknown, regions_unexplored:enchanted_birch_leaf_pile, 27957, Enchanted Birch Leaf Pile, 
+Unknown, regions_unexplored:enchanted_birch_sapling, 27990, Enchanted Birch Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:eucalyptus_sapling, 27973, Eucalyptus Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:flowering_lily_pad, 28045, Flowering Lily Pad, 
+Unknown, regions_unexplored:flowering_sapling, 27974, Flowering Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:glistering_ivy, 28507, Glistering Ivy, 
+Unknown, regions_unexplored:glistering_nylium, 28508, Glistering Nylium, 
+Unknown, regions_unexplored:golden_larch_sapling, 27975, Golden Larch Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:green_bioshroom, 28032, Green Bioshroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, regions_unexplored:bioshrooms, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:hanging_earlight_fruit, 28597, Hanging Earlight Fruit, 
+Unknown, regions_unexplored:hyacinth_bloom, 28145, Hyacinth Bloom, regions_unexplored:hyacinth_blooms
+Unknown, regions_unexplored:hyacinth_flowers, 28146, Hyacinth Flowers, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:joshua_sapling, 27976, Joshua Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:kapok_sapling, 27977, Kapok Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:kapok_vines, 28044, Kapok Vines, 
+Unknown, regions_unexplored:larch_sapling, 27978, Larch Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:magnolia_sapling, 27969, Magnolia Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:maple_leaf_pile, 27953, Maple Leaf Pile, 
+Unknown, regions_unexplored:maple_sapling, 27979, Maple Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:mauve_sapling, 27980, Mauve Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:medium_grass, 27899, Medium Grass, regions_unexplored:grass
+Unknown, regions_unexplored:mycotoxic_moss, 28518, Mycotoxic Moss, 
+Unknown, regions_unexplored:orange_coneflower, 27931, Orange Coneflower, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:orange_maple_leaf_pile, 27955, Orange Maple Leaf Pile, 
+Unknown, regions_unexplored:orange_maple_sapling, 27981, Orange Maple Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:palm_sapling, 27982, Palm Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:peat_grass_block, 28116, Peat Grass Block, minecraft:dirt
+Unknown, regions_unexplored:pine_sapling, 27983, Pine Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:pink_bioshroom, 28033, Pink Bioshroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, regions_unexplored:bioshrooms, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:pink_magnolia_flowers, 27935, Pink Magnolia Flowers, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:pink_magnolia_sapling, 27985, Pink Magnolia Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:prismoss, 27876, Prismoss, minecraft:dirt
+Unknown, regions_unexplored:purple_coneflower, 27932, Purple Coneflower, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:red_maple_leaf_pile, 27954, Red Maple Leaf Pile, 
+Unknown, regions_unexplored:red_maple_sapling, 27987, Red Maple Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:redwood_sapling, 27986, Redwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:salmonberry, 28595, Salmonberry, minecraft:fox_food
+Unknown, regions_unexplored:sandy_grass, 27900, Sandy Grass, regions_unexplored:grass
+Unknown, regions_unexplored:silt_grass_block, 28123, Silt Grass Block, minecraft:dirt
+Unknown, regions_unexplored:silver_birch_leaf_pile, 27956, Silver Birch Leaf Pile, 
+Unknown, regions_unexplored:silver_birch_sapling, 27992, Silver Birch Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:small_oak_sapling, 27991, Small Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:socotra_sapling, 27993, Socotra Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:spanish_moss, 28043, Spanish Moss, 
+Unknown, regions_unexplored:steppe_grass, 27902, Steppe Grass, regions_unexplored:grass
+Unknown, regions_unexplored:steppe_shrub, 27903, Steppe Shrub, regions_unexplored:grass
+Unknown, regions_unexplored:stone_bud, 27904, Stone Bud, regions_unexplored:grass
+Unknown, regions_unexplored:stone_grass_block, 27888, Stone Grass Block, minecraft:dirt
+Unknown, regions_unexplored:tassel, 27960, Tassel, supplementaries:flower_box_plantable, minecraft:flowers, villagersplus:flower_tub_tall_plantable_items, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs, minecraft:tall_flowers
+Unknown, regions_unexplored:viridescent_nylium, 27890, Viridescent Nylium, minecraft:dirt
+Unknown, regions_unexplored:white_magnolia_flowers, 27936, White Magnolia Flowers, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, regions_unexplored:white_magnolia_sapling, 27994, White Magnolia Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:willow_sapling, 27995, Willow Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, regions_unexplored:yellow_bioshroom, 28034, Yellow Bioshroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, regions_unexplored:bioshrooms, supplementaries:flower_box_plantable
+Unknown, ribbits:giant_lilypad, 2619, Lush Lily Pad, 
+Unknown, ribbits:swamp_daisy, 2604, Swamp Daisy, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, ribbits:toadstool, 2603, Toadstool, 
+Unknown, ribbits:umbrella_leaf, 2600, Umbrella Leaf, 
+Unknown, supplementaries:flax_seeds, 29599, Flax Seeds, alexsmobs:blue_jay_alert_foods, minecraft:villager_plantable_seeds, naturalist:bird_food_items, forge:seeds/flax, spawn:ant_feeds, supplementaries:flower_box_plantable, c:seeds, sereneseasons:spring_crops, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, alexsmobs:blue_jay_foodstuffs, spawn:hamster_tempts, quark:seed_pouch_holdable, alexsmobs:jerboa_begs_for, botania:seed_apothecary_reagent
+Unknown, supplementaries:wild_flax, 29600, Wild Flax, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, treasure2:strangle_vines, 24043, Strangle Vine, 
+Unknown, twilightdelight:ironwood_sapling, 14815, Ironwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightdelight:mushgloom_colony, 14806, Mushgloom Colony, 
+Unknown, twilightforest:canopy_sapling, 23544, Canopy Tree Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightforest:clover_patch, 23343, Clover Patch, forge:clover, createaddition:plants
+Unknown, twilightforest:darkwood_sapling, 23546, Darkwood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightforest:fallen_leaves, 23250, Fallen Leaves, createaddition:plants
+Unknown, twilightforest:fiddlehead, 23344, Fiddlehead Fern, createaddition:plants, alexscaves:ferns
+Unknown, twilightforest:hollow_oak_sapling, 23547, Robust Twilight Oak Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, twilightforest:banned_uncrafting_ingredients, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, twilightforest:mangrove_sapling, 23545, Mangrove Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightforest:mayapple, 23342, Mayapple, createaddition:plants
+Unknown, twilightforest:mining_sapling, 23550, Miner's Tree Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, twilightforest:banned_uncrafting_ingredients, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, twilightforest:moss_patch, 23341, Moss Patch, 
+Unknown, twilightforest:mushgloom, 23345, Mushgloom, createaddition:plants
+Unknown, twilightforest:rainbow_oak_sapling, 23552, Rainbow Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightforest:root_strand, 23347, Root Strands, createaddition:plants
+Unknown, twilightforest:sorting_sapling, 23551, Sorting Tree Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, twilightforest:banned_uncrafting_ingredients, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, twilightforest:time_sapling, 23548, Tree of Time Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, twilightforest:banned_uncrafting_ingredients, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, twilightforest:torchberry_plant, 23346, Torchberry Plant, createaddition:plants
+Unknown, twilightforest:transformation_sapling, 23549, Tree of Transformation Sapling, hexerei:herbs, c:saplings, villagersplus:flower_tub_small_plantable_items, quark:seed_pouch_holdable, alexsmobs:elephant_foodstuffs, twilightforest:banned_uncrafting_ingredients, supplementaries:flower_box_plantable, minecraft:saplings
+Unknown, twilightforest:twilight_oak_sapling, 23543, Sickly Twilight Oak Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, twilightforest:uberous_soil, 23429, Uberous Soil, 
+Unknown, undergarden:amorous_bristle, 15069, Amorous Bristle, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, undergarden:blisterberry, 14947, Blisterberry, minecraft:fox_food, forge:fruits, forge:berries, sullysmod:tortoise_food, supplementaries:flower_box_plantable
+Unknown, undergarden:blood_mushroom, 15094, Blood Mushroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, supplementaries:flower_box_plantable, autumnity:snail_snacks, undergarden:mushrooms
+Unknown, undergarden:butterbunch, 15071, Butterbunch, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, undergarden:deepturf, 15072, Deepturf, supplementaries:flower_box_plantable
+Unknown, undergarden:deepturf_block, 15049, Deepturf Block, 
+Unknown, undergarden:ditchbulb, 14887, Ditchbulb, realmrpg_skeletons:undergarden_skeleton_drops
+Unknown, undergarden:droopvine_item, 14944, Droopfruit, forge:fruits
+Unknown, undergarden:glitterkelp, 14957, Glitterkelp, 
+Unknown, undergarden:gloomgourd_seeds, 14958, Gloomgourd Seeds, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, botania:seed_apothecary_reagent, alexsmobs:jerboa_begs_for, forge:seeds, alexsmobs:blue_jay_alert_foods, minecraft:villager_plantable_seeds, c:seeds, quark:seed_pouch_holdable, hexerei:herbs, alexsmobs:crow_foodstuffs
+Unknown, undergarden:grongle_sapling, 15132, Grongle Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, undergarden:indigo_mushroom, 15083, Indigo Mushroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, supplementaries:flower_box_plantable, autumnity:snail_snacks, undergarden:mushrooms
+Unknown, undergarden:ink_mushroom, 15090, Ink Mushroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, supplementaries:flower_box_plantable, autumnity:snail_snacks, undergarden:mushrooms
+Unknown, undergarden:miserabell, 15070, Miserabell, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, undergarden:shimmerweed, 15076, Shimmerweed, minecraft:small_flowers, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, minecraft:flowers, alexsmobs:hummingbird_breedables, hexerei:herbs, alexsmobs:tarantula_hawk_foodstuffs
+Unknown, undergarden:smogstem_sapling, 15098, Smogstem Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, undergarden:underbeans, 14945, Underbeans, supplementaries:flower_box_plantable
+Unknown, undergarden:veil_mushroom, 15086, Veiled Mushroom, quark:seed_pouch_holdable, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, supplementaries:flower_box_plantable, autumnity:snail_snacks, undergarden:mushrooms
+Unknown, undergarden:wigglewood_sapling, 15115, Wigglewood Sapling, alexsmobs:elephant_foodstuffs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, villagersplus:flower_tub_small_plantable_items, c:saplings, hexerei:herbs, minecraft:saplings
+Unknown, unusualend:chorus_roots, 17167, Chorus Roots, unusualend:warpable_root
+Unknown, unusualend:endstone_sprouts, 17235, Endstone Sprouts, 
+Unknown, unusualend:gloopilon_bulb, 17448, Gloopilon Bulb, 
+Unknown, unusualend:gloopilon_seeds, 17408, Gloopilon Seeds, alexsmobs:blue_jay_foodstuffs, naturalist:bird_food_items, alexsmobs:blue_jay_alert_foods, botania:seed_apothecary_reagent, alexsmobs:crow_foodstuffs, alexsmobs:jerboa_begs_for, c:seeds, hexerei:herbs, quark:seed_pouch_holdable, forge:seeds
+Unknown, unusualend:purpur_grass, 17233, Chorus Grass, 
+Unknown, unusualend:small_warped_algae, 17354, Small Warped Algae, 
+Unknown, unusualend:small_warped_squash, 17401, Small Warped Squash, 
+Unknown, unusualend:warped_bush, 17359, Warped Bush, 
+Unknown, viavens_flowers:amaranthstage_0, 26736, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_1, 26737, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_2, 26738, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_3, 26739, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_4, 26740, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_5, 26741, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_6, 26742, Amaranthstage 0, 
+Unknown, viavens_flowers:amaranthstage_7, 26743, Amaranthstage 0, 
+Unknown, viavens_flowers:ashlights, 26727, Ashlights, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:bleedingheartspink, 26835, Bleeding Heart Pink, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:bleedingheartsrose, 26834, Bleeding Heart Rose, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:blue_delphinium, 26714, Blue Delphinium, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:bluebell, 26703, Bluebell, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:bluehydrangea, 26808, Blue hydrangea bush, 
+Unknown, viavens_flowers:bluelarkspur, 26763, Purple Larkspur, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:butterflyflower, 26734, Weeping Bells, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:buttonmushroom, 26778, Button mushroom, 
+Unknown, viavens_flowers:glowrose, 26730, Glowrose bundle, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:glowrosebundle, 26729, Glowrose bundle, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:golden_chain_leaves, 26813, Golden Chain Leaves, 
+Unknown, viavens_flowers:golden_chainsapling, 26820, Golden Chain sapling, 
+Unknown, viavens_flowers:goldenrod, 26771, Goldenrod, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:indianpaintbrush, 26840, Indian Paintbrush, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:infritrose, 26728, Infrit Rose, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:lightblue_delphinium, 26713, Light Blue Delphinium, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:magenta_delphinium, 26715, Magenta Delphinium, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:magentafoxglove, 26770, Magenta foxglove, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:mediumcactus, 26720, Mediumi cactus, 
+Unknown, viavens_flowers:minicactus, 26719, Mini cactus, 
+Unknown, viavens_flowers:orange_gladiolus, 26767, Orange Gladiolus, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:orange_yellow_snapdragon, 26717, Orange & Yellow Snapdragon, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:pink_gladiolus, 26766, Pink Gladiolus, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:pinkfoxglove, 26707, Pink foxglove, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:pinkhyacinth, 26710, Pink hyacinth, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:pinkhydrangea, 26809, Pink hydrangea bush, 
+Unknown, viavens_flowers:pinklarkspur, 26764, Pink Larkspur, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purple_gladiolus, 26765, Purple Gladiolus, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purplefoxglove, 26708, Purple foxglove, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purplehyacinth, 26711, Purple hyacinth, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purplehydrangea, 26807, Purple hydrangea bush, 
+Unknown, viavens_flowers:purplelarkspur, 26762, Purple Larkspur, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purrflybundle, 26731, Purrfly bundle, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:purrflyflower, 26732, Purrfly flower, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:reddelphinium, 26769, Red Delphinium, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:redpinksnapdragon, 26718, Red & Pink Snapdragon, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:redpurplesnapdragon, 26842, Red & Purple Snapdragon, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:rspiderlilies, 26723, Red Spider Lilies, 
+Unknown, viavens_flowers:rspiderlily, 26702, Red Spider Lily, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:sandverbana, 26841, Sand Verbana, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:sunsetiris, 26722, Sunset Iris, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:tallgoldenrod, 26845, Tall Goldenrod, 
+Unknown, viavens_flowers:talllavender, 26844, Tall Lavender, 
+Unknown, viavens_flowers:twilight_iris, 26721, Twilight Iris, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:weepingbells, 26733, Weeping Bells, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:whitelarkspur, 26761, White Larkspur, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:whitepink_snapdragon, 26716, White & Pink Snapdragon, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:wisteria_leaves, 26796, Wisteria Leaves, 
+Unknown, viavens_flowers:wisteriasapling, 26806, Wisteria sapling, 
+Unknown, viavens_flowers:wolfsbane, 26704, Wolfsbane, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:yellow_gladiolus, 26768, Yellow Gladiolus, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:yellowfoxglove, 26709, Yellow foxglove, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:yellowhyacinth, 26712, Yellow hyacinth, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+Unknown, viavens_flowers:yucca, 26839, Yucca, minecraft:flowers, alexsmobs:hummingbird_breedables, alexsmobs:tarantula_hawk_foodstuffs, hexerei:herbs, supplementaries:flower_box_plantable
+----------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Tags
+----------------------------------------------------

@@ -1,0 +1,43 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "general_3"
+	group: ""
+	id: "27B821927E7EF8AD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["7DBAECB29521B5CF"]
+		id: "1F47D3DDC489B8B4"
+		rewards: [
+			{
+				id: "691ADB986A585E76"
+				type: "xp_levels"
+				xp_levels: 5
+			}
+			{
+				exclude_from_claim_all: true
+				id: "0A4377E55BEBE495"
+				table_id: 1404902952723356929L
+				type: "random"
+			}
+		]
+		subtitle: "Well done! You have encountered vile beasts, you have tamed the wild and you are a dragon rider!"
+		tasks: [{
+			icon: {
+				Count: 1
+				id: "ageofweapons:dagger_iron"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "55B24135DC4B533B"
+			title: "Complete the category"
+			type: "custom"
+		}]
+		title: "&e&lComplete The Category"
+		x: -0.5d
+		y: 0.0d
+	}]
+	title: "General"
+}

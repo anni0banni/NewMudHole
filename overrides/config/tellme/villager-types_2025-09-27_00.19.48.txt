@@ -1,0 +1,22 @@
+-------------
+Registry name
+-------------
+blue_skies:brightlands
+blue_skies:calming_skies
+blue_skies:crystal_dunes
+blue_skies:shaded_woodlands
+blue_skies:slushlands
+blue_skies:sunset_maple_forest
+blue_skies:unorthodox_valley
+minecraft:desert
+minecraft:jungle
+minecraft:plains
+minecraft:savanna
+minecraft:snow
+minecraft:swamp
+minecraft:taiga
+quark:beach
+quark:ocean
+-------------
+Registry name
+-------------

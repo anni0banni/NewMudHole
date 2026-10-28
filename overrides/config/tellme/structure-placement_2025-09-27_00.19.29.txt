@@ -1,0 +1,15 @@
+-------------
+Registry name
+-------------
+betterdeserttemples:desert_temple
+betterjungletemples:jungle_temple
+betterstrongholds:stronghold
+mes:advanced_random_spread
+minecraft:concentric_rings
+minecraft:random_spread
+structure_gel:grid_placement
+twilightforest:forced_landmark
+yungsapi:enhanced_random_spread
+-------------
+Registry name
+-------------
