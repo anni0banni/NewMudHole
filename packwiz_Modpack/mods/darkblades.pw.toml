@@ -1,0 +1,13 @@
+name = "DarkBlades - RPG End-Game Weapons, Armor, Tools"
+filename = "darkblades-forge-1.20.1-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12f3dfcff6cd64f89f495b5a26f667525cfc97b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5318791
+project-id = 901948

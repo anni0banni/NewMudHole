@@ -1,0 +1,13 @@
+name = "Just Enough Freezes"
+filename = "fastjei-2.2-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4baee0f982f2f04ca06e98073e38138502bba339"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9303970
+project-id = 1617397

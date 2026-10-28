@@ -1,0 +1,13 @@
+name = "What Did I Just Kill?"
+filename = "whatdidijustkill-forge-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71a5814f9ff6163819ade9cf9d09255edadbb9a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6143966
+project-id = 990499

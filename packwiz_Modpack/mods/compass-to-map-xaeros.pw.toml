@@ -1,0 +1,13 @@
+name = "Compass to Map: Xaero's Minimap & Explorer's Compass & Nature's Compass Addon"
+filename = "compasstomapxaeros-0.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd02f9b8af027790ea4e4cd6400d5b7dacc2e151"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8829793
+project-id = 1551920

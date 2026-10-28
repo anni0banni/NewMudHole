@@ -1,0 +1,13 @@
+name = "Spell Power Attributes"
+filename = "spell_power-forge-1.6.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11073d202f70e543d46ceda95e264652ebafd558"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8981606
+project-id = 771265

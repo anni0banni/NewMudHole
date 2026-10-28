@@ -1,0 +1,13 @@
+name = "Sn0wfrog's Capybaras"
+filename = "Sn0wfrog's Capybaras 1.1.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c9ebaaf1f65aec24112fe562a2b83be5b1c0e74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5242016
+project-id = 985441

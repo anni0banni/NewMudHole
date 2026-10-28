@@ -1,0 +1,13 @@
+name = "datapackloaderrorfix"
+filename = "datapackloaderrorfix-forge-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7090fd9add71396c0644e8c9d799fb75a2f858b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7634388
+project-id = 1448825

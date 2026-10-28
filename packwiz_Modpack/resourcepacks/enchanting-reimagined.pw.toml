@@ -1,0 +1,16 @@
+name = "Enchanting Reimagined"
+filename = "§bEnchanting§8-§bReimagined§0_§8[v1.3]§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d36db20442f892fa75897402913b6656f3132aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7010429
+project-id = 547860
+
+[option]
+optional = true

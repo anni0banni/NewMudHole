@@ -1,0 +1,13 @@
+name = "Shasskor's Pride Bees"
+filename = "Pride-Bees 1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b185a72c8d584f17e31a72a590e690ada02db4a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7824418
+project-id = 701066

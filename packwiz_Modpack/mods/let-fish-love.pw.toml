@@ -1,0 +1,13 @@
+name = "Let Fish Love"
+filename = "letfishlove-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e832e6d400acdc2ac7e0ced344e965cb4ec317c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5657321
+project-id = 941186

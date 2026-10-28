@@ -1,0 +1,16 @@
+name = "Eating Animations More Mod Compatibility [Neo|Forge|Fabric|Vanilla]"
+filename = "§eEatingAnimationsMoreCompat1.20-26.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8a147d25ab0e8e3ad35ca4e8618bcd28f69fddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8883956
+project-id = 1223426
+
+[option]
+optional = true

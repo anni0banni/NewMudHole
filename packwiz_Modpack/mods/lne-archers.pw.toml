@@ -1,0 +1,13 @@
+name = "LNE Archers Add-On"
+filename = "lne_archers-forge-1.2.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3737356f15253b8549caa1edda34f3123aa22b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8934085
+project-id = 1179595

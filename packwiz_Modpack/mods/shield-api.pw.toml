@@ -1,0 +1,13 @@
+name = "Shield API"
+filename = "shield_api-forge-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a45c7f65112d3af17677ad37c607717e0b0ff82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8890500
+project-id = 1048720

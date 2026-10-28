@@ -1,0 +1,13 @@
+name = "Stunning Statues"
+filename = "1.20.1-stunningstatues-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e684a0aef4ec8583150b58a667d9f32d3e547331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6323926
+project-id = 1165678

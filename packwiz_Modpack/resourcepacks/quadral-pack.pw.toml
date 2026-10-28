@@ -1,0 +1,16 @@
+name = "Quadral pack"
+filename = "1.20-Quadral v.6.09.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6a7c07f0e3bcc0f0bfda266fa24e5240120ff8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4730977
+project-id = 280861
+
+[option]
+optional = true

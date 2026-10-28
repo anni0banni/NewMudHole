@@ -1,0 +1,13 @@
+name = "(Bee's) Serified Font"
+filename = "Serified Font v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c9d6510193d0868bde9301c5d04e15537d561d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7094782
+project-id = 882877

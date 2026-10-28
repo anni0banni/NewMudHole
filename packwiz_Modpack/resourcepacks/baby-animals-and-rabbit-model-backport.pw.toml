@@ -1,0 +1,13 @@
+name = "Baby Animals and Rabbit model backport"
+filename = "BabyAnimalBackportV3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c66ce3e0e2fd0c6aa69c105940e9c1265160c6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8734346
+project-id = 1425392

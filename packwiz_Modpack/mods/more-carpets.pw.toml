@@ -1,0 +1,13 @@
+name = "More Carpets - BlackWolf Design"
+filename = "MoreCarpets-1.20.1-1.6.7-[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e93babe67991fa2f04ea13e725a1a3e8f40e5e8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4614827
+project-id = 542538

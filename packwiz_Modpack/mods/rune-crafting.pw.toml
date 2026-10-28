@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-forge-1.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81f5c0bb1c8a29636e6c4c7f3034130155a7b8db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9004322
+project-id = 775518

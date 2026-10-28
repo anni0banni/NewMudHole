@@ -1,0 +1,13 @@
+name = "Haybale-Ported"
+filename = "Haybale-forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e236254adbaa362f7657cfb5e31569e253597df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6353927
+project-id = 1092172

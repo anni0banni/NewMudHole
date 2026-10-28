@@ -1,0 +1,13 @@
+name = "Paladins & Priests (RPG Series)"
+filename = "paladins-forge-3.1.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75a36f6ecc29163b5b6335465d9353bd68e7293a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9004147
+project-id = 856548

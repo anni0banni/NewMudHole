@@ -1,0 +1,16 @@
+name = "Starry GUI and Hotbar"
+filename = "starrygui_2.0_v1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7d7b05df3e237a78d66431d761bc0a669537fa6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6584720
+project-id = 601938
+
+[option]
+optional = true

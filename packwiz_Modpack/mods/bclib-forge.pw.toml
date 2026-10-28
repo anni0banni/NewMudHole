@@ -1,0 +1,13 @@
+name = "BCLib: Before Dawn"
+filename = "BCLib-20.0.16-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "938a51058189c10ac725f55f0485b4ab26966554"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9264596
+project-id = 1435106

@@ -1,0 +1,13 @@
+name = "Blackwolf Library"
+filename = "BlackwolfLibrary-1.20.1-1.0.2-[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38eb38714be36162ed39d9478cbf11ede1f7b00d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592999
+project-id = 855057

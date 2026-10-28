@@ -1,0 +1,13 @@
+name = "Viavens Flowers"
+filename = "viavens_flowers-1.3.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28fb4925074c9df836f150fb23f1a5be9af09f99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8619814
+project-id = 1006590

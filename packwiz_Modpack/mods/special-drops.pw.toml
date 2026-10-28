@@ -1,0 +1,13 @@
+name = "Special Drops"
+filename = "Special Drops 1.0.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "737765ad2c604d36aa5d1722f392899151846744"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5370841
+project-id = 610711

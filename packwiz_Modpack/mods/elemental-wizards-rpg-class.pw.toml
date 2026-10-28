@@ -1,0 +1,13 @@
+name = "Elemental Wizards (RPG Series Plus)"
+filename = "elemental_wizards_rpg-forge-3.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d77bee7db59ea5f085d965a1106295c391acf175"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8933782
+project-id = 1006892

@@ -1,0 +1,16 @@
+name = "GeForceLegend's 3D Default"
+filename = "3D Default 1.20+ v1.16.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a822fd6ecc25fd6e04ede9c2ace414547677258f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8892337
+project-id = 496311
+
+[option]
+optional = true

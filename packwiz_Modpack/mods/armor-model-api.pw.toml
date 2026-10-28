@@ -1,0 +1,13 @@
+name = "Armor Model API"
+filename = "armor_model_api-forge-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5c6613cc3d982fba0e4a378ecbb3ea09d78df23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8853810
+project-id = 1659764

@@ -1,0 +1,13 @@
+name = "LUMINOUS: BUTTERFLIES"
+filename = "Luminous Butterflies V1.2.1 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04b22f91cfa1294ff7702717f4e606abc4dda874"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8145056
+project-id = 1082706

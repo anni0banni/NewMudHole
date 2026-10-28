@@ -1,0 +1,13 @@
+name = "Archers Expansion (RPG Series Plus)"
+filename = "archers_expansion-forge-3.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "209f9493669ce687a98ab6b13a671909f327037e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8933695
+project-id = 1109024

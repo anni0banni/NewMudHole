@@ -1,0 +1,13 @@
+name = "BetterEnd: Before Dawn"
+filename = "BetterEnd-20.0.13-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1a3fe193075cfcf6191558f07b4064154a95209"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9248898
+project-id = 1435127

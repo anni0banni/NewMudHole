@@ -1,0 +1,13 @@
+name = "NewMudHole"
+author = "Herbert"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bfade2c3ab9266003efb20dd1de552b2cee2156ce6e00e32885020ea75b46535"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Bunch'a Flowers"
+filename = "buncha-flowers-1.0.0-1.20.X.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2eaaaf9e93a2adf1b8a831d7031647878ec8a606"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5675147
+project-id = 1078972

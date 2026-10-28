@@ -1,0 +1,13 @@
+name = "Wizards (RPG Series)"
+filename = "wizards-forge-3.1.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1b9046ae11d10d4ed2ef28daeaf5b5a26d60649"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9004144
+project-id = 734325
