@@ -5631,11 +5631,6 @@ hash = "8a2bb37831521a06e723796797baa606c121a721f9e86f4aae4c7ce4ba8a8ea1"
 metafile = true
 
 [[files]]
-file = "mods/smart-particles.pw.toml"
-hash = "d801eb68164bbc00b18bafd0ca7743f02ebafa47e4007dfb8e69d3c040289b85"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
