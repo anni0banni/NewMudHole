@@ -5617,11 +5617,6 @@ hash = "f1d0143e260bc43f592ccf681ab487bfa9579198f426c54c2b0013a2dfdfb449"
 metafile = true
 
 [[files]]
-file = "mods/simply-improved-terrain.pw.toml"
-hash = "5cc19f7784d686af2b18a8f49eb4ce86c0e43298063cdc15867912d16844acd7"
-metafile = true
-
-[[files]]
 file = "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
 hash = "df839af815c55fff84136136bc02868d93771f4a7fcbbf9a9f9d0e04c0d29904"
 
