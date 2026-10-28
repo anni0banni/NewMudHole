@@ -1,9 +1,0 @@
-[
-  {"version":1},
-  {"type":"recipe","value":"minecraft:crafting#supplementaries:wind_vane#item_stack\u0026supplementaries:wind_vane"},
-  {"type":"recipe","value":"minecraft:furnace#dyenamics:aquamarine_glazed_terracotta#item_stack\u0026dyenamics:aquamarine_glazed_terracotta"},
-  {"type":"recipe","value":"minecraft:furnace#minecraft:green_glazed_terracotta#item_stack\u0026minecraft:green_glazed_terracotta"},
-  {"type":"recipe","value":"minecraft:crafting#framedblocks:framed_pyramid#item_stack\u0026framedblocks:framed_pyramid"},
-  {"type":"recipe","value":"minecraft:crafting#framedblocks:framed_divided_panel_vertical#item_stack\u0026framedblocks:framed_divided_panel_vertical"},
-  {"type":"recipe","value":"minecraft:crafting#biomesoplenty:rose_quartz_block#item_stack\u0026biomesoplenty:rose_quartz_block"}
-]
