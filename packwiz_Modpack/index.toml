@@ -3829,6 +3829,14 @@ file = "mods/BuildersDelight-1.20.1-v.1.3.jar"
 hash = "de45e0ed47536a2d08b79049f8223ad94a74bbad6edcd8da9f622686a598bcf4"
 
 [[files]]
+file = "mods/Connector-1.0.0-beta.49+1.20.1.jar"
+hash = "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f"
+
+[[files]]
+file = "mods/ConnectorExtras-1.11.2+1.20.1.jar"
+hash = "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8"
+
+[[files]]
 file = "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
 hash = "85b644b2f6cbcc3a73d240229065692717713e3d2cd2b60cb0c8eea9946f0535"
 
@@ -4313,11 +4321,6 @@ hash = "ecc19205a3523f1d410c75ab03c60e8b7089820a87ad275f36a4a220cc7b6744"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -4464,7 +4467,7 @@ metafile = true
 
 [[files]]
 file = "mods/desktop.ini"
-hash = "47f0093ed72acfbb5339cccb180b8b4d3b7ab37baabf59c036717e69766182a4"
+hash = "d4c5e4048c8cae0dcc884850ff319dd0c170adf721cb3bf13cda9c1aad47beef"
 
 [[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
@@ -4796,9 +4799,8 @@ hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
 
 [[files]]
-file = "mods/gml.pw.toml"
-hash = "961fafdef363b7306dcf437d0a2d4a025a8b17bae688130a88de6dce5b0db099"
-metafile = true
+file = "mods/gml-4.0.11-all.jar"
+hash = "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
 
 [[files]]
 file = "mods/goblin-traders.pw.toml"
@@ -5030,9 +5032,8 @@ hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
-metafile = true
+file = "mods/kotlinforforge-4.12.0-all.jar"
+hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
 file = "mods/legendary-monsters.pw.toml"
@@ -5618,11 +5619,6 @@ metafile = true
 [[files]]
 file = "mods/simply-improved-terrain.pw.toml"
 hash = "5cc19f7784d686af2b18a8f49eb4ce86c0e43298063cdc15867912d16844acd7"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
 metafile = true
 
 [[files]]
