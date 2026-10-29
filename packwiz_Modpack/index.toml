@@ -848,15 +848,6 @@ hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
-file = "mods/fastjei-2.2-all.jar"
-hash = "cd89835c4c0ce887e4e410f05893a4a6b4c6ac9029939db334da28e5e23bc338"
-
-[[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "75dc68e45d7c68af849412a7813d2c87da6b35c5f6205da71fafb6bb249c9f3e"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
