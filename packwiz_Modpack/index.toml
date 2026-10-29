@@ -439,10 +439,6 @@ hash = "1d7ed84fca8518653b68015496a9e3a8ab40d7da18641191dcdddb2664bac9e0"
 metafile = true
 
 [[files]]
-file = "mods/colored-lanterns-0.0.5-1.20.1.jar"
-hash = "e4cb528a6fd72708e2953e1a86530fbbf88d299a3dc2404a8f6cf77ec82c20a2"
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
@@ -842,11 +838,6 @@ hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
 metafile = true
 
 [[files]]
-file = "mods/farsight.pw.toml"
-hash = "2a1777522c2bf7bbe80481c65562e827df85fbcdeaaeb3f56cf29d0c3ae1ee1d"
-metafile = true
-
-[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "46d56c4800527ec88c9825112bfc2b804c9ba878167b918629ae41def14bb166"
 metafile = true
@@ -855,6 +846,10 @@ metafile = true
 file = "mods/fast-paintings.pw.toml"
 hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
+
+[[files]]
+file = "mods/fastjei-2.2-all.jar"
+hash = "cd89835c4c0ce887e4e410f05893a4a6b4c6ac9029939db334da28e5e23bc338"
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
@@ -1152,11 +1147,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "3f66d295d1a661bf711ee4cd3b02402bf697612254a3801e2ac19067c767cdc3"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-freezes.pw.toml"
-hash = "6274e2b280706103afff2ecb71e9ce48d62bdd8be460c0f7512c4e48971d9c0f"
 metafile = true
 
 [[files]]
