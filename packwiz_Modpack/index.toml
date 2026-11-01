@@ -1386,6 +1386,11 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
+file = "mods/more-mc-music-discs.pw.toml"
+hash = "7b651fa79aaa1984b073a93230cc753aab7d0bd5433bce5a7171db0357fd4363"
+metafile = true
+
+[[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "6f8dbef0437c81d94f883fc1077d07c6c6784710ec693daec98202788f4e3098"
 metafile = true
