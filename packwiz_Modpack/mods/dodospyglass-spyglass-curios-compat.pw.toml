@@ -1,13 +1,13 @@
 name = "DodoSpyglass [Spyglass Curios Compat]"
-filename = "DodoSpyglass-1.0.0-1.20.1-forge.jar"
+filename = "dodospyglass-2.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "511bc7a69c44b6b4cce2b201362e295dbf4d6749"
+hash = "2956b7b665f36cf9844a84b883930b2913bec996"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8166927
+file-id = 9363347
 project-id = 1551145

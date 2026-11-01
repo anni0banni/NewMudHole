@@ -1,13 +1,13 @@
 name = "Mebahel's RPG - Villager Quests and Companions"
-filename = "mebahelrpgrquest-3.5.2-fabric-1.20.1.jar"
+filename = "mebahelrpgrquest-3.6.1-fabric-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4645eadaf3eb3e00c830bf5f4fc035ce1c29e80a"
+hash = "a3ee1161d68d29ca08636f46f9cfcd995b816542"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9205118
+file-id = 9394517
 project-id = 1575551

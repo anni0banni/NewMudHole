@@ -1,0 +1,13 @@
+name = "Improved Copper Golem"
+filename = "copper-golem-logistics-patch-1.20.1-1.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8be1c75e6deb15d57a47356e30afce748ed201fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8668029
+project-id = 1647092

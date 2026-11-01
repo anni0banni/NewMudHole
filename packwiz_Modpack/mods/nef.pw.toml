@@ -1,0 +1,13 @@
+name = "Not Enough Flowers"
+filename = "nef-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aiXbhA77/versions/rYPLZVvI/nef-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "eab5eaca862009ba69fc12df56cf073d06a4a16187bd2ac13cb2db9b43161a28d86441925c5f4f37e26ce826470d29e0c1b3873f6d9b24c34d83f66c9a1d830c"
+
+[update]
+[update.modrinth]
+mod-id = "aiXbhA77"
+version = "rYPLZVvI"
