@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/BuildersDelight-1.20.1-v.1.3.jar"
+hash = "de45e0ed47536a2d08b79049f8223ad94a74bbad6edcd8da9f622686a598bcf4"
+
+[[files]]
+file = "mods/JustMoreCakes-forge-1.20.1-1.18.1.jar"
+hash = "b5606be442add14a99304e34b465a7300c43dd71c35205f1fd10a0bfb4f0640b"
+
+[[files]]
+file = "mods/SubtleEffects-forge-1.20.1-1.15.1-hotfix.1.jar"
+hash = "55d3d5531cb50fc33c0e041428b507cbbc92e106a23db2c4ad0b1825f9a82683"
+
+[[files]]
 file = "mods/TATOS 1.0.1_stable.jar"
 hash = "d6aed08203234100e84bedcc065b50ce854a5c8195d47310892305c6a643ec20"
 
@@ -281,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "3cb4af19e3be751330bc3b8123e1268553ca1837676732d58e468dcabcfe5835"
-metafile = true
-
-[[files]]
-file = "mods/builders-delight-forge.pw.toml"
-hash = "e2dcd2b805038ed6599801440c96cc1d0af19347968793c9e0e8225789ad9f78"
 metafile = true
 
 [[files]]
@@ -768,9 +775,8 @@ hash = "1b9247be51ea9de316cbccf8d1c48d39bc68bf9379ec7ee7b36ea8d7ed28fb1a"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "97165653c97b92e8617f4bf86babde39a4575cf807c5d544e6d3366007ef1452"
-metafile = true
+file = "mods/entityculling-forge-1.11.3-mc1.20.1.jar"
+hash = "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66"
 
 [[files]]
 file = "mods/epherolib.pw.toml"
@@ -967,9 +973,8 @@ hash = "5c6ef60627e1129afaf4810f22cea98df6d65728a00e7c81915ef7cc70569e94"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
-metafile = true
+file = "mods/hexerei-0.4.2.3.jar"
+hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/horse-expert.pw.toml"
@@ -1134,11 +1139,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
-metafile = true
-
-[[files]]
-file = "mods/just-more-cakes.pw.toml"
-hash = "572cd4fa05a4ce3c993f5faa7aad54fdc7c3e655635cfaa07e8bd12860bbd59b"
 metafile = true
 
 [[files]]
@@ -1501,14 +1501,13 @@ hash = "b1c940eaff3055d8c353db29844fc208c47bbfcf0f713b99d2e1a941c1d7ed39"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "bf64559fc2362ef8806f0ff06e7af78c7f1a05daf40e5d22a66baed2960db86e"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "232f73206d09fb0c8cac662fb82bbb53367795818ef05f70c290e391a5e4fa03"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-forge-1.12.7-mc1.20.1.jar"
+hash = "e32732b87c6e0cf5031959c5746d1d3e8125dd39a9ba98627a2d2599d4085fb0"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -1606,9 +1605,8 @@ hash = "93e79f423eafdfeb26a0ce9907f4a7dc63b8fdbb2a8702393b24ceec50954d6d"
 metafile = true
 
 [[files]]
-file = "mods/plushie-buddies.pw.toml"
-hash = "54a16f58a85d5e89cc327237cb560115cd73d778f407e88d7458ac6906a41373"
-metafile = true
+file = "mods/plushie_buddies-1.0.2-1.20.1.jar"
+hash = "7abcf56aed4501d2132e5a8ddfbcd176c15570d48494b74f8d5baa4cf395582f"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -1626,14 +1624,13 @@ hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
+
+[[files]]
+file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
 
 [[files]]
 file = "mods/quest-giver.pw.toml"
@@ -1751,9 +1748,8 @@ hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3240b7586c328d4494041cf6e04f17cc6a0cdb6ff3886f80d0e0709aaace382a"
-metafile = true
+file = "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
+hash = "df839af815c55fff84136136bc02868d93771f4a7fcbbf9a9f9d0e04c0d29904"
 
 [[files]]
 file = "mods/sky-villages-forge.pw.toml"
@@ -1853,11 +1849,6 @@ metafile = true
 [[files]]
 file = "mods/stunning-statues.pw.toml"
 hash = "8fd30df23d81d520f924a391907eb1d3dc1578f26b63d1dcc02ae83a6ffbb2c7"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "0e9bd4ab31b319014bb607077da74e8c4bf62fdbd2f15286ed2de0cfe3ce727b"
 metafile = true
 
 [[files]]
@@ -2006,9 +1997,8 @@ hash = "95f8dc729a6862b98f9ed3a7a192c9c9fee42ed1b95b8b41138a298dd6c1c6ae"
 metafile = true
 
 [[files]]
-file = "mods/undergarden-botany-pots-compats.pw.toml"
-hash = "712b034a2125b4cc3c3308b5ded202ebbf0dc3735c08e522b289b42a5110bb69"
-metafile = true
+file = "mods/undergarden_botany_pots_compats-0.3.0.jar"
+hash = "80754f8af9fcf69793753ff0b807f190bcb8481d747b8872f8139d1ee0be89f1"
 
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
@@ -2121,14 +2111,13 @@ hash = "bdea6efdca7bd778a06437a865559c8019f200b798cae419cc37818d6d4f989c"
 metafile = true
 
 [[files]]
-file = "mods/xp-farming.pw.toml"
-hash = "04bd77c08eb0e5e8b95312b091fb3266db92db7567e79029075ad3271e2cad62"
-metafile = true
-
-[[files]]
 file = "mods/xp-storage.pw.toml"
 hash = "95834091e7cb3d7d93f4f945915739f789aea6ebd2ab0d38787dee192241d2f7"
 metafile = true
+
+[[files]]
+file = "mods/xpfarming-1.3.0-forge-1.20.1.jar"
+hash = "91981268f0f97d4064df16f1198bd0233b4bb0bb53af8b4c9b1e819b0dacf685"
 
 [[files]]
 file = "mods/yacl.pw.toml"
