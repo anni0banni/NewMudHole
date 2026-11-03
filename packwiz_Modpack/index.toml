@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "52e85b7f1e87a3431eb16763d8fd480169bb78c0786ae0236bc70a2f0d2f759c"
+hash = "5c7762adbaad52929ac2149670d16ef5379a72fa8508d21cc67abf8089df9fd0"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "1b9247be51ea9de316cbccf8d1c48d39bc68bf9379ec7ee7b36ea8d7ed28fb1a"
+hash = "185797e9f6c75a53c95366b75eb136695c9bed180674a24b02abd377acdf2e82"
 metafile = true
 
 [[files]]
@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6bd9e89474d4fa930d476b89499a02a07f750eec60bb47d4b216254ce48c5efa"
+hash = "2ec43d88a80ffb1f254c8acfb914638dde45c723399a3df32def2d178c4fb5b0"
 metafile = true
 
 [[files]]
@@ -1531,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "b14933e58e98fb9e5ebaa206ba823ccd5bc5d39764a160844d5d4eee59fe5093"
 metafile = true
 
 [[files]]
@@ -1773,7 +1773,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-movement.pw.toml"
-hash = "029fb522b043c3ec0eca84de9aa3afe0355c6a495bcb421d2a4efe1e8957576f"
+hash = "1ea1173dcc9084633a5ed3edb19a49f08b0e266ba2b28b7c700a9e86aa9bcc33"
 metafile = true
 
 [[files]]
@@ -1788,12 +1788,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "03b55b90a7d504904f4062d7a3b84eb4f9ef3866413cb8bc8bc11157594b33f1"
+hash = "7594605b18dad59631897c6360f22ab9507646e2a9c8f22a843f221f74c1c2f5"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "74ffe14cdf53cda677dd8f3d7e9e1c633f23b5901bbe5f3e94bc58cd8820a1a8"
+hash = "8562a9d8dd3634da756d6826aa984b5cbf11e55dff41690658f35968d690cdff"
 metafile = true
 
 [[files]]
