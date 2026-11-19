@@ -1,13 +1,13 @@
 name = "Starlit - Better Sky, Stars, Auroras, Galaxies, Shooting Stars, Planets."
-filename = "starlit-forge-1.1.1+mc1.20.1.jar"
+filename = "starlit-forge-1.2.1-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7ad277782580ad9a8fd775d075c254719701e30e"
+hash = "e629277e1227ada6e133d7dc04e0965ce87c012e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9350184
+file-id = 9646990
 project-id = 1733952
